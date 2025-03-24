@@ -1,0 +1,241 @@
+Products,province,year,avg_total_yearly
+"Eggs, 1 dozen",Alberta,2017,3.53
+"Eggs, 1 dozen",Alberta,2018,3.5075000000000003
+"Eggs, 1 dozen",Alberta,2019,3.580833333333333
+"Eggs, 1 dozen",Alberta,2020,3.8275
+"Eggs, 1 dozen",Alberta,2021,4.019166666666666
+"Eggs, 1 dozen",Alberta,2022,4.3999999999999995
+"Eggs, 1 dozen",Alberta,2023,4.848333333333334
+"Eggs, 1 dozen",Alberta,2024,4.88125
+"Eggs, 1 dozen",British Columbia,2017,3.8625000000000003
+"Eggs, 1 dozen",British Columbia,2018,3.9225
+"Eggs, 1 dozen",British Columbia,2019,4.0325
+"Eggs, 1 dozen",British Columbia,2020,4.364999999999999
+"Eggs, 1 dozen",British Columbia,2021,4.596666666666667
+"Eggs, 1 dozen",British Columbia,2022,4.9366666666666665
+"Eggs, 1 dozen",British Columbia,2023,5.3275
+"Eggs, 1 dozen",British Columbia,2024,5.27875
+"Eggs, 1 dozen",Manitoba,2017,3.2191666666666667
+"Eggs, 1 dozen",Manitoba,2018,3.2475
+"Eggs, 1 dozen",Manitoba,2019,3.283333333333333
+"Eggs, 1 dozen",Manitoba,2020,3.6525
+"Eggs, 1 dozen",Manitoba,2021,3.7466666666666666
+"Eggs, 1 dozen",Manitoba,2022,4.031666666666667
+"Eggs, 1 dozen",Manitoba,2023,4.423333333333333
+"Eggs, 1 dozen",Manitoba,2024,4.5287500000000005
+"Eggs, 1 dozen",New Brunswick,2017,3.3083333333333336
+"Eggs, 1 dozen",New Brunswick,2018,3.4600000000000004
+"Eggs, 1 dozen",New Brunswick,2019,3.5858333333333334
+"Eggs, 1 dozen",New Brunswick,2020,3.9275
+"Eggs, 1 dozen",New Brunswick,2021,4.126666666666666
+"Eggs, 1 dozen",New Brunswick,2022,4.400833333333334
+"Eggs, 1 dozen",New Brunswick,2023,4.536666666666666
+"Eggs, 1 dozen",New Brunswick,2024,4.72875
+"Eggs, 1 dozen",Newfoundland and Labrador,2017,3.4441666666666664
+"Eggs, 1 dozen",Newfoundland and Labrador,2018,3.4283333333333332
+"Eggs, 1 dozen",Newfoundland and Labrador,2019,3.436666666666667
+"Eggs, 1 dozen",Newfoundland and Labrador,2020,3.875
+"Eggs, 1 dozen",Newfoundland and Labrador,2021,4.1466666666666665
+"Eggs, 1 dozen",Newfoundland and Labrador,2022,4.710833333333333
+"Eggs, 1 dozen",Newfoundland and Labrador,2023,4.935833333333334
+"Eggs, 1 dozen",Newfoundland and Labrador,2024,5.07
+"Eggs, 1 dozen",Nova Scotia,2017,3.3200000000000003
+"Eggs, 1 dozen",Nova Scotia,2018,3.4675
+"Eggs, 1 dozen",Nova Scotia,2019,3.5816666666666666
+"Eggs, 1 dozen",Nova Scotia,2020,3.97
+"Eggs, 1 dozen",Nova Scotia,2021,4.24
+"Eggs, 1 dozen",Nova Scotia,2022,4.640833333333333
+"Eggs, 1 dozen",Nova Scotia,2023,4.884166666666666
+"Eggs, 1 dozen",Nova Scotia,2024,5.045
+"Eggs, 1 dozen",Ontario,2017,2.8208333333333333
+"Eggs, 1 dozen",Ontario,2018,3.079166666666667
+"Eggs, 1 dozen",Ontario,2019,3.2225
+"Eggs, 1 dozen",Ontario,2020,3.5833333333333335
+"Eggs, 1 dozen",Ontario,2021,3.9574999999999996
+"Eggs, 1 dozen",Ontario,2022,4.406666666666667
+"Eggs, 1 dozen",Ontario,2023,4.685
+"Eggs, 1 dozen",Ontario,2024,4.69
+"Eggs, 1 dozen",Prince Edward Island,2017,3.2724999999999995
+"Eggs, 1 dozen",Prince Edward Island,2018,3.4266666666666663
+"Eggs, 1 dozen",Prince Edward Island,2019,3.5400000000000005
+"Eggs, 1 dozen",Prince Edward Island,2020,3.94
+"Eggs, 1 dozen",Prince Edward Island,2021,4.2225
+"Eggs, 1 dozen",Prince Edward Island,2022,4.625
+"Eggs, 1 dozen",Prince Edward Island,2023,4.865
+"Eggs, 1 dozen",Prince Edward Island,2024,5.02625
+"Eggs, 1 dozen",Quebec,2017,2.910833333333333
+"Eggs, 1 dozen",Quebec,2018,3.1108333333333333
+"Eggs, 1 dozen",Quebec,2019,3.231666666666667
+"Eggs, 1 dozen",Quebec,2020,3.4774999999999996
+"Eggs, 1 dozen",Quebec,2021,3.7108333333333334
+"Eggs, 1 dozen",Quebec,2022,3.703333333333333
+"Eggs, 1 dozen",Quebec,2023,3.7449999999999997
+"Eggs, 1 dozen",Quebec,2024,3.835
+"Eggs, 1 dozen",Saskatchewan,2017,3.2466666666666666
+"Eggs, 1 dozen",Saskatchewan,2018,3.233333333333333
+"Eggs, 1 dozen",Saskatchewan,2019,3.3800000000000003
+"Eggs, 1 dozen",Saskatchewan,2020,3.69
+"Eggs, 1 dozen",Saskatchewan,2021,3.783333333333333
+"Eggs, 1 dozen",Saskatchewan,2022,4.085833333333333
+"Eggs, 1 dozen",Saskatchewan,2023,4.4750000000000005
+"Eggs, 1 dozen",Saskatchewan,2024,4.535
+"Meatless burgers, 226 grams",Alberta,2017,4.134166666666666
+"Meatless burgers, 226 grams",Alberta,2018,4.319166666666667
+"Meatless burgers, 226 grams",Alberta,2019,5.471666666666667
+"Meatless burgers, 226 grams",Alberta,2020,5.322500000000001
+"Meatless burgers, 226 grams",Alberta,2021,5.545833333333333
+"Meatless burgers, 226 grams",Alberta,2022,5.595
+"Meatless burgers, 226 grams",Alberta,2023,5.857500000000001
+"Meatless burgers, 226 grams",Alberta,2024,6.13
+"Meatless burgers, 226 grams",British Columbia,2017,4.163333333333333
+"Meatless burgers, 226 grams",British Columbia,2018,4.346666666666667
+"Meatless burgers, 226 grams",British Columbia,2019,5.413333333333333
+"Meatless burgers, 226 grams",British Columbia,2020,5.415
+"Meatless burgers, 226 grams",British Columbia,2021,5.760833333333333
+"Meatless burgers, 226 grams",British Columbia,2022,5.805
+"Meatless burgers, 226 grams",British Columbia,2023,6.006666666666667
+"Meatless burgers, 226 grams",British Columbia,2024,6.24625
+"Meatless burgers, 226 grams",Manitoba,2017,4.020833333333333
+"Meatless burgers, 226 grams",Manitoba,2018,4.238333333333333
+"Meatless burgers, 226 grams",Manitoba,2019,5.4383333333333335
+"Meatless burgers, 226 grams",Manitoba,2020,5.371666666666666
+"Meatless burgers, 226 grams",Manitoba,2021,5.616666666666667
+"Meatless burgers, 226 grams",Manitoba,2022,5.601666666666667
+"Meatless burgers, 226 grams",Manitoba,2023,5.7525
+"Meatless burgers, 226 grams",Manitoba,2024,6.10875
+"Meatless burgers, 226 grams",New Brunswick,2017,3.989166666666667
+"Meatless burgers, 226 grams",New Brunswick,2018,4.1175
+"Meatless burgers, 226 grams",New Brunswick,2019,5.179166666666666
+"Meatless burgers, 226 grams",New Brunswick,2020,5.2825
+"Meatless burgers, 226 grams",New Brunswick,2021,5.583333333333333
+"Meatless burgers, 226 grams",New Brunswick,2022,5.7475
+"Meatless burgers, 226 grams",New Brunswick,2023,6.095
+"Meatless burgers, 226 grams",New Brunswick,2024,6.28125
+"Meatless burgers, 226 grams",Newfoundland and Labrador,2017,3.9875000000000003
+"Meatless burgers, 226 grams",Newfoundland and Labrador,2018,4.094166666666667
+"Meatless burgers, 226 grams",Newfoundland and Labrador,2019,5.320833333333334
+"Meatless burgers, 226 grams",Newfoundland and Labrador,2020,5.553333333333334
+"Meatless burgers, 226 grams",Newfoundland and Labrador,2021,5.596666666666667
+"Meatless burgers, 226 grams",Newfoundland and Labrador,2022,5.734166666666667
+"Meatless burgers, 226 grams",Newfoundland and Labrador,2023,6.073333333333333
+"Meatless burgers, 226 grams",Newfoundland and Labrador,2024,6.40875
+"Meatless burgers, 226 grams",Nova Scotia,2017,4.0008333333333335
+"Meatless burgers, 226 grams",Nova Scotia,2018,4.079166666666667
+"Meatless burgers, 226 grams",Nova Scotia,2019,5.2283333333333335
+"Meatless burgers, 226 grams",Nova Scotia,2020,5.396666666666667
+"Meatless burgers, 226 grams",Nova Scotia,2021,5.654166666666666
+"Meatless burgers, 226 grams",Nova Scotia,2022,5.754166666666666
+"Meatless burgers, 226 grams",Nova Scotia,2023,6.0675
+"Meatless burgers, 226 grams",Nova Scotia,2024,6.44375
+"Meatless burgers, 226 grams",Ontario,2017,4.255
+"Meatless burgers, 226 grams",Ontario,2018,4.385
+"Meatless burgers, 226 grams",Ontario,2019,5.398333333333333
+"Meatless burgers, 226 grams",Ontario,2020,5.633333333333333
+"Meatless burgers, 226 grams",Ontario,2021,5.86
+"Meatless burgers, 226 grams",Ontario,2022,5.904166666666666
+"Meatless burgers, 226 grams",Ontario,2023,5.8975
+"Meatless burgers, 226 grams",Ontario,2024,5.94
+"Meatless burgers, 226 grams",Prince Edward Island,2017,3.9916666666666667
+"Meatless burgers, 226 grams",Prince Edward Island,2018,4.135833333333333
+"Meatless burgers, 226 grams",Prince Edward Island,2019,5.281666666666666
+"Meatless burgers, 226 grams",Prince Edward Island,2020,5.483333333333333
+"Meatless burgers, 226 grams",Prince Edward Island,2021,5.6475
+"Meatless burgers, 226 grams",Prince Edward Island,2022,5.759166666666666
+"Meatless burgers, 226 grams",Prince Edward Island,2023,6.05
+"Meatless burgers, 226 grams",Prince Edward Island,2024,6.3825
+"Meatless burgers, 226 grams",Quebec,2017,4.163333333333333
+"Meatless burgers, 226 grams",Quebec,2018,4.379166666666666
+"Meatless burgers, 226 grams",Quebec,2019,5.3808333333333325
+"Meatless burgers, 226 grams",Quebec,2020,5.381666666666667
+"Meatless burgers, 226 grams",Quebec,2021,5.719166666666666
+"Meatless burgers, 226 grams",Quebec,2022,5.865833333333334
+"Meatless burgers, 226 grams",Quebec,2023,6.074166666666667
+"Meatless burgers, 226 grams",Quebec,2024,5.785
+"Meatless burgers, 226 grams",Saskatchewan,2017,4.213333333333334
+"Meatless burgers, 226 grams",Saskatchewan,2018,4.376666666666666
+"Meatless burgers, 226 grams",Saskatchewan,2019,5.496666666666666
+"Meatless burgers, 226 grams",Saskatchewan,2020,5.33
+"Meatless burgers, 226 grams",Saskatchewan,2021,5.4925
+"Meatless burgers, 226 grams",Saskatchewan,2022,5.4750000000000005
+"Meatless burgers, 226 grams",Saskatchewan,2023,5.6883333333333335
+"Meatless burgers, 226 grams",Saskatchewan,2024,6.11875
+"Tofu, 350 grams ",Alberta,2017,2.0633333333333335
+"Tofu, 350 grams ",Alberta,2018,2.0733333333333333
+"Tofu, 350 grams ",Alberta,2019,2.1991666666666667
+"Tofu, 350 grams ",Alberta,2020,2.3225
+"Tofu, 350 grams ",Alberta,2021,2.4325
+"Tofu, 350 grams ",Alberta,2022,2.776666666666667
+"Tofu, 350 grams ",Alberta,2023,2.6833333333333336
+"Tofu, 350 grams ",Alberta,2024,2.62875
+"Tofu, 350 grams ",British Columbia,2017,2.1716666666666664
+"Tofu, 350 grams ",British Columbia,2018,2.165
+"Tofu, 350 grams ",British Columbia,2019,2.2716666666666665
+"Tofu, 350 grams ",British Columbia,2020,2.3775
+"Tofu, 350 grams ",British Columbia,2021,2.515833333333333
+"Tofu, 350 grams ",British Columbia,2022,2.825833333333333
+"Tofu, 350 grams ",British Columbia,2023,2.7825
+"Tofu, 350 grams ",British Columbia,2024,2.73
+"Tofu, 350 grams ",Manitoba,2017,2.0366666666666666
+"Tofu, 350 grams ",Manitoba,2018,2.0241666666666664
+"Tofu, 350 grams ",Manitoba,2019,2.12
+"Tofu, 350 grams ",Manitoba,2020,2.2291666666666665
+"Tofu, 350 grams ",Manitoba,2021,2.3741666666666665
+"Tofu, 350 grams ",Manitoba,2022,2.6675
+"Tofu, 350 grams ",Manitoba,2023,2.5658333333333334
+"Tofu, 350 grams ",Manitoba,2024,2.55875
+"Tofu, 350 grams ",New Brunswick,2017,1.9475
+"Tofu, 350 grams ",New Brunswick,2018,2.1841666666666666
+"Tofu, 350 grams ",New Brunswick,2019,2.2533333333333334
+"Tofu, 350 grams ",New Brunswick,2020,2.268333333333333
+"Tofu, 350 grams ",New Brunswick,2021,2.4741666666666666
+"Tofu, 350 grams ",New Brunswick,2022,2.920833333333333
+"Tofu, 350 grams ",New Brunswick,2023,2.7408333333333332
+"Tofu, 350 grams ",New Brunswick,2024,2.7125
+"Tofu, 350 grams ",Newfoundland and Labrador,2017,1.9658333333333333
+"Tofu, 350 grams ",Newfoundland and Labrador,2018,2.1133333333333333
+"Tofu, 350 grams ",Newfoundland and Labrador,2019,2.1266666666666665
+"Tofu, 350 grams ",Newfoundland and Labrador,2020,2.1374999999999997
+"Tofu, 350 grams ",Newfoundland and Labrador,2021,2.3783333333333334
+"Tofu, 350 grams ",Newfoundland and Labrador,2022,2.8966666666666665
+"Tofu, 350 grams ",Newfoundland and Labrador,2023,2.8225
+"Tofu, 350 grams ",Newfoundland and Labrador,2024,2.80375
+"Tofu, 350 grams ",Nova Scotia,2017,1.8283333333333334
+"Tofu, 350 grams ",Nova Scotia,2018,2.0124999999999997
+"Tofu, 350 grams ",Nova Scotia,2019,1.985
+"Tofu, 350 grams ",Nova Scotia,2020,2.065
+"Tofu, 350 grams ",Nova Scotia,2021,2.2566666666666664
+"Tofu, 350 grams ",Nova Scotia,2022,2.8158333333333334
+"Tofu, 350 grams ",Nova Scotia,2023,2.591666666666667
+"Tofu, 350 grams ",Nova Scotia,2024,2.64625
+"Tofu, 350 grams ",Ontario,2017,1.9083333333333332
+"Tofu, 350 grams ",Ontario,2018,2.1583333333333337
+"Tofu, 350 grams ",Ontario,2019,2.1466666666666665
+"Tofu, 350 grams ",Ontario,2020,2.23
+"Tofu, 350 grams ",Ontario,2021,2.401666666666667
+"Tofu, 350 grams ",Ontario,2022,2.645
+"Tofu, 350 grams ",Ontario,2023,2.6999999999999997
+"Tofu, 350 grams ",Ontario,2024,2.63625
+"Tofu, 350 grams ",Prince Edward Island,2017,1.9024999999999999
+"Tofu, 350 grams ",Prince Edward Island,2018,2.1708333333333334
+"Tofu, 350 grams ",Prince Edward Island,2019,2.2691666666666666
+"Tofu, 350 grams ",Prince Edward Island,2020,2.2783333333333333
+"Tofu, 350 grams ",Prince Edward Island,2021,2.4566666666666666
+"Tofu, 350 grams ",Prince Edward Island,2022,2.8975000000000004
+"Tofu, 350 grams ",Prince Edward Island,2023,2.783333333333333
+"Tofu, 350 grams ",Prince Edward Island,2024,2.66625
+"Tofu, 350 grams ",Quebec,2017,2.14
+"Tofu, 350 grams ",Quebec,2018,2.3958333333333335
+"Tofu, 350 grams ",Quebec,2019,2.375
+"Tofu, 350 grams ",Quebec,2020,2.521666666666667
+"Tofu, 350 grams ",Quebec,2021,2.5375
+"Tofu, 350 grams ",Quebec,2022,2.685
+"Tofu, 350 grams ",Quebec,2023,2.8216666666666668
+"Tofu, 350 grams ",Quebec,2024,2.82625
+"Tofu, 350 grams ",Saskatchewan,2017,2.044166666666667
+"Tofu, 350 grams ",Saskatchewan,2018,2.040833333333333
+"Tofu, 350 grams ",Saskatchewan,2019,2.1491666666666664
+"Tofu, 350 grams ",Saskatchewan,2020,2.2733333333333334
+"Tofu, 350 grams ",Saskatchewan,2021,2.3908333333333336
+"Tofu, 350 grams ",Saskatchewan,2022,2.7241666666666666
+"Tofu, 350 grams ",Saskatchewan,2023,2.5641666666666665
+"Tofu, 350 grams ",Saskatchewan,2024,2.51375

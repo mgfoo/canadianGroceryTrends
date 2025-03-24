@@ -1,0 +1,10 @@
+The required imports for all the py files under the folder 'src'
+
+import os
+import pandas as pd
+import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
+from scipy.stats import ttest_ind, mannwhitneyu, f_oneway, kruskal, pearsonr, spearmanr
+
+from statsmodels.stats.multicomp import pairwise_tukeyhsd

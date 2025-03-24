@@ -1,0 +1,321 @@
+Products,province,year,avg_total_yearly
+"Apple juice, 2 litres",Alberta,2017,2.935833333333333
+"Apple juice, 2 litres",Alberta,2018,2.973333333333333
+"Apple juice, 2 litres",Alberta,2019,2.9575
+"Apple juice, 2 litres",Alberta,2020,2.9091666666666662
+"Apple juice, 2 litres",Alberta,2021,2.9008333333333334
+"Apple juice, 2 litres",Alberta,2022,3.404166666666667
+"Apple juice, 2 litres",Alberta,2023,3.9625
+"Apple juice, 2 litres",Alberta,2024,3.93
+"Apple juice, 2 litres",British Columbia,2017,2.9008333333333334
+"Apple juice, 2 litres",British Columbia,2018,2.9450000000000003
+"Apple juice, 2 litres",British Columbia,2019,2.845
+"Apple juice, 2 litres",British Columbia,2020,2.8958333333333335
+"Apple juice, 2 litres",British Columbia,2021,2.8991666666666664
+"Apple juice, 2 litres",British Columbia,2022,3.361666666666667
+"Apple juice, 2 litres",British Columbia,2023,3.9299999999999997
+"Apple juice, 2 litres",British Columbia,2024,3.95125
+"Apple juice, 2 litres",Manitoba,2017,2.8066666666666666
+"Apple juice, 2 litres",Manitoba,2018,2.763333333333333
+"Apple juice, 2 litres",Manitoba,2019,2.69
+"Apple juice, 2 litres",Manitoba,2020,2.74
+"Apple juice, 2 litres",Manitoba,2021,2.7691666666666666
+"Apple juice, 2 litres",Manitoba,2022,3.2091666666666665
+"Apple juice, 2 litres",Manitoba,2023,3.7291666666666665
+"Apple juice, 2 litres",Manitoba,2024,3.685
+"Apple juice, 2 litres",New Brunswick,2017,3.11
+"Apple juice, 2 litres",New Brunswick,2018,3.09
+"Apple juice, 2 litres",New Brunswick,2019,3.1841666666666666
+"Apple juice, 2 litres",New Brunswick,2020,3.28
+"Apple juice, 2 litres",New Brunswick,2021,3.4175
+"Apple juice, 2 litres",New Brunswick,2022,3.5416666666666665
+"Apple juice, 2 litres",New Brunswick,2023,4.001666666666666
+"Apple juice, 2 litres",New Brunswick,2024,3.88125
+"Apple juice, 2 litres",Newfoundland and Labrador,2017,2.793333333333333
+"Apple juice, 2 litres",Newfoundland and Labrador,2018,2.8775
+"Apple juice, 2 litres",Newfoundland and Labrador,2019,2.955
+"Apple juice, 2 litres",Newfoundland and Labrador,2020,3.2291666666666665
+"Apple juice, 2 litres",Newfoundland and Labrador,2021,3.2608333333333337
+"Apple juice, 2 litres",Newfoundland and Labrador,2022,3.393333333333333
+"Apple juice, 2 litres",Newfoundland and Labrador,2023,3.8275
+"Apple juice, 2 litres",Newfoundland and Labrador,2024,3.5637499999999998
+"Apple juice, 2 litres",Nova Scotia,2017,3.0483333333333333
+"Apple juice, 2 litres",Nova Scotia,2018,3.063333333333333
+"Apple juice, 2 litres",Nova Scotia,2019,3.125
+"Apple juice, 2 litres",Nova Scotia,2020,3.2733333333333334
+"Apple juice, 2 litres",Nova Scotia,2021,3.3699999999999997
+"Apple juice, 2 litres",Nova Scotia,2022,3.473333333333333
+"Apple juice, 2 litres",Nova Scotia,2023,3.954166666666667
+"Apple juice, 2 litres",Nova Scotia,2024,3.81625
+"Apple juice, 2 litres",Ontario,2017,2.6791666666666667
+"Apple juice, 2 litres",Ontario,2018,2.6533333333333333
+"Apple juice, 2 litres",Ontario,2019,2.6533333333333333
+"Apple juice, 2 litres",Ontario,2020,2.7216666666666662
+"Apple juice, 2 litres",Ontario,2021,2.7475
+"Apple juice, 2 litres",Ontario,2022,2.985
+"Apple juice, 2 litres",Ontario,2023,3.4058333333333333
+"Apple juice, 2 litres",Ontario,2024,3.64125
+"Apple juice, 2 litres",Prince Edward Island,2017,2.9916666666666667
+"Apple juice, 2 litres",Prince Edward Island,2018,2.9758333333333336
+"Apple juice, 2 litres",Prince Edward Island,2019,3.1474999999999995
+"Apple juice, 2 litres",Prince Edward Island,2020,3.2591666666666668
+"Apple juice, 2 litres",Prince Edward Island,2021,3.4266666666666663
+"Apple juice, 2 litres",Prince Edward Island,2022,3.5425
+"Apple juice, 2 litres",Prince Edward Island,2023,4.060833333333333
+"Apple juice, 2 litres",Prince Edward Island,2024,3.93
+"Apple juice, 2 litres",Quebec,2017,3.2808333333333333
+"Apple juice, 2 litres",Quebec,2018,3.2424999999999997
+"Apple juice, 2 litres",Quebec,2019,3.2283333333333335
+"Apple juice, 2 litres",Quebec,2020,3.268333333333333
+"Apple juice, 2 litres",Quebec,2021,3.4774999999999996
+"Apple juice, 2 litres",Quebec,2022,3.765
+"Apple juice, 2 litres",Quebec,2023,4.298333333333333
+"Apple juice, 2 litres",Quebec,2024,4.12375
+"Apple juice, 2 litres",Saskatchewan,2017,2.8691666666666666
+"Apple juice, 2 litres",Saskatchewan,2018,2.785
+"Apple juice, 2 litres",Saskatchewan,2019,2.7866666666666666
+"Apple juice, 2 litres",Saskatchewan,2020,2.7558333333333334
+"Apple juice, 2 litres",Saskatchewan,2021,2.7725000000000004
+"Apple juice, 2 litres",Saskatchewan,2022,3.1941666666666664
+"Apple juice, 2 litres",Saskatchewan,2023,3.7733333333333334
+"Apple juice, 2 litres",Saskatchewan,2024,3.72875
+"Orange juice, 2 litres",Alberta,2017,3.9758333333333336
+"Orange juice, 2 litres",Alberta,2018,3.909166666666667
+"Orange juice, 2 litres",Alberta,2019,3.9250000000000003
+"Orange juice, 2 litres",Alberta,2020,4.0408333333333335
+"Orange juice, 2 litres",Alberta,2021,4.050833333333333
+"Orange juice, 2 litres",Alberta,2022,4.173333333333333
+"Orange juice, 2 litres",Alberta,2023,4.675833333333333
+"Orange juice, 2 litres",Alberta,2024,5.5125
+"Orange juice, 2 litres",British Columbia,2017,3.895
+"Orange juice, 2 litres",British Columbia,2018,3.810833333333333
+"Orange juice, 2 litres",British Columbia,2019,3.8000000000000003
+"Orange juice, 2 litres",British Columbia,2020,3.9008333333333334
+"Orange juice, 2 litres",British Columbia,2021,3.9250000000000003
+"Orange juice, 2 litres",British Columbia,2022,4.123333333333333
+"Orange juice, 2 litres",British Columbia,2023,4.635
+"Orange juice, 2 litres",British Columbia,2024,5.49875
+"Orange juice, 2 litres",Manitoba,2017,3.848333333333333
+"Orange juice, 2 litres",Manitoba,2018,3.7424999999999997
+"Orange juice, 2 litres",Manitoba,2019,3.689166666666667
+"Orange juice, 2 litres",Manitoba,2020,3.7841666666666662
+"Orange juice, 2 litres",Manitoba,2021,3.7975
+"Orange juice, 2 litres",Manitoba,2022,3.99
+"Orange juice, 2 litres",Manitoba,2023,4.507499999999999
+"Orange juice, 2 litres",Manitoba,2024,5.38125
+"Orange juice, 2 litres",New Brunswick,2017,3.9025
+"Orange juice, 2 litres",New Brunswick,2018,3.8716666666666666
+"Orange juice, 2 litres",New Brunswick,2019,3.981666666666667
+"Orange juice, 2 litres",New Brunswick,2020,4.1691666666666665
+"Orange juice, 2 litres",New Brunswick,2021,4.219166666666667
+"Orange juice, 2 litres",New Brunswick,2022,4.423333333333333
+"Orange juice, 2 litres",New Brunswick,2023,4.855833333333334
+"Orange juice, 2 litres",New Brunswick,2024,5.8187500000000005
+"Orange juice, 2 litres",Newfoundland and Labrador,2017,4.023333333333333
+"Orange juice, 2 litres",Newfoundland and Labrador,2018,3.950833333333333
+"Orange juice, 2 litres",Newfoundland and Labrador,2019,4.036666666666666
+"Orange juice, 2 litres",Newfoundland and Labrador,2020,4.3225
+"Orange juice, 2 litres",Newfoundland and Labrador,2021,4.293333333333334
+"Orange juice, 2 litres",Newfoundland and Labrador,2022,4.46
+"Orange juice, 2 litres",Newfoundland and Labrador,2023,4.835833333333333
+"Orange juice, 2 litres",Newfoundland and Labrador,2024,5.78
+"Orange juice, 2 litres",Nova Scotia,2017,3.893333333333333
+"Orange juice, 2 litres",Nova Scotia,2018,3.8775
+"Orange juice, 2 litres",Nova Scotia,2019,3.9441666666666664
+"Orange juice, 2 litres",Nova Scotia,2020,4.138333333333333
+"Orange juice, 2 litres",Nova Scotia,2021,4.155
+"Orange juice, 2 litres",Nova Scotia,2022,4.383333333333334
+"Orange juice, 2 litres",Nova Scotia,2023,4.780833333333333
+"Orange juice, 2 litres",Nova Scotia,2024,5.83125
+"Orange juice, 2 litres",Ontario,2017,3.2741666666666664
+"Orange juice, 2 litres",Ontario,2018,3.231666666666667
+"Orange juice, 2 litres",Ontario,2019,3.3725
+"Orange juice, 2 litres",Ontario,2020,3.5308333333333333
+"Orange juice, 2 litres",Ontario,2021,3.580833333333333
+"Orange juice, 2 litres",Ontario,2022,3.81
+"Orange juice, 2 litres",Ontario,2023,4.341666666666667
+"Orange juice, 2 litres",Ontario,2024,5.2725
+"Orange juice, 2 litres",Prince Edward Island,2017,3.8691666666666666
+"Orange juice, 2 litres",Prince Edward Island,2018,3.8441666666666667
+"Orange juice, 2 litres",Prince Edward Island,2019,3.9175
+"Orange juice, 2 litres",Prince Edward Island,2020,4.115833333333334
+"Orange juice, 2 litres",Prince Edward Island,2021,4.1425
+"Orange juice, 2 litres",Prince Edward Island,2022,4.3975
+"Orange juice, 2 litres",Prince Edward Island,2023,4.815
+"Orange juice, 2 litres",Prince Edward Island,2024,5.85
+"Orange juice, 2 litres",Quebec,2017,3.6075
+"Orange juice, 2 litres",Quebec,2018,3.605
+"Orange juice, 2 litres",Quebec,2019,3.8691666666666666
+"Orange juice, 2 litres",Quebec,2020,3.9791666666666665
+"Orange juice, 2 litres",Quebec,2021,4.175
+"Orange juice, 2 litres",Quebec,2022,4.3133333333333335
+"Orange juice, 2 litres",Quebec,2023,4.801666666666667
+"Orange juice, 2 litres",Quebec,2024,5.62875
+"Orange juice, 2 litres",Saskatchewan,2017,3.861666666666667
+"Orange juice, 2 litres",Saskatchewan,2018,3.704166666666667
+"Orange juice, 2 litres",Saskatchewan,2019,3.7216666666666662
+"Orange juice, 2 litres",Saskatchewan,2020,3.8208333333333333
+"Orange juice, 2 litres",Saskatchewan,2021,3.795833333333333
+"Orange juice, 2 litres",Saskatchewan,2022,3.9966666666666666
+"Orange juice, 2 litres",Saskatchewan,2023,4.531666666666667
+"Orange juice, 2 litres",Saskatchewan,2024,5.3774999999999995
+"Roasted or ground coffee, 340 grams",Alberta,2017,5.108333333333333
+"Roasted or ground coffee, 340 grams",Alberta,2018,5.0874999999999995
+"Roasted or ground coffee, 340 grams",Alberta,2019,5.226666666666667
+"Roasted or ground coffee, 340 grams",Alberta,2020,5.3566666666666665
+"Roasted or ground coffee, 340 grams",Alberta,2021,5.366666666666667
+"Roasted or ground coffee, 340 grams",Alberta,2022,5.899166666666666
+"Roasted or ground coffee, 340 grams",Alberta,2023,6.346666666666667
+"Roasted or ground coffee, 340 grams",Alberta,2024,6.3625
+"Roasted or ground coffee, 340 grams",British Columbia,2017,5.406666666666666
+"Roasted or ground coffee, 340 grams",British Columbia,2018,5.444166666666667
+"Roasted or ground coffee, 340 grams",British Columbia,2019,5.569166666666667
+"Roasted or ground coffee, 340 grams",British Columbia,2020,5.671666666666667
+"Roasted or ground coffee, 340 grams",British Columbia,2021,5.825833333333333
+"Roasted or ground coffee, 340 grams",British Columbia,2022,6.344166666666666
+"Roasted or ground coffee, 340 grams",British Columbia,2023,6.886666666666667
+"Roasted or ground coffee, 340 grams",British Columbia,2024,6.890000000000001
+"Roasted or ground coffee, 340 grams",Manitoba,2017,4.751666666666666
+"Roasted or ground coffee, 340 grams",Manitoba,2018,4.730833333333333
+"Roasted or ground coffee, 340 grams",Manitoba,2019,4.831666666666666
+"Roasted or ground coffee, 340 grams",Manitoba,2020,4.963333333333334
+"Roasted or ground coffee, 340 grams",Manitoba,2021,5.06
+"Roasted or ground coffee, 340 grams",Manitoba,2022,5.640000000000001
+"Roasted or ground coffee, 340 grams",Manitoba,2023,6.020833333333333
+"Roasted or ground coffee, 340 grams",Manitoba,2024,6.05125
+"Roasted or ground coffee, 340 grams",New Brunswick,2017,5.394166666666667
+"Roasted or ground coffee, 340 grams",New Brunswick,2018,5.834166666666667
+"Roasted or ground coffee, 340 grams",New Brunswick,2019,5.694166666666667
+"Roasted or ground coffee, 340 grams",New Brunswick,2020,5.753333333333333
+"Roasted or ground coffee, 340 grams",New Brunswick,2021,5.865833333333334
+"Roasted or ground coffee, 340 grams",New Brunswick,2022,6.639166666666667
+"Roasted or ground coffee, 340 grams",New Brunswick,2023,7.1433333333333335
+"Roasted or ground coffee, 340 grams",New Brunswick,2024,6.8525
+"Roasted or ground coffee, 340 grams",Newfoundland and Labrador,2017,5.831666666666667
+"Roasted or ground coffee, 340 grams",Newfoundland and Labrador,2018,6.148333333333333
+"Roasted or ground coffee, 340 grams",Newfoundland and Labrador,2019,5.908333333333334
+"Roasted or ground coffee, 340 grams",Newfoundland and Labrador,2020,6.109166666666667
+"Roasted or ground coffee, 340 grams",Newfoundland and Labrador,2021,6.2749999999999995
+"Roasted or ground coffee, 340 grams",Newfoundland and Labrador,2022,6.918333333333333
+"Roasted or ground coffee, 340 grams",Newfoundland and Labrador,2023,7.4624999999999995
+"Roasted or ground coffee, 340 grams",Newfoundland and Labrador,2024,6.97375
+"Roasted or ground coffee, 340 grams",Nova Scotia,2017,5.985
+"Roasted or ground coffee, 340 grams",Nova Scotia,2018,6.34
+"Roasted or ground coffee, 340 grams",Nova Scotia,2019,6.210833333333333
+"Roasted or ground coffee, 340 grams",Nova Scotia,2020,6.236666666666667
+"Roasted or ground coffee, 340 grams",Nova Scotia,2021,6.428333333333334
+"Roasted or ground coffee, 340 grams",Nova Scotia,2022,7.176666666666667
+"Roasted or ground coffee, 340 grams",Nova Scotia,2023,7.654166666666666
+"Roasted or ground coffee, 340 grams",Nova Scotia,2024,7.31375
+"Roasted or ground coffee, 340 grams",Ontario,2017,4.681666666666667
+"Roasted or ground coffee, 340 grams",Ontario,2018,4.903333333333333
+"Roasted or ground coffee, 340 grams",Ontario,2019,5.076666666666667
+"Roasted or ground coffee, 340 grams",Ontario,2020,5.321666666666666
+"Roasted or ground coffee, 340 grams",Ontario,2021,5.424166666666667
+"Roasted or ground coffee, 340 grams",Ontario,2022,5.998333333333334
+"Roasted or ground coffee, 340 grams",Ontario,2023,6.4624999999999995
+"Roasted or ground coffee, 340 grams",Ontario,2024,6.4975
+"Roasted or ground coffee, 340 grams",Prince Edward Island,2017,5.309166666666667
+"Roasted or ground coffee, 340 grams",Prince Edward Island,2018,5.611666666666667
+"Roasted or ground coffee, 340 grams",Prince Edward Island,2019,5.534166666666667
+"Roasted or ground coffee, 340 grams",Prince Edward Island,2020,5.560833333333334
+"Roasted or ground coffee, 340 grams",Prince Edward Island,2021,5.728333333333333
+"Roasted or ground coffee, 340 grams",Prince Edward Island,2022,6.519166666666667
+"Roasted or ground coffee, 340 grams",Prince Edward Island,2023,6.976666666666667
+"Roasted or ground coffee, 340 grams",Prince Edward Island,2024,6.8325
+"Roasted or ground coffee, 340 grams",Quebec,2017,4.78
+"Roasted or ground coffee, 340 grams",Quebec,2018,4.974166666666666
+"Roasted or ground coffee, 340 grams",Quebec,2019,5.075833333333333
+"Roasted or ground coffee, 340 grams",Quebec,2020,5.373333333333334
+"Roasted or ground coffee, 340 grams",Quebec,2021,5.389166666666667
+"Roasted or ground coffee, 340 grams",Quebec,2022,6.198333333333333
+"Roasted or ground coffee, 340 grams",Quebec,2023,6.506666666666667
+"Roasted or ground coffee, 340 grams",Quebec,2024,6.5975
+"Roasted or ground coffee, 340 grams",Saskatchewan,2017,4.595833333333333
+"Roasted or ground coffee, 340 grams",Saskatchewan,2018,4.484166666666667
+"Roasted or ground coffee, 340 grams",Saskatchewan,2019,4.600833333333333
+"Roasted or ground coffee, 340 grams",Saskatchewan,2020,4.696666666666666
+"Roasted or ground coffee, 340 grams",Saskatchewan,2021,4.796666666666667
+"Roasted or ground coffee, 340 grams",Saskatchewan,2022,5.345833333333334
+"Roasted or ground coffee, 340 grams",Saskatchewan,2023,5.756666666666667
+"Roasted or ground coffee, 340 grams",Saskatchewan,2024,5.8475
+Tea (20 bags),Alberta,2017,3.486666666666667
+Tea (20 bags),Alberta,2018,3.5516666666666663
+Tea (20 bags),Alberta,2019,3.518333333333333
+Tea (20 bags),Alberta,2020,3.67
+Tea (20 bags),Alberta,2021,3.904166666666667
+Tea (20 bags),Alberta,2022,4.1499999999999995
+Tea (20 bags),Alberta,2023,4.4558333333333335
+Tea (20 bags),Alberta,2024,4.545
+Tea (20 bags),British Columbia,2017,3.4341666666666666
+Tea (20 bags),British Columbia,2018,3.5124999999999997
+Tea (20 bags),British Columbia,2019,3.4683333333333333
+Tea (20 bags),British Columbia,2020,3.6533333333333338
+Tea (20 bags),British Columbia,2021,3.9183333333333334
+Tea (20 bags),British Columbia,2022,4.200833333333333
+Tea (20 bags),British Columbia,2023,4.5125
+Tea (20 bags),British Columbia,2024,4.59
+Tea (20 bags),Manitoba,2017,3.359166666666667
+Tea (20 bags),Manitoba,2018,3.4658333333333338
+Tea (20 bags),Manitoba,2019,3.4466666666666668
+Tea (20 bags),Manitoba,2020,3.5925
+Tea (20 bags),Manitoba,2021,3.8183333333333334
+Tea (20 bags),Manitoba,2022,4.07
+Tea (20 bags),Manitoba,2023,4.345
+Tea (20 bags),Manitoba,2024,4.42375
+Tea (20 bags),New Brunswick,2017,3.6008333333333336
+Tea (20 bags),New Brunswick,2018,3.635
+Tea (20 bags),New Brunswick,2019,3.483333333333333
+Tea (20 bags),New Brunswick,2020,3.65
+Tea (20 bags),New Brunswick,2021,3.7550000000000003
+Tea (20 bags),New Brunswick,2022,4.18
+Tea (20 bags),New Brunswick,2023,4.6175
+Tea (20 bags),New Brunswick,2024,4.8175
+Tea (20 bags),Newfoundland and Labrador,2017,3.6458333333333335
+Tea (20 bags),Newfoundland and Labrador,2018,3.645
+Tea (20 bags),Newfoundland and Labrador,2019,3.581666666666667
+Tea (20 bags),Newfoundland and Labrador,2020,3.7591666666666668
+Tea (20 bags),Newfoundland and Labrador,2021,3.8341666666666665
+Tea (20 bags),Newfoundland and Labrador,2022,4.235833333333333
+Tea (20 bags),Newfoundland and Labrador,2023,4.693333333333333
+Tea (20 bags),Newfoundland and Labrador,2024,4.827500000000001
+Tea (20 bags),Nova Scotia,2017,3.6275
+Tea (20 bags),Nova Scotia,2018,3.6425
+Tea (20 bags),Nova Scotia,2019,3.49
+Tea (20 bags),Nova Scotia,2020,3.6958333333333333
+Tea (20 bags),Nova Scotia,2021,3.83
+Tea (20 bags),Nova Scotia,2022,4.2525
+Tea (20 bags),Nova Scotia,2023,4.675
+Tea (20 bags),Nova Scotia,2024,4.86
+Tea (20 bags),Ontario,2017,3.2091666666666665
+Tea (20 bags),Ontario,2018,3.3375
+Tea (20 bags),Ontario,2019,3.310833333333333
+Tea (20 bags),Ontario,2020,3.516666666666667
+Tea (20 bags),Ontario,2021,3.7325
+Tea (20 bags),Ontario,2022,3.9333333333333336
+Tea (20 bags),Ontario,2023,4.304166666666666
+Tea (20 bags),Ontario,2024,4.32875
+Tea (20 bags),Prince Edward Island,2017,3.5533333333333332
+Tea (20 bags),Prince Edward Island,2018,3.6316666666666664
+Tea (20 bags),Prince Edward Island,2019,3.4625
+Tea (20 bags),Prince Edward Island,2020,3.6558333333333337
+Tea (20 bags),Prince Edward Island,2021,3.8158333333333334
+Tea (20 bags),Prince Edward Island,2022,4.2316666666666665
+Tea (20 bags),Prince Edward Island,2023,4.645833333333333
+Tea (20 bags),Prince Edward Island,2024,4.88125
+Tea (20 bags),Quebec,2017,3.3874999999999997
+Tea (20 bags),Quebec,2018,3.5366666666666666
+Tea (20 bags),Quebec,2019,3.466666666666667
+Tea (20 bags),Quebec,2020,3.6125000000000003
+Tea (20 bags),Quebec,2021,3.671666666666667
+Tea (20 bags),Quebec,2022,3.985
+Tea (20 bags),Quebec,2023,4.3341666666666665
+Tea (20 bags),Quebec,2024,4.51625
+Tea (20 bags),Saskatchewan,2017,3.435
+Tea (20 bags),Saskatchewan,2018,3.499166666666667
+Tea (20 bags),Saskatchewan,2019,3.499166666666667
+Tea (20 bags),Saskatchewan,2020,3.6341666666666668
+Tea (20 bags),Saskatchewan,2021,3.8175000000000003
+Tea (20 bags),Saskatchewan,2022,4.090833333333333
+Tea (20 bags),Saskatchewan,2023,4.403333333333333
+Tea (20 bags),Saskatchewan,2024,4.48

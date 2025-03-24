@@ -1,0 +1,721 @@
+Products,province,year,avg_total_yearly
+"Apples, per kilogram",Alberta,2017,3.9275
+"Apples, per kilogram",Alberta,2018,4.039166666666667
+"Apples, per kilogram",Alberta,2019,4.706666666666666
+"Apples, per kilogram",Alberta,2020,4.5275
+"Apples, per kilogram",Alberta,2021,4.908333333333333
+"Apples, per kilogram",Alberta,2022,5.325833333333334
+"Apples, per kilogram",Alberta,2023,5.894166666666667
+"Apples, per kilogram",Alberta,2024,6.02625
+"Apples, per kilogram",British Columbia,2017,3.9774999999999996
+"Apples, per kilogram",British Columbia,2018,4.074166666666667
+"Apples, per kilogram",British Columbia,2019,4.6049999999999995
+"Apples, per kilogram",British Columbia,2020,4.36
+"Apples, per kilogram",British Columbia,2021,4.763333333333334
+"Apples, per kilogram",British Columbia,2022,5.320833333333334
+"Apples, per kilogram",British Columbia,2023,5.959166666666667
+"Apples, per kilogram",British Columbia,2024,6.01125
+"Apples, per kilogram",Manitoba,2017,3.890833333333333
+"Apples, per kilogram",Manitoba,2018,3.9658333333333338
+"Apples, per kilogram",Manitoba,2019,4.431666666666667
+"Apples, per kilogram",Manitoba,2020,4.2491666666666665
+"Apples, per kilogram",Manitoba,2021,4.704166666666667
+"Apples, per kilogram",Manitoba,2022,5.170833333333333
+"Apples, per kilogram",Manitoba,2023,5.761666666666667
+"Apples, per kilogram",Manitoba,2024,5.8625
+"Apples, per kilogram",New Brunswick,2017,4.623333333333333
+"Apples, per kilogram",New Brunswick,2018,4.8741666666666665
+"Apples, per kilogram",New Brunswick,2019,5.510000000000001
+"Apples, per kilogram",New Brunswick,2020,5.78
+"Apples, per kilogram",New Brunswick,2021,6.070833333333333
+"Apples, per kilogram",New Brunswick,2022,6.1575
+"Apples, per kilogram",New Brunswick,2023,6.265000000000001
+"Apples, per kilogram",New Brunswick,2024,6.45625
+"Apples, per kilogram",Newfoundland and Labrador,2017,5.189166666666667
+"Apples, per kilogram",Newfoundland and Labrador,2018,5.285833333333334
+"Apples, per kilogram",Newfoundland and Labrador,2019,5.764166666666667
+"Apples, per kilogram",Newfoundland and Labrador,2020,5.953333333333333
+"Apples, per kilogram",Newfoundland and Labrador,2021,6.2775
+"Apples, per kilogram",Newfoundland and Labrador,2022,6.565
+"Apples, per kilogram",Newfoundland and Labrador,2023,6.759166666666666
+"Apples, per kilogram",Newfoundland and Labrador,2024,6.89125
+"Apples, per kilogram",Nova Scotia,2017,4.706666666666666
+"Apples, per kilogram",Nova Scotia,2018,5.051666666666667
+"Apples, per kilogram",Nova Scotia,2019,5.7316666666666665
+"Apples, per kilogram",Nova Scotia,2020,5.866666666666667
+"Apples, per kilogram",Nova Scotia,2021,6.090833333333333
+"Apples, per kilogram",Nova Scotia,2022,6.140000000000001
+"Apples, per kilogram",Nova Scotia,2023,6.1925
+"Apples, per kilogram",Nova Scotia,2024,6.29875
+"Apples, per kilogram",Ontario,2017,3.7274999999999996
+"Apples, per kilogram",Ontario,2018,4.033333333333333
+"Apples, per kilogram",Ontario,2019,4.4783333333333335
+"Apples, per kilogram",Ontario,2020,4.388333333333333
+"Apples, per kilogram",Ontario,2021,4.6000000000000005
+"Apples, per kilogram",Ontario,2022,5.136666666666667
+"Apples, per kilogram",Ontario,2023,5.226666666666667
+"Apples, per kilogram",Ontario,2024,5.05
+"Apples, per kilogram",Prince Edward Island,2017,4.5249999999999995
+"Apples, per kilogram",Prince Edward Island,2018,4.8625
+"Apples, per kilogram",Prince Edward Island,2019,5.548333333333333
+"Apples, per kilogram",Prince Edward Island,2020,5.7700000000000005
+"Apples, per kilogram",Prince Edward Island,2021,6.049166666666667
+"Apples, per kilogram",Prince Edward Island,2022,6.198333333333333
+"Apples, per kilogram",Prince Edward Island,2023,6.288333333333333
+"Apples, per kilogram",Prince Edward Island,2024,6.35625
+"Apples, per kilogram",Quebec,2017,3.9058333333333333
+"Apples, per kilogram",Quebec,2018,4.005833333333333
+"Apples, per kilogram",Quebec,2019,4.5375
+"Apples, per kilogram",Quebec,2020,4.605
+"Apples, per kilogram",Quebec,2021,4.980833333333333
+"Apples, per kilogram",Quebec,2022,5.5275
+"Apples, per kilogram",Quebec,2023,5.733333333333333
+"Apples, per kilogram",Quebec,2024,5.26375
+"Apples, per kilogram",Saskatchewan,2017,3.9525
+"Apples, per kilogram",Saskatchewan,2018,4.0249999999999995
+"Apples, per kilogram",Saskatchewan,2019,4.6433333333333335
+"Apples, per kilogram",Saskatchewan,2020,4.383333333333334
+"Apples, per kilogram",Saskatchewan,2021,4.7941666666666665
+"Apples, per kilogram",Saskatchewan,2022,5.31
+"Apples, per kilogram",Saskatchewan,2023,5.823333333333333
+"Apples, per kilogram",Saskatchewan,2024,5.985
+"Avocado, unit",Alberta,2017,1.8175
+"Avocado, unit",Alberta,2018,1.6558333333333335
+"Avocado, unit",Alberta,2019,1.9525
+"Avocado, unit",Alberta,2020,1.92
+"Avocado, unit",Alberta,2021,1.6958333333333335
+"Avocado, unit",Alberta,2022,1.9808333333333332
+"Avocado, unit",Alberta,2023,1.8458333333333332
+"Avocado, unit",Alberta,2024,1.995
+"Avocado, unit",British Columbia,2017,1.9566666666666668
+"Avocado, unit",British Columbia,2018,1.8033333333333335
+"Avocado, unit",British Columbia,2019,2.015
+"Avocado, unit",British Columbia,2020,1.9525
+"Avocado, unit",British Columbia,2021,1.88
+"Avocado, unit",British Columbia,2022,2.1625
+"Avocado, unit",British Columbia,2023,2.0841666666666665
+"Avocado, unit",British Columbia,2024,2.1975
+"Avocado, unit",Manitoba,2017,1.7658333333333334
+"Avocado, unit",Manitoba,2018,1.635
+"Avocado, unit",Manitoba,2019,1.8916666666666666
+"Avocado, unit",Manitoba,2020,1.8116666666666665
+"Avocado, unit",Manitoba,2021,1.5991666666666668
+"Avocado, unit",Manitoba,2022,1.8791666666666667
+"Avocado, unit",Manitoba,2023,1.7208333333333334
+"Avocado, unit",Manitoba,2024,1.92
+"Avocado, unit",New Brunswick,2017,1.5508333333333333
+"Avocado, unit",New Brunswick,2018,1.5916666666666668
+"Avocado, unit",New Brunswick,2019,1.8724999999999998
+"Avocado, unit",New Brunswick,2020,1.7833333333333332
+"Avocado, unit",New Brunswick,2021,1.7341666666666666
+"Avocado, unit",New Brunswick,2022,2.0591666666666666
+"Avocado, unit",New Brunswick,2023,1.8183333333333334
+"Avocado, unit",New Brunswick,2024,2.2125
+"Avocado, unit",Newfoundland and Labrador,2017,2.029166666666667
+"Avocado, unit",Newfoundland and Labrador,2018,1.6958333333333335
+"Avocado, unit",Newfoundland and Labrador,2019,1.8891666666666664
+"Avocado, unit",Newfoundland and Labrador,2020,1.8716666666666668
+"Avocado, unit",Newfoundland and Labrador,2021,1.8025
+"Avocado, unit",Newfoundland and Labrador,2022,2.0608333333333335
+"Avocado, unit",Newfoundland and Labrador,2023,1.8408333333333333
+"Avocado, unit",Newfoundland and Labrador,2024,2.22375
+"Avocado, unit",Nova Scotia,2017,1.4925
+"Avocado, unit",Nova Scotia,2018,1.5558333333333334
+"Avocado, unit",Nova Scotia,2019,1.8341666666666665
+"Avocado, unit",Nova Scotia,2020,1.7658333333333334
+"Avocado, unit",Nova Scotia,2021,1.6758333333333333
+"Avocado, unit",Nova Scotia,2022,2.0141666666666667
+"Avocado, unit",Nova Scotia,2023,1.7383333333333333
+"Avocado, unit",Nova Scotia,2024,2.16625
+"Avocado, unit",Ontario,2017,1.6741666666666666
+"Avocado, unit",Ontario,2018,1.5691666666666666
+"Avocado, unit",Ontario,2019,1.7891666666666666
+"Avocado, unit",Ontario,2020,1.6766666666666667
+"Avocado, unit",Ontario,2021,1.5975
+"Avocado, unit",Ontario,2022,2.035
+"Avocado, unit",Ontario,2023,2.0566666666666666
+"Avocado, unit",Ontario,2024,2.16375
+"Avocado, unit",Prince Edward Island,2017,1.5266666666666666
+"Avocado, unit",Prince Edward Island,2018,1.5725
+"Avocado, unit",Prince Edward Island,2019,1.8666666666666665
+"Avocado, unit",Prince Edward Island,2020,1.7825
+"Avocado, unit",Prince Edward Island,2021,1.7008333333333334
+"Avocado, unit",Prince Edward Island,2022,2.0191666666666666
+"Avocado, unit",Prince Edward Island,2023,1.7683333333333333
+"Avocado, unit",Prince Edward Island,2024,2.18125
+"Avocado, unit",Quebec,2017,2.1316666666666664
+"Avocado, unit",Quebec,2018,1.8733333333333333
+"Avocado, unit",Quebec,2019,1.9725000000000001
+"Avocado, unit",Quebec,2020,1.765
+"Avocado, unit",Quebec,2021,1.7975
+"Avocado, unit",Quebec,2022,2.1675
+"Avocado, unit",Quebec,2023,1.9916666666666665
+"Avocado, unit",Quebec,2024,2.09625
+"Avocado, unit",Saskatchewan,2017,1.7741666666666667
+"Avocado, unit",Saskatchewan,2018,1.6308333333333334
+"Avocado, unit",Saskatchewan,2019,1.9058333333333335
+"Avocado, unit",Saskatchewan,2020,1.8425
+"Avocado, unit",Saskatchewan,2021,1.5983333333333334
+"Avocado, unit",Saskatchewan,2022,1.9166666666666667
+"Avocado, unit",Saskatchewan,2023,1.7841666666666667
+"Avocado, unit",Saskatchewan,2024,1.9537499999999999
+"Bananas, per kilogram",Alberta,2017,1.7175
+"Bananas, per kilogram",Alberta,2018,1.7333333333333334
+"Bananas, per kilogram",Alberta,2019,1.7325
+"Bananas, per kilogram",Alberta,2020,1.7325
+"Bananas, per kilogram",Alberta,2021,1.7316666666666667
+"Bananas, per kilogram",Alberta,2022,1.7958333333333334
+"Bananas, per kilogram",Alberta,2023,1.7891666666666666
+"Bananas, per kilogram",Alberta,2024,1.7862500000000001
+"Bananas, per kilogram",British Columbia,2017,1.5616666666666668
+"Bananas, per kilogram",British Columbia,2018,1.6050000000000002
+"Bananas, per kilogram",British Columbia,2019,1.6016666666666668
+"Bananas, per kilogram",British Columbia,2020,1.6000000000000003
+"Bananas, per kilogram",British Columbia,2021,1.6083333333333334
+"Bananas, per kilogram",British Columbia,2022,1.6891666666666667
+"Bananas, per kilogram",British Columbia,2023,1.6691666666666665
+"Bananas, per kilogram",British Columbia,2024,1.62625
+"Bananas, per kilogram",Manitoba,2017,1.695
+"Bananas, per kilogram",Manitoba,2018,1.7183333333333335
+"Bananas, per kilogram",Manitoba,2019,1.7183333333333335
+"Bananas, per kilogram",Manitoba,2020,1.6775
+"Bananas, per kilogram",Manitoba,2021,1.6283333333333332
+"Bananas, per kilogram",Manitoba,2022,1.6791666666666665
+"Bananas, per kilogram",Manitoba,2023,1.6608333333333334
+"Bananas, per kilogram",Manitoba,2024,1.7425
+"Bananas, per kilogram",New Brunswick,2017,1.9466666666666665
+"Bananas, per kilogram",New Brunswick,2018,1.9508333333333334
+"Bananas, per kilogram",New Brunswick,2019,1.9533333333333331
+"Bananas, per kilogram",New Brunswick,2020,1.9483333333333333
+"Bananas, per kilogram",New Brunswick,2021,1.945
+"Bananas, per kilogram",New Brunswick,2022,2.026666666666667
+"Bananas, per kilogram",New Brunswick,2023,2.1491666666666664
+"Bananas, per kilogram",New Brunswick,2024,2.135
+"Bananas, per kilogram",Newfoundland and Labrador,2017,2.1316666666666664
+"Bananas, per kilogram",Newfoundland and Labrador,2018,2.1191666666666666
+"Bananas, per kilogram",Newfoundland and Labrador,2019,2.0691666666666664
+"Bananas, per kilogram",Newfoundland and Labrador,2020,2.0825
+"Bananas, per kilogram",Newfoundland and Labrador,2021,2.0574999999999997
+"Bananas, per kilogram",Newfoundland and Labrador,2022,2.146666666666667
+"Bananas, per kilogram",Newfoundland and Labrador,2023,2.169166666666667
+"Bananas, per kilogram",Newfoundland and Labrador,2024,2.1675
+"Bananas, per kilogram",Nova Scotia,2017,1.9525
+"Bananas, per kilogram",Nova Scotia,2018,1.9583333333333333
+"Bananas, per kilogram",Nova Scotia,2019,1.9633333333333332
+"Bananas, per kilogram",Nova Scotia,2020,1.955
+"Bananas, per kilogram",Nova Scotia,2021,1.9533333333333331
+"Bananas, per kilogram",Nova Scotia,2022,2.0325
+"Bananas, per kilogram",Nova Scotia,2023,2.1566666666666667
+"Bananas, per kilogram",Nova Scotia,2024,2.1325
+"Bananas, per kilogram",Ontario,2017,1.3791666666666667
+"Bananas, per kilogram",Ontario,2018,1.4183333333333332
+"Bananas, per kilogram",Ontario,2019,1.4141666666666666
+"Bananas, per kilogram",Ontario,2020,1.4075
+"Bananas, per kilogram",Ontario,2021,1.4233333333333331
+"Bananas, per kilogram",Ontario,2022,1.4858333333333331
+"Bananas, per kilogram",Ontario,2023,1.4841666666666666
+"Bananas, per kilogram",Ontario,2024,1.44875
+"Bananas, per kilogram",Prince Edward Island,2017,1.9583333333333333
+"Bananas, per kilogram",Prince Edward Island,2018,1.9691666666666665
+"Bananas, per kilogram",Prince Edward Island,2019,1.9683333333333335
+"Bananas, per kilogram",Prince Edward Island,2020,1.9591666666666665
+"Bananas, per kilogram",Prince Edward Island,2021,1.9641666666666666
+"Bananas, per kilogram",Prince Edward Island,2022,2.0416666666666665
+"Bananas, per kilogram",Prince Edward Island,2023,2.1666666666666665
+"Bananas, per kilogram",Prince Edward Island,2024,2.125
+"Bananas, per kilogram",Quebec,2017,1.7083333333333333
+"Bananas, per kilogram",Quebec,2018,1.7108333333333334
+"Bananas, per kilogram",Quebec,2019,1.7191666666666665
+"Bananas, per kilogram",Quebec,2020,1.7291666666666667
+"Bananas, per kilogram",Quebec,2021,1.75
+"Bananas, per kilogram",Quebec,2022,1.8308333333333335
+"Bananas, per kilogram",Quebec,2023,1.8308333333333335
+"Bananas, per kilogram",Quebec,2024,1.78125
+"Bananas, per kilogram",Saskatchewan,2017,1.6716666666666666
+"Bananas, per kilogram",Saskatchewan,2018,1.6733333333333331
+"Bananas, per kilogram",Saskatchewan,2019,1.6816666666666666
+"Bananas, per kilogram",Saskatchewan,2020,1.6633333333333333
+"Bananas, per kilogram",Saskatchewan,2021,1.7258333333333333
+"Bananas, per kilogram",Saskatchewan,2022,1.7758333333333332
+"Bananas, per kilogram",Saskatchewan,2023,1.7725
+"Bananas, per kilogram",Saskatchewan,2024,1.77125
+"Cantaloupe, unit",Alberta,2017,2.776666666666667
+"Cantaloupe, unit",Alberta,2018,2.76
+"Cantaloupe, unit",Alberta,2019,3.025
+"Cantaloupe, unit",Alberta,2020,3.223333333333333
+"Cantaloupe, unit",Alberta,2021,3.528333333333333
+"Cantaloupe, unit",Alberta,2022,4.054166666666666
+"Cantaloupe, unit",Alberta,2023,4.195
+"Cantaloupe, unit",Alberta,2024,4.08125
+"Cantaloupe, unit",British Columbia,2017,2.7908333333333335
+"Cantaloupe, unit",British Columbia,2018,2.785
+"Cantaloupe, unit",British Columbia,2019,3.1041666666666665
+"Cantaloupe, unit",British Columbia,2020,3.2416666666666667
+"Cantaloupe, unit",British Columbia,2021,3.4941666666666666
+"Cantaloupe, unit",British Columbia,2022,4.055000000000001
+"Cantaloupe, unit",British Columbia,2023,4.2225
+"Cantaloupe, unit",British Columbia,2024,4.085
+"Cantaloupe, unit",Manitoba,2017,2.775
+"Cantaloupe, unit",Manitoba,2018,2.7433333333333336
+"Cantaloupe, unit",Manitoba,2019,2.9766666666666666
+"Cantaloupe, unit",Manitoba,2020,3.1875
+"Cantaloupe, unit",Manitoba,2021,3.475
+"Cantaloupe, unit",Manitoba,2022,3.9825
+"Cantaloupe, unit",Manitoba,2023,4.024166666666667
+"Cantaloupe, unit",Manitoba,2024,3.97125
+"Cantaloupe, unit",New Brunswick,2017,2.983333333333333
+"Cantaloupe, unit",New Brunswick,2018,2.874166666666667
+"Cantaloupe, unit",New Brunswick,2019,3.3083333333333336
+"Cantaloupe, unit",New Brunswick,2020,3.4983333333333335
+"Cantaloupe, unit",New Brunswick,2021,3.794166666666667
+"Cantaloupe, unit",New Brunswick,2022,4.5025
+"Cantaloupe, unit",New Brunswick,2023,4.473333333333334
+"Cantaloupe, unit",New Brunswick,2024,4.27
+"Cantaloupe, unit",Newfoundland and Labrador,2017,3.2391666666666663
+"Cantaloupe, unit",Newfoundland and Labrador,2018,3.3341666666666665
+"Cantaloupe, unit",Newfoundland and Labrador,2019,3.6300000000000003
+"Cantaloupe, unit",Newfoundland and Labrador,2020,3.813333333333333
+"Cantaloupe, unit",Newfoundland and Labrador,2021,3.888333333333333
+"Cantaloupe, unit",Newfoundland and Labrador,2022,4.694166666666667
+"Cantaloupe, unit",Newfoundland and Labrador,2023,4.821666666666666
+"Cantaloupe, unit",Newfoundland and Labrador,2024,4.51125
+"Cantaloupe, unit",Nova Scotia,2017,2.973333333333333
+"Cantaloupe, unit",Nova Scotia,2018,2.859166666666667
+"Cantaloupe, unit",Nova Scotia,2019,3.2816666666666663
+"Cantaloupe, unit",Nova Scotia,2020,3.4291666666666667
+"Cantaloupe, unit",Nova Scotia,2021,3.6675
+"Cantaloupe, unit",Nova Scotia,2022,4.329166666666667
+"Cantaloupe, unit",Nova Scotia,2023,4.506666666666667
+"Cantaloupe, unit",Nova Scotia,2024,4.17
+"Cantaloupe, unit",Ontario,2017,2.3925
+"Cantaloupe, unit",Ontario,2018,2.4433333333333334
+"Cantaloupe, unit",Ontario,2019,2.7808333333333337
+"Cantaloupe, unit",Ontario,2020,2.685833333333333
+"Cantaloupe, unit",Ontario,2021,3.0591666666666666
+"Cantaloupe, unit",Ontario,2022,3.5033333333333334
+"Cantaloupe, unit",Ontario,2023,3.266666666666667
+"Cantaloupe, unit",Ontario,2024,2.835
+"Cantaloupe, unit",Prince Edward Island,2017,2.998333333333333
+"Cantaloupe, unit",Prince Edward Island,2018,2.874166666666667
+"Cantaloupe, unit",Prince Edward Island,2019,3.3575
+"Cantaloupe, unit",Prince Edward Island,2020,3.5508333333333333
+"Cantaloupe, unit",Prince Edward Island,2021,3.8008333333333333
+"Cantaloupe, unit",Prince Edward Island,2022,4.460833333333333
+"Cantaloupe, unit",Prince Edward Island,2023,4.480833333333334
+"Cantaloupe, unit",Prince Edward Island,2024,4.1975
+"Cantaloupe, unit",Quebec,2017,2.5883333333333334
+"Cantaloupe, unit",Quebec,2018,2.665833333333333
+"Cantaloupe, unit",Quebec,2019,2.8275
+"Cantaloupe, unit",Quebec,2020,2.9416666666666664
+"Cantaloupe, unit",Quebec,2021,3.2241666666666666
+"Cantaloupe, unit",Quebec,2022,3.8524999999999996
+"Cantaloupe, unit",Quebec,2023,3.49
+"Cantaloupe, unit",Quebec,2024,3.07
+"Cantaloupe, unit",Saskatchewan,2017,2.8375
+"Cantaloupe, unit",Saskatchewan,2018,2.814166666666667
+"Cantaloupe, unit",Saskatchewan,2019,3.0908333333333338
+"Cantaloupe, unit",Saskatchewan,2020,3.1799999999999997
+"Cantaloupe, unit",Saskatchewan,2021,3.5141666666666667
+"Cantaloupe, unit",Saskatchewan,2022,4.1000000000000005
+"Cantaloupe, unit",Saskatchewan,2023,4.275833333333334
+"Cantaloupe, unit",Saskatchewan,2024,4.12125
+"Grapes, per kilogram",Alberta,2017,6.833333333333333
+"Grapes, per kilogram",Alberta,2018,6.660833333333334
+"Grapes, per kilogram",Alberta,2019,6.614999999999999
+"Grapes, per kilogram",Alberta,2020,7.105
+"Grapes, per kilogram",Alberta,2021,7.359999999999999
+"Grapes, per kilogram",Alberta,2022,8.63
+"Grapes, per kilogram",Alberta,2023,9.416666666666666
+"Grapes, per kilogram",Alberta,2024,9.30625
+"Grapes, per kilogram",British Columbia,2017,7.053333333333334
+"Grapes, per kilogram",British Columbia,2018,6.9191666666666665
+"Grapes, per kilogram",British Columbia,2019,6.6241666666666665
+"Grapes, per kilogram",British Columbia,2020,6.859166666666667
+"Grapes, per kilogram",British Columbia,2021,7.322500000000001
+"Grapes, per kilogram",British Columbia,2022,8.543333333333333
+"Grapes, per kilogram",British Columbia,2023,9.106666666666667
+"Grapes, per kilogram",British Columbia,2024,9.0775
+"Grapes, per kilogram",Manitoba,2017,6.858333333333333
+"Grapes, per kilogram",Manitoba,2018,6.626666666666666
+"Grapes, per kilogram",Manitoba,2019,6.1066666666666665
+"Grapes, per kilogram",Manitoba,2020,6.824166666666667
+"Grapes, per kilogram",Manitoba,2021,7.241666666666667
+"Grapes, per kilogram",Manitoba,2022,8.316666666666666
+"Grapes, per kilogram",Manitoba,2023,9.181666666666667
+"Grapes, per kilogram",Manitoba,2024,8.98625
+"Grapes, per kilogram",New Brunswick,2017,5.866666666666667
+"Grapes, per kilogram",New Brunswick,2018,5.766666666666667
+"Grapes, per kilogram",New Brunswick,2019,5.7525
+"Grapes, per kilogram",New Brunswick,2020,6.183333333333334
+"Grapes, per kilogram",New Brunswick,2021,6.466666666666666
+"Grapes, per kilogram",New Brunswick,2022,6.949166666666667
+"Grapes, per kilogram",New Brunswick,2023,8.054166666666667
+"Grapes, per kilogram",New Brunswick,2024,8.3725
+"Grapes, per kilogram",Newfoundland and Labrador,2017,6.8825
+"Grapes, per kilogram",Newfoundland and Labrador,2018,6.8691666666666675
+"Grapes, per kilogram",Newfoundland and Labrador,2019,6.514166666666667
+"Grapes, per kilogram",Newfoundland and Labrador,2020,7.235
+"Grapes, per kilogram",Newfoundland and Labrador,2021,7.848333333333334
+"Grapes, per kilogram",Newfoundland and Labrador,2022,8.4
+"Grapes, per kilogram",Newfoundland and Labrador,2023,9.112499999999999
+"Grapes, per kilogram",Newfoundland and Labrador,2024,9.43125
+"Grapes, per kilogram",Nova Scotia,2017,5.868333333333333
+"Grapes, per kilogram",Nova Scotia,2018,5.854166666666667
+"Grapes, per kilogram",Nova Scotia,2019,5.779166666666666
+"Grapes, per kilogram",Nova Scotia,2020,6.3933333333333335
+"Grapes, per kilogram",Nova Scotia,2021,6.745833333333334
+"Grapes, per kilogram",Nova Scotia,2022,7.2299999999999995
+"Grapes, per kilogram",Nova Scotia,2023,8.056666666666667
+"Grapes, per kilogram",Nova Scotia,2024,8.34625
+"Grapes, per kilogram",Ontario,2017,5.634166666666666
+"Grapes, per kilogram",Ontario,2018,5.3625
+"Grapes, per kilogram",Ontario,2019,5.514166666666667
+"Grapes, per kilogram",Ontario,2020,5.511666666666667
+"Grapes, per kilogram",Ontario,2021,5.8500000000000005
+"Grapes, per kilogram",Ontario,2022,6.552499999999999
+"Grapes, per kilogram",Ontario,2023,7.4075
+"Grapes, per kilogram",Ontario,2024,7.1475
+"Grapes, per kilogram",Prince Edward Island,2017,5.940833333333333
+"Grapes, per kilogram",Prince Edward Island,2018,5.864999999999999
+"Grapes, per kilogram",Prince Edward Island,2019,5.834166666666667
+"Grapes, per kilogram",Prince Edward Island,2020,6.4624999999999995
+"Grapes, per kilogram",Prince Edward Island,2021,6.770833333333333
+"Grapes, per kilogram",Prince Edward Island,2022,7.170833333333333
+"Grapes, per kilogram",Prince Edward Island,2023,7.989999999999999
+"Grapes, per kilogram",Prince Edward Island,2024,8.43125
+"Grapes, per kilogram",Quebec,2017,5.065833333333333
+"Grapes, per kilogram",Quebec,2018,4.778333333333333
+"Grapes, per kilogram",Quebec,2019,5.245
+"Grapes, per kilogram",Quebec,2020,5.095833333333333
+"Grapes, per kilogram",Quebec,2021,5.2491666666666665
+"Grapes, per kilogram",Quebec,2022,5.7491666666666665
+"Grapes, per kilogram",Quebec,2023,7.1825
+"Grapes, per kilogram",Quebec,2024,6.75625
+"Grapes, per kilogram",Saskatchewan,2017,7.155
+"Grapes, per kilogram",Saskatchewan,2018,6.8125
+"Grapes, per kilogram",Saskatchewan,2019,6.644166666666667
+"Grapes, per kilogram",Saskatchewan,2020,7.076666666666667
+"Grapes, per kilogram",Saskatchewan,2021,7.3758333333333335
+"Grapes, per kilogram",Saskatchewan,2022,8.34
+"Grapes, per kilogram",Saskatchewan,2023,9.188333333333334
+"Grapes, per kilogram",Saskatchewan,2024,9.04625
+"Lemons, unit",Alberta,2017,1.0116666666666667
+"Lemons, unit",Alberta,2018,1.0016666666666667
+"Lemons, unit",Alberta,2019,0.9383333333333334
+"Lemons, unit",Alberta,2020,0.8925
+"Lemons, unit",Alberta,2021,0.9516666666666667
+"Lemons, unit",Alberta,2022,0.9508333333333333
+"Lemons, unit",Alberta,2023,0.9408333333333334
+"Lemons, unit",Alberta,2024,0.9412499999999999
+"Lemons, unit",British Columbia,2017,1.0216666666666667
+"Lemons, unit",British Columbia,2018,1.0258333333333334
+"Lemons, unit",British Columbia,2019,0.9583333333333334
+"Lemons, unit",British Columbia,2020,0.9283333333333333
+"Lemons, unit",British Columbia,2021,0.985
+"Lemons, unit",British Columbia,2022,1.0
+"Lemons, unit",British Columbia,2023,0.9708333333333333
+"Lemons, unit",British Columbia,2024,0.96375
+"Lemons, unit",Manitoba,2017,0.9816666666666666
+"Lemons, unit",Manitoba,2018,0.9874999999999999
+"Lemons, unit",Manitoba,2019,0.9291666666666667
+"Lemons, unit",Manitoba,2020,0.8849999999999999
+"Lemons, unit",Manitoba,2021,0.9358333333333334
+"Lemons, unit",Manitoba,2022,0.9383333333333334
+"Lemons, unit",Manitoba,2023,0.9225
+"Lemons, unit",Manitoba,2024,0.91875
+"Lemons, unit",New Brunswick,2017,0.9866666666666667
+"Lemons, unit",New Brunswick,2018,0.9541666666666666
+"Lemons, unit",New Brunswick,2019,0.9550000000000001
+"Lemons, unit",New Brunswick,2020,0.9866666666666667
+"Lemons, unit",New Brunswick,2021,0.9766666666666666
+"Lemons, unit",New Brunswick,2022,0.9891666666666666
+"Lemons, unit",New Brunswick,2023,1.0991666666666666
+"Lemons, unit",New Brunswick,2024,1.04125
+"Lemons, unit",Newfoundland and Labrador,2017,1.1066666666666667
+"Lemons, unit",Newfoundland and Labrador,2018,0.995
+"Lemons, unit",Newfoundland and Labrador,2019,1.0033333333333332
+"Lemons, unit",Newfoundland and Labrador,2020,1.0558333333333334
+"Lemons, unit",Newfoundland and Labrador,2021,1.0158333333333334
+"Lemons, unit",Newfoundland and Labrador,2022,1.0508333333333333
+"Lemons, unit",Newfoundland and Labrador,2023,1.2008333333333334
+"Lemons, unit",Newfoundland and Labrador,2024,1.13125
+"Lemons, unit",Nova Scotia,2017,0.9891666666666667
+"Lemons, unit",Nova Scotia,2018,0.9491666666666667
+"Lemons, unit",Nova Scotia,2019,0.9591666666666666
+"Lemons, unit",Nova Scotia,2020,0.9666666666666667
+"Lemons, unit",Nova Scotia,2021,0.9725
+"Lemons, unit",Nova Scotia,2022,0.9733333333333333
+"Lemons, unit",Nova Scotia,2023,1.085
+"Lemons, unit",Nova Scotia,2024,1.0250000000000001
+"Lemons, unit",Ontario,2017,0.7866666666666666
+"Lemons, unit",Ontario,2018,0.8316666666666667
+"Lemons, unit",Ontario,2019,0.7200000000000001
+"Lemons, unit",Ontario,2020,0.7541666666666668
+"Lemons, unit",Ontario,2021,0.7758333333333334
+"Lemons, unit",Ontario,2022,0.8675
+"Lemons, unit",Ontario,2023,0.8708333333333332
+"Lemons, unit",Ontario,2024,0.8925000000000001
+"Lemons, unit",Prince Edward Island,2017,1.0041666666666667
+"Lemons, unit",Prince Edward Island,2018,0.9691666666666666
+"Lemons, unit",Prince Edward Island,2019,0.9625
+"Lemons, unit",Prince Edward Island,2020,0.9658333333333333
+"Lemons, unit",Prince Edward Island,2021,0.9824999999999999
+"Lemons, unit",Prince Edward Island,2022,0.9808333333333333
+"Lemons, unit",Prince Edward Island,2023,1.0908333333333333
+"Lemons, unit",Prince Edward Island,2024,1.02625
+"Lemons, unit",Quebec,2017,0.7799999999999999
+"Lemons, unit",Quebec,2018,0.8541666666666666
+"Lemons, unit",Quebec,2019,0.7675000000000001
+"Lemons, unit",Quebec,2020,0.8358333333333333
+"Lemons, unit",Quebec,2021,0.8475
+"Lemons, unit",Quebec,2022,0.9116666666666666
+"Lemons, unit",Quebec,2023,0.9108333333333333
+"Lemons, unit",Quebec,2024,0.875
+"Lemons, unit",Saskatchewan,2017,1.015
+"Lemons, unit",Saskatchewan,2018,1.0133333333333334
+"Lemons, unit",Saskatchewan,2019,0.9583333333333334
+"Lemons, unit",Saskatchewan,2020,0.9
+"Lemons, unit",Saskatchewan,2021,0.96
+"Lemons, unit",Saskatchewan,2022,0.9583333333333334
+"Lemons, unit",Saskatchewan,2023,0.9508333333333333
+"Lemons, unit",Saskatchewan,2024,0.93625
+"Limes, unit",Alberta,2017,0.5233333333333333
+"Limes, unit",Alberta,2018,0.5391666666666667
+"Limes, unit",Alberta,2019,0.5941666666666666
+"Limes, unit",Alberta,2020,0.6124999999999999
+"Limes, unit",Alberta,2021,0.6441666666666667
+"Limes, unit",Alberta,2022,0.8458333333333333
+"Limes, unit",Alberta,2023,0.8533333333333334
+"Limes, unit",Alberta,2024,0.8
+"Limes, unit",British Columbia,2017,0.5325
+"Limes, unit",British Columbia,2018,0.5633333333333334
+"Limes, unit",British Columbia,2019,0.6141666666666666
+"Limes, unit",British Columbia,2020,0.625
+"Limes, unit",British Columbia,2021,0.6725
+"Limes, unit",British Columbia,2022,0.8841666666666667
+"Limes, unit",British Columbia,2023,0.8883333333333333
+"Limes, unit",British Columbia,2024,0.83375
+"Limes, unit",Manitoba,2017,0.5341666666666667
+"Limes, unit",Manitoba,2018,0.535
+"Limes, unit",Manitoba,2019,0.5883333333333333
+"Limes, unit",Manitoba,2020,0.59
+"Limes, unit",Manitoba,2021,0.6375000000000001
+"Limes, unit",Manitoba,2022,0.8358333333333333
+"Limes, unit",Manitoba,2023,0.8433333333333333
+"Limes, unit",Manitoba,2024,0.77
+"Limes, unit",New Brunswick,2017,0.7174999999999999
+"Limes, unit",New Brunswick,2018,0.7575
+"Limes, unit",New Brunswick,2019,0.7799999999999999
+"Limes, unit",New Brunswick,2020,0.8291666666666666
+"Limes, unit",New Brunswick,2021,0.8566666666666666
+"Limes, unit",New Brunswick,2022,1.0608333333333333
+"Limes, unit",New Brunswick,2023,1.0816666666666668
+"Limes, unit",New Brunswick,2024,1.05375
+"Limes, unit",Newfoundland and Labrador,2017,0.8175
+"Limes, unit",Newfoundland and Labrador,2018,0.8233333333333334
+"Limes, unit",Newfoundland and Labrador,2019,0.8325
+"Limes, unit",Newfoundland and Labrador,2020,0.8849999999999999
+"Limes, unit",Newfoundland and Labrador,2021,0.9225
+"Limes, unit",Newfoundland and Labrador,2022,1.1708333333333334
+"Limes, unit",Newfoundland and Labrador,2023,1.295
+"Limes, unit",Newfoundland and Labrador,2024,1.21125
+"Limes, unit",Nova Scotia,2017,0.7233333333333333
+"Limes, unit",Nova Scotia,2018,0.7683333333333334
+"Limes, unit",Nova Scotia,2019,0.7916666666666666
+"Limes, unit",Nova Scotia,2020,0.8258333333333333
+"Limes, unit",Nova Scotia,2021,0.8533333333333334
+"Limes, unit",Nova Scotia,2022,1.0691666666666666
+"Limes, unit",Nova Scotia,2023,1.0975
+"Limes, unit",Nova Scotia,2024,1.0625
+"Limes, unit",Ontario,2017,0.3941666666666667
+"Limes, unit",Ontario,2018,0.4658333333333333
+"Limes, unit",Ontario,2019,0.48666666666666664
+"Limes, unit",Ontario,2020,0.4916666666666667
+"Limes, unit",Ontario,2021,0.5408333333333334
+"Limes, unit",Ontario,2022,0.7191666666666667
+"Limes, unit",Ontario,2023,0.7458333333333332
+"Limes, unit",Ontario,2024,0.725
+"Limes, unit",Prince Edward Island,2017,0.7308333333333333
+"Limes, unit",Prince Edward Island,2018,0.775
+"Limes, unit",Prince Edward Island,2019,0.7991666666666667
+"Limes, unit",Prince Edward Island,2020,0.8250000000000001
+"Limes, unit",Prince Edward Island,2021,0.8616666666666667
+"Limes, unit",Prince Edward Island,2022,1.0825
+"Limes, unit",Prince Edward Island,2023,1.1041666666666667
+"Limes, unit",Prince Edward Island,2024,1.0475
+"Limes, unit",Quebec,2017,0.48583333333333334
+"Limes, unit",Quebec,2018,0.5275
+"Limes, unit",Quebec,2019,0.5991666666666666
+"Limes, unit",Quebec,2020,0.6408333333333334
+"Limes, unit",Quebec,2021,0.7366666666666667
+"Limes, unit",Quebec,2022,0.8658333333333333
+"Limes, unit",Quebec,2023,0.8300000000000001
+"Limes, unit",Quebec,2024,0.8362499999999999
+"Limes, unit",Saskatchewan,2017,0.5383333333333333
+"Limes, unit",Saskatchewan,2018,0.5525000000000001
+"Limes, unit",Saskatchewan,2019,0.6083333333333333
+"Limes, unit",Saskatchewan,2020,0.61
+"Limes, unit",Saskatchewan,2021,0.655
+"Limes, unit",Saskatchewan,2022,0.875
+"Limes, unit",Saskatchewan,2023,0.8941666666666667
+"Limes, unit",Saskatchewan,2024,0.81625
+"Oranges, per kilogram",Alberta,2017,3.5233333333333334
+"Oranges, per kilogram",Alberta,2018,3.4933333333333336
+"Oranges, per kilogram",Alberta,2019,3.7566666666666664
+"Oranges, per kilogram",Alberta,2020,3.9774999999999996
+"Oranges, per kilogram",Alberta,2021,4.1674999999999995
+"Oranges, per kilogram",Alberta,2022,4.745833333333334
+"Oranges, per kilogram",Alberta,2023,4.601666666666667
+"Oranges, per kilogram",Alberta,2024,4.135
+"Oranges, per kilogram",British Columbia,2017,3.5
+"Oranges, per kilogram",British Columbia,2018,3.5991666666666666
+"Oranges, per kilogram",British Columbia,2019,3.840833333333333
+"Oranges, per kilogram",British Columbia,2020,3.864166666666667
+"Oranges, per kilogram",British Columbia,2021,4.176666666666667
+"Oranges, per kilogram",British Columbia,2022,4.859166666666667
+"Oranges, per kilogram",British Columbia,2023,4.883333333333334
+"Oranges, per kilogram",British Columbia,2024,4.061249999999999
+"Oranges, per kilogram",Manitoba,2017,3.6291666666666664
+"Oranges, per kilogram",Manitoba,2018,3.5841666666666665
+"Oranges, per kilogram",Manitoba,2019,3.5666666666666664
+"Oranges, per kilogram",Manitoba,2020,3.6149999999999998
+"Oranges, per kilogram",Manitoba,2021,3.955833333333333
+"Oranges, per kilogram",Manitoba,2022,4.718333333333333
+"Oranges, per kilogram",Manitoba,2023,4.583333333333333
+"Oranges, per kilogram",Manitoba,2024,4.0875
+"Oranges, per kilogram",New Brunswick,2017,3.813333333333333
+"Oranges, per kilogram",New Brunswick,2018,3.855833333333333
+"Oranges, per kilogram",New Brunswick,2019,3.9583333333333335
+"Oranges, per kilogram",New Brunswick,2020,4.379166666666666
+"Oranges, per kilogram",New Brunswick,2021,4.325833333333333
+"Oranges, per kilogram",New Brunswick,2022,4.949166666666667
+"Oranges, per kilogram",New Brunswick,2023,6.011666666666667
+"Oranges, per kilogram",New Brunswick,2024,5.30625
+"Oranges, per kilogram",Newfoundland and Labrador,2017,4.379166666666666
+"Oranges, per kilogram",Newfoundland and Labrador,2018,4.274166666666667
+"Oranges, per kilogram",Newfoundland and Labrador,2019,4.555833333333333
+"Oranges, per kilogram",Newfoundland and Labrador,2020,4.7075000000000005
+"Oranges, per kilogram",Newfoundland and Labrador,2021,4.89
+"Oranges, per kilogram",Newfoundland and Labrador,2022,5.3933333333333335
+"Oranges, per kilogram",Newfoundland and Labrador,2023,5.916666666666667
+"Oranges, per kilogram",Newfoundland and Labrador,2024,5.73625
+"Oranges, per kilogram",Nova Scotia,2017,3.7266666666666666
+"Oranges, per kilogram",Nova Scotia,2018,3.8083333333333336
+"Oranges, per kilogram",Nova Scotia,2019,3.8858333333333337
+"Oranges, per kilogram",Nova Scotia,2020,4.275833333333334
+"Oranges, per kilogram",Nova Scotia,2021,4.199166666666667
+"Oranges, per kilogram",Nova Scotia,2022,4.796666666666667
+"Oranges, per kilogram",Nova Scotia,2023,5.911666666666666
+"Oranges, per kilogram",Nova Scotia,2024,5.11125
+"Oranges, per kilogram",Ontario,2017,3.0433333333333334
+"Oranges, per kilogram",Ontario,2018,3.0875
+"Oranges, per kilogram",Ontario,2019,3.1366666666666667
+"Oranges, per kilogram",Ontario,2020,3.4883333333333333
+"Oranges, per kilogram",Ontario,2021,3.3275
+"Oranges, per kilogram",Ontario,2022,3.7375000000000003
+"Oranges, per kilogram",Ontario,2023,3.874166666666667
+"Oranges, per kilogram",Ontario,2024,3.5612500000000002
+"Oranges, per kilogram",Prince Edward Island,2017,3.7816666666666667
+"Oranges, per kilogram",Prince Edward Island,2018,3.8325
+"Oranges, per kilogram",Prince Edward Island,2019,3.920833333333334
+"Oranges, per kilogram",Prince Edward Island,2020,4.315
+"Oranges, per kilogram",Prince Edward Island,2021,4.2025
+"Oranges, per kilogram",Prince Edward Island,2022,4.899166666666667
+"Oranges, per kilogram",Prince Edward Island,2023,5.966666666666666
+"Oranges, per kilogram",Prince Edward Island,2024,5.12875
+"Oranges, per kilogram",Quebec,2017,3.205
+"Oranges, per kilogram",Quebec,2018,3.454166666666667
+"Oranges, per kilogram",Quebec,2019,3.645
+"Oranges, per kilogram",Quebec,2020,4.576666666666667
+"Oranges, per kilogram",Quebec,2021,4.583333333333333
+"Oranges, per kilogram",Quebec,2022,5.195833333333334
+"Oranges, per kilogram",Quebec,2023,5.445
+"Oranges, per kilogram",Quebec,2024,4.40375
+"Oranges, per kilogram",Saskatchewan,2017,3.6216666666666666
+"Oranges, per kilogram",Saskatchewan,2018,3.56
+"Oranges, per kilogram",Saskatchewan,2019,3.7808333333333333
+"Oranges, per kilogram",Saskatchewan,2020,3.8333333333333335
+"Oranges, per kilogram",Saskatchewan,2021,4.0275
+"Oranges, per kilogram",Saskatchewan,2022,4.7875000000000005
+"Oranges, per kilogram",Saskatchewan,2023,4.7775
+"Oranges, per kilogram",Saskatchewan,2024,4.2837499999999995
+"Pears, per kilogram",Alberta,2017,3.8383333333333334
+"Pears, per kilogram",Alberta,2018,3.9175
+"Pears, per kilogram",Alberta,2019,4.216666666666667
+"Pears, per kilogram",Alberta,2020,4.523333333333333
+"Pears, per kilogram",Alberta,2021,4.685833333333334
+"Pears, per kilogram",Alberta,2022,5.213333333333334
+"Pears, per kilogram",Alberta,2023,5.528333333333333
+"Pears, per kilogram",Alberta,2024,5.6025
+"Pears, per kilogram",British Columbia,2017,3.9591666666666665
+"Pears, per kilogram",British Columbia,2018,4.074166666666667
+"Pears, per kilogram",British Columbia,2019,4.273333333333333
+"Pears, per kilogram",British Columbia,2020,4.480833333333334
+"Pears, per kilogram",British Columbia,2021,4.789166666666667
+"Pears, per kilogram",British Columbia,2022,5.3425
+"Pears, per kilogram",British Columbia,2023,5.7525
+"Pears, per kilogram",British Columbia,2024,5.827500000000001
+"Pears, per kilogram",Manitoba,2017,3.9625
+"Pears, per kilogram",Manitoba,2018,3.985
+"Pears, per kilogram",Manitoba,2019,4.139166666666667
+"Pears, per kilogram",Manitoba,2020,4.349166666666666
+"Pears, per kilogram",Manitoba,2021,4.588333333333334
+"Pears, per kilogram",Manitoba,2022,5.0625
+"Pears, per kilogram",Manitoba,2023,5.405
+"Pears, per kilogram",Manitoba,2024,5.44875
+"Pears, per kilogram",New Brunswick,2017,4.6325
+"Pears, per kilogram",New Brunswick,2018,4.7508333333333335
+"Pears, per kilogram",New Brunswick,2019,4.925
+"Pears, per kilogram",New Brunswick,2020,5.716666666666666
+"Pears, per kilogram",New Brunswick,2021,5.844166666666666
+"Pears, per kilogram",New Brunswick,2022,6.198333333333333
+"Pears, per kilogram",New Brunswick,2023,6.23
+"Pears, per kilogram",New Brunswick,2024,6.06875
+"Pears, per kilogram",Newfoundland and Labrador,2017,5.031666666666666
+"Pears, per kilogram",Newfoundland and Labrador,2018,5.1225
+"Pears, per kilogram",Newfoundland and Labrador,2019,5.228333333333333
+"Pears, per kilogram",Newfoundland and Labrador,2020,5.860833333333333
+"Pears, per kilogram",Newfoundland and Labrador,2021,6.128333333333334
+"Pears, per kilogram",Newfoundland and Labrador,2022,6.681666666666666
+"Pears, per kilogram",Newfoundland and Labrador,2023,6.909166666666667
+"Pears, per kilogram",Newfoundland and Labrador,2024,6.95875
+"Pears, per kilogram",Nova Scotia,2017,4.625
+"Pears, per kilogram",Nova Scotia,2018,4.7491666666666665
+"Pears, per kilogram",Nova Scotia,2019,4.9191666666666665
+"Pears, per kilogram",Nova Scotia,2020,5.578333333333333
+"Pears, per kilogram",Nova Scotia,2021,5.8308333333333335
+"Pears, per kilogram",Nova Scotia,2022,6.023333333333333
+"Pears, per kilogram",Nova Scotia,2023,6.179166666666667
+"Pears, per kilogram",Nova Scotia,2024,5.9325
+"Pears, per kilogram",Ontario,2017,3.6466666666666665
+"Pears, per kilogram",Ontario,2018,3.9316666666666666
+"Pears, per kilogram",Ontario,2019,4.049166666666667
+"Pears, per kilogram",Ontario,2020,4.2775
+"Pears, per kilogram",Ontario,2021,4.295833333333333
+"Pears, per kilogram",Ontario,2022,5.101666666666667
+"Pears, per kilogram",Ontario,2023,5.21
+"Pears, per kilogram",Ontario,2024,5.0225
+"Pears, per kilogram",Prince Edward Island,2017,4.733333333333333
+"Pears, per kilogram",Prince Edward Island,2018,4.785833333333334
+"Pears, per kilogram",Prince Edward Island,2019,4.9783333333333335
+"Pears, per kilogram",Prince Edward Island,2020,5.6625000000000005
+"Pears, per kilogram",Prince Edward Island,2021,5.998333333333334
+"Pears, per kilogram",Prince Edward Island,2022,6.228333333333333
+"Pears, per kilogram",Prince Edward Island,2023,6.322500000000001
+"Pears, per kilogram",Prince Edward Island,2024,6.01625
+"Pears, per kilogram",Quebec,2017,3.9766666666666666
+"Pears, per kilogram",Quebec,2018,4.199166666666667
+"Pears, per kilogram",Quebec,2019,4.301666666666667
+"Pears, per kilogram",Quebec,2020,4.945
+"Pears, per kilogram",Quebec,2021,4.9375
+"Pears, per kilogram",Quebec,2022,5.641666666666667
+"Pears, per kilogram",Quebec,2023,5.896666666666667
+"Pears, per kilogram",Quebec,2024,4.985
+"Pears, per kilogram",Saskatchewan,2017,3.995833333333333
+"Pears, per kilogram",Saskatchewan,2018,3.9716666666666662
+"Pears, per kilogram",Saskatchewan,2019,4.310833333333334
+"Pears, per kilogram",Saskatchewan,2020,4.531666666666666
+"Pears, per kilogram",Saskatchewan,2021,4.718333333333333
+"Pears, per kilogram",Saskatchewan,2022,5.233333333333333
+"Pears, per kilogram",Saskatchewan,2023,5.540833333333333
+"Pears, per kilogram",Saskatchewan,2024,5.62125

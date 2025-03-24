@@ -1,0 +1,401 @@
+Products,province,year,avg_total_yearly
+"Bacon, 500 grams",Alberta,2017,6.148333333333333
+"Bacon, 500 grams",Alberta,2018,6.109166666666667
+"Bacon, 500 grams",Alberta,2019,6.245
+"Bacon, 500 grams",Alberta,2020,6.183333333333334
+"Bacon, 500 grams",Alberta,2021,6.740833333333334
+"Bacon, 500 grams",Alberta,2022,7.2225
+"Bacon, 500 grams",Alberta,2023,6.886666666666667
+"Bacon, 500 grams",Alberta,2024,6.9125
+"Bacon, 500 grams",British Columbia,2017,6.016666666666667
+"Bacon, 500 grams",British Columbia,2018,6.035833333333334
+"Bacon, 500 grams",British Columbia,2019,6.136666666666667
+"Bacon, 500 grams",British Columbia,2020,6.109166666666667
+"Bacon, 500 grams",British Columbia,2021,6.773333333333333
+"Bacon, 500 grams",British Columbia,2022,7.420000000000001
+"Bacon, 500 grams",British Columbia,2023,7.071666666666666
+"Bacon, 500 grams",British Columbia,2024,7.0725
+"Bacon, 500 grams",Manitoba,2017,5.986666666666667
+"Bacon, 500 grams",Manitoba,2018,5.983333333333333
+"Bacon, 500 grams",Manitoba,2019,5.8808333333333325
+"Bacon, 500 grams",Manitoba,2020,5.883333333333333
+"Bacon, 500 grams",Manitoba,2021,6.381666666666667
+"Bacon, 500 grams",Manitoba,2022,6.9941666666666675
+"Bacon, 500 grams",Manitoba,2023,6.609166666666667
+"Bacon, 500 grams",Manitoba,2024,6.46125
+"Bacon, 500 grams",New Brunswick,2017,5.115833333333334
+"Bacon, 500 grams",New Brunswick,2018,5.475833333333333
+"Bacon, 500 grams",New Brunswick,2019,5.601666666666667
+"Bacon, 500 grams",New Brunswick,2020,5.653333333333333
+"Bacon, 500 grams",New Brunswick,2021,6.5975
+"Bacon, 500 grams",New Brunswick,2022,7.1433333333333335
+"Bacon, 500 grams",New Brunswick,2023,7.005833333333334
+"Bacon, 500 grams",New Brunswick,2024,6.65
+"Bacon, 500 grams",Newfoundland and Labrador,2017,5.2716666666666665
+"Bacon, 500 grams",Newfoundland and Labrador,2018,5.429166666666667
+"Bacon, 500 grams",Newfoundland and Labrador,2019,5.530833333333334
+"Bacon, 500 grams",Newfoundland and Labrador,2020,5.552499999999999
+"Bacon, 500 grams",Newfoundland and Labrador,2021,6.243333333333333
+"Bacon, 500 grams",Newfoundland and Labrador,2022,6.753333333333334
+"Bacon, 500 grams",Newfoundland and Labrador,2023,6.633333333333333
+"Bacon, 500 grams",Newfoundland and Labrador,2024,6.48125
+"Bacon, 500 grams",Nova Scotia,2017,5.0808333333333335
+"Bacon, 500 grams",Nova Scotia,2018,5.37
+"Bacon, 500 grams",Nova Scotia,2019,5.461666666666667
+"Bacon, 500 grams",Nova Scotia,2020,5.5675
+"Bacon, 500 grams",Nova Scotia,2021,6.4575
+"Bacon, 500 grams",Nova Scotia,2022,7.031666666666666
+"Bacon, 500 grams",Nova Scotia,2023,6.894166666666667
+"Bacon, 500 grams",Nova Scotia,2024,6.575
+"Bacon, 500 grams",Ontario,2017,5.388333333333333
+"Bacon, 500 grams",Ontario,2018,5.7250000000000005
+"Bacon, 500 grams",Ontario,2019,5.7508333333333335
+"Bacon, 500 grams",Ontario,2020,5.88
+"Bacon, 500 grams",Ontario,2021,6.640833333333333
+"Bacon, 500 grams",Ontario,2022,7.2058333333333335
+"Bacon, 500 grams",Ontario,2023,6.7124999999999995
+"Bacon, 500 grams",Ontario,2024,6.13875
+"Bacon, 500 grams",Prince Edward Island,2017,4.970833333333333
+"Bacon, 500 grams",Prince Edward Island,2018,5.345833333333334
+"Bacon, 500 grams",Prince Edward Island,2019,5.421666666666667
+"Bacon, 500 grams",Prince Edward Island,2020,5.5025
+"Bacon, 500 grams",Prince Edward Island,2021,6.39
+"Bacon, 500 grams",Prince Edward Island,2022,7.0183333333333335
+"Bacon, 500 grams",Prince Edward Island,2023,6.876666666666666
+"Bacon, 500 grams",Prince Edward Island,2024,6.67
+"Bacon, 500 grams",Quebec,2017,5.558333333333334
+"Bacon, 500 grams",Quebec,2018,5.6066666666666665
+"Bacon, 500 grams",Quebec,2019,5.78
+"Bacon, 500 grams",Quebec,2020,5.7825
+"Bacon, 500 grams",Quebec,2021,6.738333333333333
+"Bacon, 500 grams",Quebec,2022,7.233333333333333
+"Bacon, 500 grams",Quebec,2023,6.7775
+"Bacon, 500 grams",Quebec,2024,6.41625
+"Bacon, 500 grams",Saskatchewan,2017,5.7175
+"Bacon, 500 grams",Saskatchewan,2018,5.654166666666666
+"Bacon, 500 grams",Saskatchewan,2019,5.763333333333333
+"Bacon, 500 grams",Saskatchewan,2020,5.66
+"Bacon, 500 grams",Saskatchewan,2021,6.109166666666667
+"Bacon, 500 grams",Saskatchewan,2022,6.781666666666666
+"Bacon, 500 grams",Saskatchewan,2023,6.46
+"Bacon, 500 grams",Saskatchewan,2024,6.69625
+"Chicken breasts, per kilogram",Alberta,2017,13.408333333333333
+"Chicken breasts, per kilogram",Alberta,2018,13.4475
+"Chicken breasts, per kilogram",Alberta,2019,13.179166666666667
+"Chicken breasts, per kilogram",Alberta,2020,13.870833333333332
+"Chicken breasts, per kilogram",Alberta,2021,14.164166666666667
+"Chicken breasts, per kilogram",Alberta,2022,15.088333333333333
+"Chicken breasts, per kilogram",Alberta,2023,16.054166666666667
+"Chicken breasts, per kilogram",Alberta,2024,16.44125
+"Chicken breasts, per kilogram",British Columbia,2017,13.097500000000002
+"Chicken breasts, per kilogram",British Columbia,2018,13.219999999999999
+"Chicken breasts, per kilogram",British Columbia,2019,13.071666666666665
+"Chicken breasts, per kilogram",British Columbia,2020,13.708333333333334
+"Chicken breasts, per kilogram",British Columbia,2021,14.220833333333333
+"Chicken breasts, per kilogram",British Columbia,2022,15.814166666666667
+"Chicken breasts, per kilogram",British Columbia,2023,16.459999999999997
+"Chicken breasts, per kilogram",British Columbia,2024,16.855
+"Chicken breasts, per kilogram",Manitoba,2017,12.771666666666667
+"Chicken breasts, per kilogram",Manitoba,2018,12.94
+"Chicken breasts, per kilogram",Manitoba,2019,12.230833333333335
+"Chicken breasts, per kilogram",Manitoba,2020,13.373333333333333
+"Chicken breasts, per kilogram",Manitoba,2021,13.635833333333332
+"Chicken breasts, per kilogram",Manitoba,2022,14.595
+"Chicken breasts, per kilogram",Manitoba,2023,15.478333333333333
+"Chicken breasts, per kilogram",Manitoba,2024,15.81875
+"Chicken breasts, per kilogram",New Brunswick,2017,10.418333333333333
+"Chicken breasts, per kilogram",New Brunswick,2018,10.39
+"Chicken breasts, per kilogram",New Brunswick,2019,11.29
+"Chicken breasts, per kilogram",New Brunswick,2020,11.1625
+"Chicken breasts, per kilogram",New Brunswick,2021,11.725
+"Chicken breasts, per kilogram",New Brunswick,2022,13.116666666666667
+"Chicken breasts, per kilogram",New Brunswick,2023,13.249166666666667
+"Chicken breasts, per kilogram",New Brunswick,2024,13.60375
+"Chicken breasts, per kilogram",Newfoundland and Labrador,2017,11.475000000000001
+"Chicken breasts, per kilogram",Newfoundland and Labrador,2018,11.715000000000002
+"Chicken breasts, per kilogram",Newfoundland and Labrador,2019,12.295
+"Chicken breasts, per kilogram",Newfoundland and Labrador,2020,12.385
+"Chicken breasts, per kilogram",Newfoundland and Labrador,2021,12.770833333333334
+"Chicken breasts, per kilogram",Newfoundland and Labrador,2022,13.368333333333332
+"Chicken breasts, per kilogram",Newfoundland and Labrador,2023,14.315833333333332
+"Chicken breasts, per kilogram",Newfoundland and Labrador,2024,14.397499999999999
+"Chicken breasts, per kilogram",Nova Scotia,2017,10.215
+"Chicken breasts, per kilogram",Nova Scotia,2018,10.213333333333333
+"Chicken breasts, per kilogram",Nova Scotia,2019,11.116666666666667
+"Chicken breasts, per kilogram",Nova Scotia,2020,11.018333333333333
+"Chicken breasts, per kilogram",Nova Scotia,2021,11.815833333333332
+"Chicken breasts, per kilogram",Nova Scotia,2022,13.259166666666667
+"Chicken breasts, per kilogram",Nova Scotia,2023,13.528333333333334
+"Chicken breasts, per kilogram",Nova Scotia,2024,13.77375
+"Chicken breasts, per kilogram",Ontario,2017,11.365
+"Chicken breasts, per kilogram",Ontario,2018,11.259166666666667
+"Chicken breasts, per kilogram",Ontario,2019,11.104166666666666
+"Chicken breasts, per kilogram",Ontario,2020,11.900833333333333
+"Chicken breasts, per kilogram",Ontario,2021,12.83
+"Chicken breasts, per kilogram",Ontario,2022,14.758333333333333
+"Chicken breasts, per kilogram",Ontario,2023,14.029166666666667
+"Chicken breasts, per kilogram",Ontario,2024,13.03
+"Chicken breasts, per kilogram",Prince Edward Island,2017,10.1875
+"Chicken breasts, per kilogram",Prince Edward Island,2018,10.155833333333334
+"Chicken breasts, per kilogram",Prince Edward Island,2019,11.265833333333333
+"Chicken breasts, per kilogram",Prince Edward Island,2020,11.0375
+"Chicken breasts, per kilogram",Prince Edward Island,2021,11.965000000000002
+"Chicken breasts, per kilogram",Prince Edward Island,2022,13.443333333333333
+"Chicken breasts, per kilogram",Prince Edward Island,2023,13.603333333333333
+"Chicken breasts, per kilogram",Prince Edward Island,2024,13.895
+"Chicken breasts, per kilogram",Quebec,2017,12.205
+"Chicken breasts, per kilogram",Quebec,2018,12.366666666666667
+"Chicken breasts, per kilogram",Quebec,2019,12.331666666666665
+"Chicken breasts, per kilogram",Quebec,2020,12.421666666666667
+"Chicken breasts, per kilogram",Quebec,2021,12.199166666666668
+"Chicken breasts, per kilogram",Quebec,2022,14.534999999999998
+"Chicken breasts, per kilogram",Quebec,2023,13.668333333333335
+"Chicken breasts, per kilogram",Quebec,2024,12.05375
+"Chicken breasts, per kilogram",Saskatchewan,2017,12.888333333333334
+"Chicken breasts, per kilogram",Saskatchewan,2018,12.71
+"Chicken breasts, per kilogram",Saskatchewan,2019,12.150833333333333
+"Chicken breasts, per kilogram",Saskatchewan,2020,12.655833333333334
+"Chicken breasts, per kilogram",Saskatchewan,2021,13.491666666666667
+"Chicken breasts, per kilogram",Saskatchewan,2022,14.696666666666665
+"Chicken breasts, per kilogram",Saskatchewan,2023,14.876666666666667
+"Chicken breasts, per kilogram",Saskatchewan,2024,15.785
+"Ground beef, per kilogram",Alberta,2017,9.385833333333332
+"Ground beef, per kilogram",Alberta,2018,9.245833333333334
+"Ground beef, per kilogram",Alberta,2019,9.3125
+"Ground beef, per kilogram",Alberta,2020,10.269166666666667
+"Ground beef, per kilogram",Alberta,2021,10.159166666666666
+"Ground beef, per kilogram",Alberta,2022,10.7425
+"Ground beef, per kilogram",Alberta,2023,11.375833333333333
+"Ground beef, per kilogram",Alberta,2024,12.758750000000001
+"Ground beef, per kilogram",British Columbia,2017,9.200000000000001
+"Ground beef, per kilogram",British Columbia,2018,9.105833333333333
+"Ground beef, per kilogram",British Columbia,2019,9.08
+"Ground beef, per kilogram",British Columbia,2020,10.170833333333333
+"Ground beef, per kilogram",British Columbia,2021,10.253333333333334
+"Ground beef, per kilogram",British Columbia,2022,10.948333333333332
+"Ground beef, per kilogram",British Columbia,2023,11.645000000000001
+"Ground beef, per kilogram",British Columbia,2024,12.90875
+"Ground beef, per kilogram",Manitoba,2017,8.875833333333334
+"Ground beef, per kilogram",Manitoba,2018,8.8425
+"Ground beef, per kilogram",Manitoba,2019,8.709999999999999
+"Ground beef, per kilogram",Manitoba,2020,9.653333333333334
+"Ground beef, per kilogram",Manitoba,2021,9.675833333333333
+"Ground beef, per kilogram",Manitoba,2022,10.0675
+"Ground beef, per kilogram",Manitoba,2023,10.775
+"Ground beef, per kilogram",Manitoba,2024,12.12125
+"Ground beef, per kilogram",New Brunswick,2017,8.468333333333334
+"Ground beef, per kilogram",New Brunswick,2018,8.100833333333332
+"Ground beef, per kilogram",New Brunswick,2019,8.424999999999999
+"Ground beef, per kilogram",New Brunswick,2020,9.505
+"Ground beef, per kilogram",New Brunswick,2021,9.313333333333334
+"Ground beef, per kilogram",New Brunswick,2022,10.363333333333333
+"Ground beef, per kilogram",New Brunswick,2023,11.190833333333332
+"Ground beef, per kilogram",New Brunswick,2024,12.0175
+"Ground beef, per kilogram",Newfoundland and Labrador,2017,8.459166666666667
+"Ground beef, per kilogram",Newfoundland and Labrador,2018,8.061666666666666
+"Ground beef, per kilogram",Newfoundland and Labrador,2019,8.460833333333333
+"Ground beef, per kilogram",Newfoundland and Labrador,2020,10.110833333333334
+"Ground beef, per kilogram",Newfoundland and Labrador,2021,9.358333333333333
+"Ground beef, per kilogram",Newfoundland and Labrador,2022,10.300833333333333
+"Ground beef, per kilogram",Newfoundland and Labrador,2023,11.126666666666667
+"Ground beef, per kilogram",Newfoundland and Labrador,2024,12.005
+"Ground beef, per kilogram",Nova Scotia,2017,8.1575
+"Ground beef, per kilogram",Nova Scotia,2018,8.028333333333334
+"Ground beef, per kilogram",Nova Scotia,2019,8.314166666666667
+"Ground beef, per kilogram",Nova Scotia,2020,9.445
+"Ground beef, per kilogram",Nova Scotia,2021,9.3225
+"Ground beef, per kilogram",Nova Scotia,2022,10.425
+"Ground beef, per kilogram",Nova Scotia,2023,11.200000000000001
+"Ground beef, per kilogram",Nova Scotia,2024,11.77
+"Ground beef, per kilogram",Ontario,2017,9.6225
+"Ground beef, per kilogram",Ontario,2018,9.336666666666666
+"Ground beef, per kilogram",Ontario,2019,9.34
+"Ground beef, per kilogram",Ontario,2020,10.020833333333334
+"Ground beef, per kilogram",Ontario,2021,9.141666666666667
+"Ground beef, per kilogram",Ontario,2022,10.279166666666667
+"Ground beef, per kilogram",Ontario,2023,10.805
+"Ground beef, per kilogram",Ontario,2024,12.075
+"Ground beef, per kilogram",Prince Edward Island,2017,8.2875
+"Ground beef, per kilogram",Prince Edward Island,2018,8.041666666666666
+"Ground beef, per kilogram",Prince Edward Island,2019,8.311666666666667
+"Ground beef, per kilogram",Prince Edward Island,2020,9.576666666666666
+"Ground beef, per kilogram",Prince Edward Island,2021,9.35
+"Ground beef, per kilogram",Prince Edward Island,2022,10.5175
+"Ground beef, per kilogram",Prince Edward Island,2023,11.260833333333332
+"Ground beef, per kilogram",Prince Edward Island,2024,12.10375
+"Ground beef, per kilogram",Quebec,2017,10.450000000000001
+"Ground beef, per kilogram",Quebec,2018,9.838333333333333
+"Ground beef, per kilogram",Quebec,2019,9.934166666666666
+"Ground beef, per kilogram",Quebec,2020,10.229166666666666
+"Ground beef, per kilogram",Quebec,2021,10.330833333333333
+"Ground beef, per kilogram",Quebec,2022,10.902500000000002
+"Ground beef, per kilogram",Quebec,2023,11.914166666666667
+"Ground beef, per kilogram",Quebec,2024,12.1525
+"Ground beef, per kilogram",Saskatchewan,2017,8.721666666666666
+"Ground beef, per kilogram",Saskatchewan,2018,8.543333333333333
+"Ground beef, per kilogram",Saskatchewan,2019,8.52
+"Ground beef, per kilogram",Saskatchewan,2020,9.356666666666667
+"Ground beef, per kilogram",Saskatchewan,2021,9.464166666666666
+"Ground beef, per kilogram",Saskatchewan,2022,10.100833333333334
+"Ground beef, per kilogram",Saskatchewan,2023,10.718333333333334
+"Ground beef, per kilogram",Saskatchewan,2024,11.92125
+"Pork loin cuts, per kilogram",Alberta,2017,9.639166666666666
+"Pork loin cuts, per kilogram",Alberta,2018,9.1875
+"Pork loin cuts, per kilogram",Alberta,2019,9.495
+"Pork loin cuts, per kilogram",Alberta,2020,9.726666666666667
+"Pork loin cuts, per kilogram",Alberta,2021,9.786666666666667
+"Pork loin cuts, per kilogram",Alberta,2022,9.42
+"Pork loin cuts, per kilogram",Alberta,2023,9.5325
+"Pork loin cuts, per kilogram",Alberta,2024,9.83375
+"Pork loin cuts, per kilogram",British Columbia,2017,9.311666666666666
+"Pork loin cuts, per kilogram",British Columbia,2018,8.829166666666667
+"Pork loin cuts, per kilogram",British Columbia,2019,9.055833333333334
+"Pork loin cuts, per kilogram",British Columbia,2020,9.4725
+"Pork loin cuts, per kilogram",British Columbia,2021,9.4975
+"Pork loin cuts, per kilogram",British Columbia,2022,9.623333333333333
+"Pork loin cuts, per kilogram",British Columbia,2023,9.59
+"Pork loin cuts, per kilogram",British Columbia,2024,9.67875
+"Pork loin cuts, per kilogram",Manitoba,2017,9.278333333333334
+"Pork loin cuts, per kilogram",Manitoba,2018,8.9
+"Pork loin cuts, per kilogram",Manitoba,2019,8.579166666666667
+"Pork loin cuts, per kilogram",Manitoba,2020,9.2875
+"Pork loin cuts, per kilogram",Manitoba,2021,9.296666666666667
+"Pork loin cuts, per kilogram",Manitoba,2022,9.260833333333332
+"Pork loin cuts, per kilogram",Manitoba,2023,9.056666666666667
+"Pork loin cuts, per kilogram",Manitoba,2024,9.30625
+"Pork loin cuts, per kilogram",New Brunswick,2017,6.6825
+"Pork loin cuts, per kilogram",New Brunswick,2018,6.9383333333333335
+"Pork loin cuts, per kilogram",New Brunswick,2019,7.320833333333333
+"Pork loin cuts, per kilogram",New Brunswick,2020,7.4191666666666665
+"Pork loin cuts, per kilogram",New Brunswick,2021,7.815
+"Pork loin cuts, per kilogram",New Brunswick,2022,8.441666666666666
+"Pork loin cuts, per kilogram",New Brunswick,2023,8.886666666666667
+"Pork loin cuts, per kilogram",New Brunswick,2024,8.7525
+"Pork loin cuts, per kilogram",Newfoundland and Labrador,2017,6.770833333333333
+"Pork loin cuts, per kilogram",Newfoundland and Labrador,2018,6.833333333333333
+"Pork loin cuts, per kilogram",Newfoundland and Labrador,2019,7.233333333333333
+"Pork loin cuts, per kilogram",Newfoundland and Labrador,2020,7.598333333333333
+"Pork loin cuts, per kilogram",Newfoundland and Labrador,2021,7.523333333333333
+"Pork loin cuts, per kilogram",Newfoundland and Labrador,2022,8.026666666666667
+"Pork loin cuts, per kilogram",Newfoundland and Labrador,2023,8.355833333333333
+"Pork loin cuts, per kilogram",Newfoundland and Labrador,2024,8.645
+"Pork loin cuts, per kilogram",Nova Scotia,2017,6.743333333333333
+"Pork loin cuts, per kilogram",Nova Scotia,2018,6.984166666666667
+"Pork loin cuts, per kilogram",Nova Scotia,2019,7.4383333333333335
+"Pork loin cuts, per kilogram",Nova Scotia,2020,7.554166666666667
+"Pork loin cuts, per kilogram",Nova Scotia,2021,8.010833333333332
+"Pork loin cuts, per kilogram",Nova Scotia,2022,8.490833333333333
+"Pork loin cuts, per kilogram",Nova Scotia,2023,8.765833333333333
+"Pork loin cuts, per kilogram",Nova Scotia,2024,8.79625
+"Pork loin cuts, per kilogram",Ontario,2017,7.335
+"Pork loin cuts, per kilogram",Ontario,2018,7.56
+"Pork loin cuts, per kilogram",Ontario,2019,8.154166666666667
+"Pork loin cuts, per kilogram",Ontario,2020,8.151666666666666
+"Pork loin cuts, per kilogram",Ontario,2021,8.683333333333334
+"Pork loin cuts, per kilogram",Ontario,2022,8.365
+"Pork loin cuts, per kilogram",Ontario,2023,8.469166666666666
+"Pork loin cuts, per kilogram",Ontario,2024,8.71
+"Pork loin cuts, per kilogram",Prince Edward Island,2017,6.764166666666667
+"Pork loin cuts, per kilogram",Prince Edward Island,2018,6.958333333333333
+"Pork loin cuts, per kilogram",Prince Edward Island,2019,7.4558333333333335
+"Pork loin cuts, per kilogram",Prince Edward Island,2020,7.545833333333333
+"Pork loin cuts, per kilogram",Prince Edward Island,2021,8.021666666666667
+"Pork loin cuts, per kilogram",Prince Edward Island,2022,8.655
+"Pork loin cuts, per kilogram",Prince Edward Island,2023,8.762500000000001
+"Pork loin cuts, per kilogram",Prince Edward Island,2024,8.785
+"Pork loin cuts, per kilogram",Quebec,2017,8.115833333333333
+"Pork loin cuts, per kilogram",Quebec,2018,7.5808333333333335
+"Pork loin cuts, per kilogram",Quebec,2019,7.983333333333333
+"Pork loin cuts, per kilogram",Quebec,2020,9.000833333333333
+"Pork loin cuts, per kilogram",Quebec,2021,9.096666666666666
+"Pork loin cuts, per kilogram",Quebec,2022,9.286666666666667
+"Pork loin cuts, per kilogram",Quebec,2023,9.318333333333333
+"Pork loin cuts, per kilogram",Quebec,2024,9.235
+"Pork loin cuts, per kilogram",Saskatchewan,2017,8.683333333333334
+"Pork loin cuts, per kilogram",Saskatchewan,2018,8.158333333333333
+"Pork loin cuts, per kilogram",Saskatchewan,2019,8.479166666666666
+"Pork loin cuts, per kilogram",Saskatchewan,2020,8.629166666666666
+"Pork loin cuts, per kilogram",Saskatchewan,2021,8.579166666666667
+"Pork loin cuts, per kilogram",Saskatchewan,2022,8.7025
+"Pork loin cuts, per kilogram",Saskatchewan,2023,8.76
+"Pork loin cuts, per kilogram",Saskatchewan,2024,9.04
+"Wieners, 400 grams",Alberta,2017,3.595833333333333
+"Wieners, 400 grams",Alberta,2018,3.5208333333333335
+"Wieners, 400 grams",Alberta,2019,3.6316666666666664
+"Wieners, 400 grams",Alberta,2020,3.9133333333333336
+"Wieners, 400 grams",Alberta,2021,3.9416666666666664
+"Wieners, 400 grams",Alberta,2022,4.2775
+"Wieners, 400 grams",Alberta,2023,4.258333333333334
+"Wieners, 400 grams",Alberta,2024,4.30625
+"Wieners, 400 grams",British Columbia,2017,3.59
+"Wieners, 400 grams",British Columbia,2018,3.5908333333333338
+"Wieners, 400 grams",British Columbia,2019,3.735
+"Wieners, 400 grams",British Columbia,2020,4.003333333333333
+"Wieners, 400 grams",British Columbia,2021,4.105833333333334
+"Wieners, 400 grams",British Columbia,2022,4.3966666666666665
+"Wieners, 400 grams",British Columbia,2023,4.430833333333333
+"Wieners, 400 grams",British Columbia,2024,4.4525
+"Wieners, 400 grams",Manitoba,2017,3.5041666666666664
+"Wieners, 400 grams",Manitoba,2018,3.4066666666666667
+"Wieners, 400 grams",Manitoba,2019,3.5541666666666667
+"Wieners, 400 grams",Manitoba,2020,3.8008333333333333
+"Wieners, 400 grams",Manitoba,2021,3.768333333333333
+"Wieners, 400 grams",Manitoba,2022,4.1325
+"Wieners, 400 grams",Manitoba,2023,4.083333333333333
+"Wieners, 400 grams",Manitoba,2024,4.1775
+"Wieners, 400 grams",New Brunswick,2017,2.891666666666667
+"Wieners, 400 grams",New Brunswick,2018,3.123333333333333
+"Wieners, 400 grams",New Brunswick,2019,3.25
+"Wieners, 400 grams",New Brunswick,2020,3.5116666666666667
+"Wieners, 400 grams",New Brunswick,2021,3.6216666666666666
+"Wieners, 400 grams",New Brunswick,2022,3.9416666666666664
+"Wieners, 400 grams",New Brunswick,2023,4.013333333333334
+"Wieners, 400 grams",New Brunswick,2024,4.13125
+"Wieners, 400 grams",Newfoundland and Labrador,2017,2.7533333333333334
+"Wieners, 400 grams",Newfoundland and Labrador,2018,2.975
+"Wieners, 400 grams",Newfoundland and Labrador,2019,3.1191666666666666
+"Wieners, 400 grams",Newfoundland and Labrador,2020,3.3433333333333333
+"Wieners, 400 grams",Newfoundland and Labrador,2021,3.4766666666666666
+"Wieners, 400 grams",Newfoundland and Labrador,2022,3.8024999999999998
+"Wieners, 400 grams",Newfoundland and Labrador,2023,3.7816666666666667
+"Wieners, 400 grams",Newfoundland and Labrador,2024,3.8025
+"Wieners, 400 grams",Nova Scotia,2017,2.9166666666666665
+"Wieners, 400 grams",Nova Scotia,2018,3.143333333333333
+"Wieners, 400 grams",Nova Scotia,2019,3.2616666666666667
+"Wieners, 400 grams",Nova Scotia,2020,3.5399999999999996
+"Wieners, 400 grams",Nova Scotia,2021,3.658333333333333
+"Wieners, 400 grams",Nova Scotia,2022,4.1175
+"Wieners, 400 grams",Nova Scotia,2023,4.134166666666666
+"Wieners, 400 grams",Nova Scotia,2024,4.2
+"Wieners, 400 grams",Ontario,2017,3.035
+"Wieners, 400 grams",Ontario,2018,3.063333333333333
+"Wieners, 400 grams",Ontario,2019,3.295
+"Wieners, 400 grams",Ontario,2020,3.7925
+"Wieners, 400 grams",Ontario,2021,4.0575
+"Wieners, 400 grams",Ontario,2022,4.400833333333334
+"Wieners, 400 grams",Ontario,2023,4.300833333333333
+"Wieners, 400 grams",Ontario,2024,4.2787500000000005
+"Wieners, 400 grams",Prince Edward Island,2017,2.8249999999999997
+"Wieners, 400 grams",Prince Edward Island,2018,3.0825
+"Wieners, 400 grams",Prince Edward Island,2019,3.263333333333333
+"Wieners, 400 grams",Prince Edward Island,2020,3.549166666666667
+"Wieners, 400 grams",Prince Edward Island,2021,3.6766666666666663
+"Wieners, 400 grams",Prince Edward Island,2022,4.095
+"Wieners, 400 grams",Prince Edward Island,2023,4.171666666666667
+"Wieners, 400 grams",Prince Edward Island,2024,4.21
+"Wieners, 400 grams",Quebec,2017,2.7566666666666664
+"Wieners, 400 grams",Quebec,2018,2.7091666666666665
+"Wieners, 400 grams",Quebec,2019,2.813333333333333
+"Wieners, 400 grams",Quebec,2020,2.9774999999999996
+"Wieners, 400 grams",Quebec,2021,3.2883333333333336
+"Wieners, 400 grams",Quebec,2022,3.3608333333333333
+"Wieners, 400 grams",Quebec,2023,3.3524999999999996
+"Wieners, 400 grams",Quebec,2024,3.30375
+"Wieners, 400 grams",Saskatchewan,2017,3.2641666666666667
+"Wieners, 400 grams",Saskatchewan,2018,3.123333333333333
+"Wieners, 400 grams",Saskatchewan,2019,3.263333333333333
+"Wieners, 400 grams",Saskatchewan,2020,3.4766666666666666
+"Wieners, 400 grams",Saskatchewan,2021,3.4575
+"Wieners, 400 grams",Saskatchewan,2022,3.8191666666666664
+"Wieners, 400 grams",Saskatchewan,2023,3.825833333333333
+"Wieners, 400 grams",Saskatchewan,2024,4.04875

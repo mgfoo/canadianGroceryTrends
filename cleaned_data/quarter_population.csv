@@ -1,0 +1,435 @@
+GEO,VALUE,Year,Quarter
+Alberta,4215506,2017,1
+Alberta,4224933,2017,2
+Alberta,4237310,2017,3
+Alberta,4253530,2017,4
+Alberta,4263957,2018,1
+Alberta,4276444,2018,2
+Alberta,4292556,2018,3
+Alberta,4311439,2018,4
+Alberta,4324254,2019,1
+Alberta,4337569,2019,2
+Alberta,4355377,2019,3
+Alberta,4376860,2019,4
+Alberta,4392958,2020,1
+Alberta,4405455,2020,2
+Alberta,4407495,2020,3
+Alberta,4412013,2020,4
+Alberta,4418338,2021,1
+Alberta,4425617,2021,2
+Alberta,4431531,2021,3
+Alberta,4449956,2021,4
+Alberta,4465137,2022,1
+Alberta,4480389,2022,2
+Alberta,4510747,2022,3
+Alberta,4558643,2022,4
+Alberta,4595851,2023,1
+Alberta,4639399,2023,2
+Alberta,4684514,2023,3
+Alberta,4744897,2023,4
+Alberta,4791876,2024,1
+Alberta,4842523,2024,2
+Alberta,4888723,2024,3
+British Columbia,4894147,2017,1
+British Columbia,4908971,2017,2
+British Columbia,4934202,2017,3
+British Columbia,4962706,2017,4
+British Columbia,4974712,2018,1
+British Columbia,4991716,2018,2
+British Columbia,5020979,2018,3
+British Columbia,5052131,2018,4
+British Columbia,5061132,2019,1
+British Columbia,5080515,2019,2
+British Columbia,5111022,2019,3
+British Columbia,5148047,2019,4
+British Columbia,5157053,2020,1
+British Columbia,5169535,2020,2
+British Columbia,5176101,2020,3
+British Columbia,5173896,2020,4
+British Columbia,5180015,2021,1
+British Columbia,5200393,2021,2
+British Columbia,5226665,2021,3
+British Columbia,5267182,2021,4
+British Columbia,5287422,2022,1
+British Columbia,5311608,2022,2
+British Columbia,5357486,2022,3
+British Columbia,5408601,2022,4
+British Columbia,5443002,2023,1
+British Columbia,5478258,2023,2
+British Columbia,5531553,2023,3
+British Columbia,5593961,2023,4
+British Columbia,5627961,2024,1
+British Columbia,5666888,2024,2
+British Columbia,5698430,2024,3
+Canada,36313068,2017,1
+Canada,36397141,2017,2
+Canada,36545075,2017,3
+Canada,36722075,2017,4
+Canada,36801579,2018,1
+Canada,36903671,2018,2
+Canada,37072620,2018,3
+Canada,37259485,2018,4
+Canada,37336956,2019,1
+Canada,37437243,2019,2
+Canada,37618495,2019,3
+Canada,37828162,2019,4
+Canada,37928208,2020,1
+Canada,38006941,2020,2
+Canada,38028638,2020,3
+Canada,38027406,2020,4
+Canada,38058291,2021,1
+Canada,38140918,2021,2
+Canada,38239864,2021,3
+Canada,38446871,2021,4
+Canada,38566032,2022,1
+Canada,38682424,2022,2
+Canada,38935934,2022,3
+Canada,39279501,2022,4
+Canada,39527986,2023,1
+Canada,39748878,2023,2
+Canada,40083484,2023,3
+Canada,40513781,2023,4
+Canada,40784356,2024,1
+Canada,41038370,2024,2
+Canada,41288599,2024,3
+Manitoba,1324044,2017,1
+Manitoba,1328337,2017,2
+Manitoba,1334734,2017,3
+Manitoba,1340426,2017,4
+Manitoba,1344198,2018,1
+Manitoba,1346916,2018,2
+Manitoba,1352687,2018,3
+Manitoba,1357856,2018,4
+Manitoba,1361737,2019,1
+Manitoba,1364666,2019,2
+Manitoba,1370033,2019,3
+Manitoba,1373884,2019,4
+Manitoba,1377283,2020,1
+Manitoba,1379280,2020,2
+Manitoba,1380132,2020,3
+Manitoba,1381809,2020,4
+Manitoba,1383854,2021,1
+Manitoba,1388611,2021,2
+Manitoba,1391924,2021,3
+Manitoba,1396162,2021,4
+Manitoba,1399970,2022,1
+Manitoba,1404199,2022,2
+Manitoba,1412568,2022,3
+Manitoba,1423465,2022,4
+Manitoba,1432984,2023,1
+Manitoba,1444025,2023,2
+Manitoba,1454743,2023,3
+Manitoba,1465035,2023,4
+Manitoba,1475046,2024,1
+Manitoba,1485955,2024,2
+Manitoba,1494301,2024,3
+New Brunswick,764612,2017,1
+New Brunswick,764859,2017,2
+New Brunswick,766697,2017,3
+New Brunswick,768029,2017,4
+New Brunswick,768146,2018,1
+New Brunswick,768707,2018,2
+New Brunswick,770497,2018,3
+New Brunswick,772793,2018,4
+New Brunswick,773059,2019,1
+New Brunswick,774277,2019,2
+New Brunswick,777387,2019,3
+New Brunswick,780907,2019,4
+New Brunswick,781054,2020,1
+New Brunswick,782512,2020,2
+New Brunswick,783432,2020,3
+New Brunswick,783814,2020,4
+New Brunswick,784950,2021,1
+New Brunswick,787002,2021,2
+New Brunswick,790802,2021,3
+New Brunswick,795732,2021,4
+New Brunswick,798713,2022,1
+New Brunswick,801756,2022,2
+New Brunswick,809264,2022,3
+New Brunswick,817173,2022,4
+New Brunswick,820576,2023,1
+New Brunswick,825417,2023,2
+New Brunswick,832190,2023,3
+New Brunswick,840578,2023,4
+New Brunswick,844433,2024,1
+New Brunswick,849168,2024,2
+New Brunswick,854355,2024,3
+Newfoundland and Labrador,530175,2017,1
+Newfoundland and Labrador,529700,2017,2
+Newfoundland and Labrador,529742,2017,3
+Newfoundland and Labrador,530153,2017,4
+Newfoundland and Labrador,529743,2018,1
+Newfoundland and Labrador,528924,2018,2
+Newfoundland and Labrador,528402,2018,3
+Newfoundland and Labrador,528926,2018,4
+Newfoundland and Labrador,528326,2019,1
+Newfoundland and Labrador,527993,2019,2
+Newfoundland and Labrador,527643,2019,3
+Newfoundland and Labrador,528442,2019,4
+Newfoundland and Labrador,528231,2020,1
+Newfoundland and Labrador,527733,2020,2
+Newfoundland and Labrador,526884,2020,3
+Newfoundland and Labrador,526046,2020,4
+Newfoundland and Labrador,525895,2021,1
+Newfoundland and Labrador,526195,2021,2
+Newfoundland and Labrador,527056,2021,3
+Newfoundland and Labrador,528302,2021,4
+Newfoundland and Labrador,528957,2022,1
+Newfoundland and Labrador,529042,2022,2
+Newfoundland and Labrador,531308,2022,3
+Newfoundland and Labrador,533409,2022,4
+Newfoundland and Labrador,535298,2023,1
+Newfoundland and Labrador,536686,2023,2
+Newfoundland and Labrador,538907,2023,3
+Newfoundland and Labrador,541000,2023,4
+Newfoundland and Labrador,541820,2024,1
+Newfoundland and Labrador,543141,2024,2
+Newfoundland and Labrador,545247,2024,3
+Northwest Territories,44471,2017,1
+Northwest Territories,44626,2017,2
+Northwest Territories,44656,2017,3
+Northwest Territories,44825,2017,4
+Northwest Territories,44730,2018,1
+Northwest Territories,44934,2018,2
+Northwest Territories,44536,2018,3
+Northwest Territories,44487,2018,4
+Northwest Territories,44675,2019,1
+Northwest Territories,44560,2019,2
+Northwest Territories,44442,2019,3
+Northwest Territories,44512,2019,4
+Northwest Territories,44533,2020,1
+Northwest Territories,44565,2020,2
+Northwest Territories,44504,2020,3
+Northwest Territories,44395,2020,4
+Northwest Territories,44432,2021,1
+Northwest Territories,44679,2021,2
+Northwest Territories,44579,2021,3
+Northwest Territories,44593,2021,4
+Northwest Territories,44752,2022,1
+Northwest Territories,44788,2022,2
+Northwest Territories,44634,2022,3
+Northwest Territories,44588,2022,4
+Northwest Territories,44446,2023,1
+Northwest Territories,44468,2023,2
+Northwest Territories,44681,2023,3
+Northwest Territories,44495,2023,4
+Northwest Territories,44499,2024,1
+Northwest Territories,44686,2024,2
+Northwest Territories,44731,2024,3
+Nova Scotia,947023,2017,1
+Nova Scotia,948945,2017,2
+Nova Scotia,952159,2017,3
+Nova Scotia,956074,2017,4
+Nova Scotia,956711,2018,1
+Nova Scotia,957883,2018,2
+Nova Scotia,962072,2018,3
+Nova Scotia,967578,2018,4
+Nova Scotia,968724,2019,1
+Nova Scotia,970680,2019,2
+Nova Scotia,975799,2019,3
+Nova Scotia,982592,2019,4
+Nova Scotia,984130,2020,1
+Nova Scotia,986204,2020,2
+Nova Scotia,989168,2020,3
+Nova Scotia,989154,2020,4
+Nova Scotia,990025,2021,1
+Nova Scotia,993946,2021,2
+Nova Scotia,999908,2021,3
+Nova Scotia,1006758,2021,4
+Nova Scotia,1010529,2022,1
+Nova Scotia,1014733,2022,2
+Nova Scotia,1025263,2022,3
+Nova Scotia,1035163,2022,4
+Nova Scotia,1040187,2023,1
+Nova Scotia,1047129,2023,2
+Nova Scotia,1056486,2023,3
+Nova Scotia,1064297,2023,4
+Nova Scotia,1068120,2024,1
+Nova Scotia,1071498,2024,2
+Nova Scotia,1076374,2024,3
+Nunavut,37246,2017,1
+Nunavut,37431,2017,2
+Nunavut,37656,2017,3
+Nunavut,37829,2017,4
+Nunavut,37830,2018,1
+Nunavut,37976,2018,2
+Nunavut,38322,2018,3
+Nunavut,38487,2018,4
+Nunavut,38574,2019,1
+Nunavut,38764,2019,2
+Nunavut,38839,2019,3
+Nunavut,38893,2019,4
+Nunavut,39010,2020,1
+Nunavut,39137,2020,2
+Nunavut,39479,2020,3
+Nunavut,39581,2020,4
+Nunavut,39750,2021,1
+Nunavut,39879,2021,2
+Nunavut,40086,2021,3
+Nunavut,40229,2021,4
+Nunavut,40271,2022,1
+Nunavut,40460,2022,2
+Nunavut,40457,2022,3
+Nunavut,40491,2022,4
+Nunavut,40569,2023,1
+Nunavut,40560,2023,2
+Nunavut,40700,2023,3
+Nunavut,40898,2023,4
+Nunavut,40794,2024,1
+Nunavut,40851,2024,2
+Nunavut,41159,2024,3
+Ontario,13975516,2017,1
+Ontario,14012209,2017,2
+Ontario,14078499,2017,3
+Ontario,14161084,2017,4
+Ontario,14199811,2018,1
+Ontario,14251136,2018,2
+Ontario,14326746,2018,3
+Ontario,14413055,2018,4
+Ontario,14449986,2019,1
+Ontario,14493612,2019,2
+Ontario,14573565,2019,3
+Ontario,14666727,2019,4
+Ontario,14718155,2020,1
+Ontario,14752374,2020,2
+Ontario,14761811,2020,3
+Ontario,14757582,2020,4
+Ontario,14772726,2021,1
+Ontario,14808093,2021,2
+Ontario,14842488,2021,3
+Ontario,14938314,2021,4
+Ontario,14995433,2022,1
+Ontario,15042458,2022,2
+Ontario,15141455,2022,3
+Ontario,15289550,2022,4
+Ontario,15402095,2023,1
+Ontario,15478287,2023,2
+Ontario,15623207,2023,3
+Ontario,15818465,2023,4
+Ontario,15944379,2024,1
+Ontario,16033583,2024,2
+Ontario,16124116,2024,3
+Prince Edward Island,147811,2017,1
+Prince Edward Island,148354,2017,2
+Prince Edward Island,149740,2017,3
+Prince Edward Island,150595,2017,4
+Prince Edward Island,150619,2018,1
+Prince Edward Island,151008,2018,2
+Prince Edward Island,152259,2018,3
+Prince Edward Island,153906,2018,4
+Prince Edward Island,153881,2019,1
+Prince Edward Island,154409,2019,2
+Prince Edward Island,155792,2019,3
+Prince Edward Island,157025,2019,4
+Prince Edward Island,157494,2020,1
+Prince Edward Island,158401,2020,2
+Prince Edward Island,159193,2020,3
+Prince Edward Island,159179,2020,4
+Prince Edward Island,159240,2021,1
+Prince Edward Island,160334,2021,2
+Prince Edward Island,162133,2021,3
+Prince Edward Island,163728,2021,4
+Prince Edward Island,164164,2022,1
+Prince Edward Island,165574,2022,2
+Prince Edward Island,167213,2022,3
+Prince Edward Island,169032,2022,4
+Prince Edward Island,170077,2023,1
+Prince Edward Island,171856,2023,2
+Prince Edward Island,173713,2023,3
+Prince Edward Island,175871,2023,4
+Prince Edward Island,176318,2024,1
+Prince Edward Island,177318,2024,2
+Prince Edward Island,178550,2024,3
+Quebec,8252179,2017,1
+Quebec,8265839,2017,2
+Quebec,8292832,2017,3
+Quebec,8326075,2017,4
+Quebec,8338883,2018,1
+Quebec,8354460,2018,2
+Quebec,8386951,2018,3
+Quebec,8418646,2018,4
+Quebec,8430363,2019,1
+Quebec,8447632,2019,2
+Quebec,8483186,2019,3
+Quebec,8521542,2019,4
+Quebec,8537376,2020,1
+Quebec,8550900,2020,2
+Quebec,8551095,2020,3
+Quebec,8551865,2020,4
+Quebec,8550561,2021,1
+Quebec,8556015,2021,2
+Quebec,8572020,2021,3
+Quebec,8603995,2021,4
+Quebec,8616610,2022,1
+Quebec,8630541,2022,2
+Quebec,8673184,2022,3
+Quebec,8727339,2022,4
+Quebec,8762928,2023,1
+Quebec,8796788,2023,2
+Quebec,8848020,2023,3
+Quebec,8918906,2023,4
+Quebec,8956326,2024,1
+Quebec,9003338,2024,2
+Quebec,9056044,2024,3
+Saskatchewan,1141537,2017,1
+Saskatchewan,1143829,2017,2
+Saskatchewan,1147315,2017,3
+Saskatchewan,1151044,2017,4
+Saskatchewan,1152366,2018,1
+Saskatchewan,1153530,2018,2
+Saskatchewan,1156210,2018,3
+Saskatchewan,1159648,2018,4
+Saskatchewan,1161529,2019,1
+Saskatchewan,1161787,2019,2
+Saskatchewan,1164223,2019,3
+Saskatchewan,1167271,2019,4
+Saskatchewan,1169426,2020,1
+Saskatchewan,1169038,2020,2
+Saskatchewan,1167386,2020,3
+Saskatchewan,1165963,2020,4
+Saskatchewan,1166348,2021,1
+Saskatchewan,1167711,2021,2
+Saskatchewan,1167711,2021,3
+Saskatchewan,1168792,2021,4
+Saskatchewan,1171007,2022,1
+Saskatchewan,1173421,2022,2
+Saskatchewan,1178455,2022,3
+Saskatchewan,1187854,2022,4
+Saskatchewan,1195464,2023,1
+Saskatchewan,1201089,2023,2
+Saskatchewan,1209307,2023,3
+Saskatchewan,1219702,2023,4
+Saskatchewan,1226848,2024,1
+Saskatchewan,1233068,2024,2
+Saskatchewan,1239865,2024,3
+Yukon,38801,2017,1
+Yukon,39108,2017,2
+Yukon,39533,2017,3
+Yukon,39705,2017,4
+Yukon,39873,2018,1
+Yukon,40037,2018,2
+Yukon,40403,2018,3
+Yukon,40533,2018,4
+Yukon,40716,2019,1
+Yukon,40779,2019,2
+Yukon,41187,2019,3
+Yukon,41460,2019,4
+Yukon,41505,2020,1
+Yukon,41807,2020,2
+Yukon,41958,2020,3
+Yukon,42109,2020,4
+Yukon,42157,2021,1
+Yukon,42443,2021,2
+Yukon,42961,2021,3
+Yukon,43128,2021,4
+Yukon,43067,2022,1
+Yukon,43455,2022,2
+Yukon,43900,2022,3
+Yukon,44193,2022,4
+Yukon,44509,2023,1
+Yukon,44916,2023,2
+Yukon,45463,2023,3
+Yukon,45676,2023,4
+Yukon,45936,2024,1
+Yukon,46353,2024,2
+Yukon,46704,2024,3

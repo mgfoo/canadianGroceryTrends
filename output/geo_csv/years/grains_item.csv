@@ -1,0 +1,321 @@
+Products,province,year,avg_total_yearly
+"Cereal, 400 grams",Alberta,2017,3.248333333333333
+"Cereal, 400 grams",Alberta,2018,3.1908333333333334
+"Cereal, 400 grams",Alberta,2019,3.1783333333333332
+"Cereal, 400 grams",Alberta,2020,3.2783333333333338
+"Cereal, 400 grams",Alberta,2021,3.36
+"Cereal, 400 grams",Alberta,2022,3.865
+"Cereal, 400 grams",Alberta,2023,4.1258333333333335
+"Cereal, 400 grams",Alberta,2024,4.1975
+"Cereal, 400 grams",British Columbia,2017,3.230833333333333
+"Cereal, 400 grams",British Columbia,2018,3.1925000000000003
+"Cereal, 400 grams",British Columbia,2019,3.1658333333333335
+"Cereal, 400 grams",British Columbia,2020,3.251666666666667
+"Cereal, 400 grams",British Columbia,2021,3.3441666666666667
+"Cereal, 400 grams",British Columbia,2022,3.855833333333333
+"Cereal, 400 grams",British Columbia,2023,4.123333333333334
+"Cereal, 400 grams",British Columbia,2024,4.2
+"Cereal, 400 grams",Manitoba,2017,3.234166666666667
+"Cereal, 400 grams",Manitoba,2018,3.160833333333333
+"Cereal, 400 grams",Manitoba,2019,3.1358333333333337
+"Cereal, 400 grams",Manitoba,2020,3.2016666666666667
+"Cereal, 400 grams",Manitoba,2021,3.265833333333333
+"Cereal, 400 grams",Manitoba,2022,3.7550000000000003
+"Cereal, 400 grams",Manitoba,2023,4.009166666666666
+"Cereal, 400 grams",Manitoba,2024,4.085
+"Cereal, 400 grams",New Brunswick,2017,3.275
+"Cereal, 400 grams",New Brunswick,2018,3.215
+"Cereal, 400 grams",New Brunswick,2019,3.266666666666667
+"Cereal, 400 grams",New Brunswick,2020,3.294166666666667
+"Cereal, 400 grams",New Brunswick,2021,3.4774999999999996
+"Cereal, 400 grams",New Brunswick,2022,4.1000000000000005
+"Cereal, 400 grams",New Brunswick,2023,4.3175
+"Cereal, 400 grams",New Brunswick,2024,4.28875
+"Cereal, 400 grams",Newfoundland and Labrador,2017,3.3883333333333336
+"Cereal, 400 grams",Newfoundland and Labrador,2018,3.314166666666667
+"Cereal, 400 grams",Newfoundland and Labrador,2019,3.359166666666667
+"Cereal, 400 grams",Newfoundland and Labrador,2020,3.4308333333333336
+"Cereal, 400 grams",Newfoundland and Labrador,2021,3.5658333333333334
+"Cereal, 400 grams",Newfoundland and Labrador,2022,4.148333333333333
+"Cereal, 400 grams",Newfoundland and Labrador,2023,4.426666666666667
+"Cereal, 400 grams",Newfoundland and Labrador,2024,4.36625
+"Cereal, 400 grams",Nova Scotia,2017,3.223333333333333
+"Cereal, 400 grams",Nova Scotia,2018,3.1508333333333334
+"Cereal, 400 grams",Nova Scotia,2019,3.2108333333333334
+"Cereal, 400 grams",Nova Scotia,2020,3.2675
+"Cereal, 400 grams",Nova Scotia,2021,3.4425000000000003
+"Cereal, 400 grams",Nova Scotia,2022,4.0424999999999995
+"Cereal, 400 grams",Nova Scotia,2023,4.274166666666667
+"Cereal, 400 grams",Nova Scotia,2024,4.2525
+"Cereal, 400 grams",Ontario,2017,3.029166666666667
+"Cereal, 400 grams",Ontario,2018,3.035833333333333
+"Cereal, 400 grams",Ontario,2019,3.0533333333333332
+"Cereal, 400 grams",Ontario,2020,3.1758333333333333
+"Cereal, 400 grams",Ontario,2021,3.3091666666666666
+"Cereal, 400 grams",Ontario,2022,3.855833333333333
+"Cereal, 400 grams",Ontario,2023,4.133333333333334
+"Cereal, 400 grams",Ontario,2024,4.171250000000001
+"Cereal, 400 grams",Prince Edward Island,2017,3.1750000000000003
+"Cereal, 400 grams",Prince Edward Island,2018,3.1283333333333334
+"Cereal, 400 grams",Prince Edward Island,2019,3.185
+"Cereal, 400 grams",Prince Edward Island,2020,3.2416666666666667
+"Cereal, 400 grams",Prince Edward Island,2021,3.4125
+"Cereal, 400 grams",Prince Edward Island,2022,4.033333333333333
+"Cereal, 400 grams",Prince Edward Island,2023,4.276666666666666
+"Cereal, 400 grams",Prince Edward Island,2024,4.26375
+"Cereal, 400 grams",Quebec,2017,3.2424999999999997
+"Cereal, 400 grams",Quebec,2018,3.285
+"Cereal, 400 grams",Quebec,2019,3.2716666666666665
+"Cereal, 400 grams",Quebec,2020,3.3725
+"Cereal, 400 grams",Quebec,2021,3.464166666666667
+"Cereal, 400 grams",Quebec,2022,4.013333333333333
+"Cereal, 400 grams",Quebec,2023,4.175
+"Cereal, 400 grams",Quebec,2024,4.17625
+"Cereal, 400 grams",Saskatchewan,2017,3.2475
+"Cereal, 400 grams",Saskatchewan,2018,3.151666666666667
+"Cereal, 400 grams",Saskatchewan,2019,3.144166666666667
+"Cereal, 400 grams",Saskatchewan,2020,3.2241666666666666
+"Cereal, 400 grams",Saskatchewan,2021,3.2975
+"Cereal, 400 grams",Saskatchewan,2022,3.8425
+"Cereal, 400 grams",Saskatchewan,2023,4.100833333333333
+"Cereal, 400 grams",Saskatchewan,2024,4.1575
+"Dry or fresh pasta, 500 grams",Alberta,2017,2.5733333333333333
+"Dry or fresh pasta, 500 grams",Alberta,2018,2.4724999999999997
+"Dry or fresh pasta, 500 grams",Alberta,2019,2.4208333333333334
+"Dry or fresh pasta, 500 grams",Alberta,2020,2.5591666666666666
+"Dry or fresh pasta, 500 grams",Alberta,2021,2.545
+"Dry or fresh pasta, 500 grams",Alberta,2022,3.1191666666666666
+"Dry or fresh pasta, 500 grams",Alberta,2023,3.5541666666666667
+"Dry or fresh pasta, 500 grams",Alberta,2024,3.21625
+"Dry or fresh pasta, 500 grams",British Columbia,2017,2.6216666666666666
+"Dry or fresh pasta, 500 grams",British Columbia,2018,2.5591666666666666
+"Dry or fresh pasta, 500 grams",British Columbia,2019,2.5866666666666664
+"Dry or fresh pasta, 500 grams",British Columbia,2020,2.6991666666666667
+"Dry or fresh pasta, 500 grams",British Columbia,2021,2.7441666666666666
+"Dry or fresh pasta, 500 grams",British Columbia,2022,3.2308333333333334
+"Dry or fresh pasta, 500 grams",British Columbia,2023,3.6824999999999997
+"Dry or fresh pasta, 500 grams",British Columbia,2024,3.35
+"Dry or fresh pasta, 500 grams",Manitoba,2017,2.4258333333333333
+"Dry or fresh pasta, 500 grams",Manitoba,2018,2.3175000000000003
+"Dry or fresh pasta, 500 grams",Manitoba,2019,2.2916666666666665
+"Dry or fresh pasta, 500 grams",Manitoba,2020,2.404166666666667
+"Dry or fresh pasta, 500 grams",Manitoba,2021,2.393333333333333
+"Dry or fresh pasta, 500 grams",Manitoba,2022,2.9291666666666667
+"Dry or fresh pasta, 500 grams",Manitoba,2023,3.3433333333333333
+"Dry or fresh pasta, 500 grams",Manitoba,2024,3.05875
+"Dry or fresh pasta, 500 grams",New Brunswick,2017,2.1675
+"Dry or fresh pasta, 500 grams",New Brunswick,2018,2.2066666666666666
+"Dry or fresh pasta, 500 grams",New Brunswick,2019,2.339166666666667
+"Dry or fresh pasta, 500 grams",New Brunswick,2020,2.4375
+"Dry or fresh pasta, 500 grams",New Brunswick,2021,2.4899999999999998
+"Dry or fresh pasta, 500 grams",New Brunswick,2022,3.2266666666666666
+"Dry or fresh pasta, 500 grams",New Brunswick,2023,3.5725
+"Dry or fresh pasta, 500 grams",New Brunswick,2024,3.15875
+"Dry or fresh pasta, 500 grams",Newfoundland and Labrador,2017,2.2333333333333334
+"Dry or fresh pasta, 500 grams",Newfoundland and Labrador,2018,2.2591666666666668
+"Dry or fresh pasta, 500 grams",Newfoundland and Labrador,2019,2.305
+"Dry or fresh pasta, 500 grams",Newfoundland and Labrador,2020,2.4825
+"Dry or fresh pasta, 500 grams",Newfoundland and Labrador,2021,2.566666666666667
+"Dry or fresh pasta, 500 grams",Newfoundland and Labrador,2022,3.3275
+"Dry or fresh pasta, 500 grams",Newfoundland and Labrador,2023,3.763333333333333
+"Dry or fresh pasta, 500 grams",Newfoundland and Labrador,2024,3.24875
+"Dry or fresh pasta, 500 grams",Nova Scotia,2017,2.2425
+"Dry or fresh pasta, 500 grams",Nova Scotia,2018,2.2875
+"Dry or fresh pasta, 500 grams",Nova Scotia,2019,2.4183333333333334
+"Dry or fresh pasta, 500 grams",Nova Scotia,2020,2.5783333333333336
+"Dry or fresh pasta, 500 grams",Nova Scotia,2021,2.6925000000000003
+"Dry or fresh pasta, 500 grams",Nova Scotia,2022,3.4233333333333333
+"Dry or fresh pasta, 500 grams",Nova Scotia,2023,3.874166666666667
+"Dry or fresh pasta, 500 grams",Nova Scotia,2024,3.35375
+"Dry or fresh pasta, 500 grams",Ontario,2017,2.370833333333333
+"Dry or fresh pasta, 500 grams",Ontario,2018,2.325833333333333
+"Dry or fresh pasta, 500 grams",Ontario,2019,2.3716666666666666
+"Dry or fresh pasta, 500 grams",Ontario,2020,2.473333333333333
+"Dry or fresh pasta, 500 grams",Ontario,2021,2.63
+"Dry or fresh pasta, 500 grams",Ontario,2022,3.1616666666666666
+"Dry or fresh pasta, 500 grams",Ontario,2023,3.5116666666666667
+"Dry or fresh pasta, 500 grams",Ontario,2024,3.1325
+"Dry or fresh pasta, 500 grams",Prince Edward Island,2017,2.2883333333333336
+"Dry or fresh pasta, 500 grams",Prince Edward Island,2018,2.35
+"Dry or fresh pasta, 500 grams",Prince Edward Island,2019,2.4291666666666667
+"Dry or fresh pasta, 500 grams",Prince Edward Island,2020,2.6308333333333334
+"Dry or fresh pasta, 500 grams",Prince Edward Island,2021,2.7841666666666662
+"Dry or fresh pasta, 500 grams",Prince Edward Island,2022,3.4975
+"Dry or fresh pasta, 500 grams",Prince Edward Island,2023,3.9125
+"Dry or fresh pasta, 500 grams",Prince Edward Island,2024,3.39125
+"Dry or fresh pasta, 500 grams",Quebec,2017,2.25
+"Dry or fresh pasta, 500 grams",Quebec,2018,2.2808333333333333
+"Dry or fresh pasta, 500 grams",Quebec,2019,2.3925
+"Dry or fresh pasta, 500 grams",Quebec,2020,2.4683333333333333
+"Dry or fresh pasta, 500 grams",Quebec,2021,2.5825
+"Dry or fresh pasta, 500 grams",Quebec,2022,3.17
+"Dry or fresh pasta, 500 grams",Quebec,2023,3.3058333333333336
+"Dry or fresh pasta, 500 grams",Quebec,2024,3.17125
+"Dry or fresh pasta, 500 grams",Saskatchewan,2017,2.4908333333333332
+"Dry or fresh pasta, 500 grams",Saskatchewan,2018,2.3858333333333333
+"Dry or fresh pasta, 500 grams",Saskatchewan,2019,2.374166666666667
+"Dry or fresh pasta, 500 grams",Saskatchewan,2020,2.4966666666666666
+"Dry or fresh pasta, 500 grams",Saskatchewan,2021,2.4908333333333332
+"Dry or fresh pasta, 500 grams",Saskatchewan,2022,3.0308333333333333
+"Dry or fresh pasta, 500 grams",Saskatchewan,2023,3.4291666666666667
+"Dry or fresh pasta, 500 grams",Saskatchewan,2024,3.04625
+"Flatbread and pita, 500 grams ",Alberta,2017,3.7783333333333338
+"Flatbread and pita, 500 grams ",Alberta,2018,3.7383333333333333
+"Flatbread and pita, 500 grams ",Alberta,2019,3.7716666666666665
+"Flatbread and pita, 500 grams ",Alberta,2020,3.7725000000000004
+"Flatbread and pita, 500 grams ",Alberta,2021,3.2558333333333334
+"Flatbread and pita, 500 grams ",Alberta,2022,3.453333333333333
+"Flatbread and pita, 500 grams ",Alberta,2023,4.3325000000000005
+"Flatbread and pita, 500 grams ",Alberta,2024,3.9699999999999998
+"Flatbread and pita, 500 grams ",British Columbia,2017,3.526666666666667
+"Flatbread and pita, 500 grams ",British Columbia,2018,3.6291666666666664
+"Flatbread and pita, 500 grams ",British Columbia,2019,3.6675
+"Flatbread and pita, 500 grams ",British Columbia,2020,3.4924999999999997
+"Flatbread and pita, 500 grams ",British Columbia,2021,3.1658333333333335
+"Flatbread and pita, 500 grams ",British Columbia,2022,3.4283333333333332
+"Flatbread and pita, 500 grams ",British Columbia,2023,4.2124999999999995
+"Flatbread and pita, 500 grams ",British Columbia,2024,3.78125
+"Flatbread and pita, 500 grams ",Manitoba,2017,3.7716666666666665
+"Flatbread and pita, 500 grams ",Manitoba,2018,3.8408333333333338
+"Flatbread and pita, 500 grams ",Manitoba,2019,3.455833333333333
+"Flatbread and pita, 500 grams ",Manitoba,2020,3.3691666666666666
+"Flatbread and pita, 500 grams ",Manitoba,2021,2.8708333333333336
+"Flatbread and pita, 500 grams ",Manitoba,2022,3.235
+"Flatbread and pita, 500 grams ",Manitoba,2023,4.131666666666667
+"Flatbread and pita, 500 grams ",Manitoba,2024,3.8375
+"Flatbread and pita, 500 grams ",New Brunswick,2017,3.830833333333333
+"Flatbread and pita, 500 grams ",New Brunswick,2018,3.66
+"Flatbread and pita, 500 grams ",New Brunswick,2019,3.625
+"Flatbread and pita, 500 grams ",New Brunswick,2020,3.529166666666667
+"Flatbread and pita, 500 grams ",New Brunswick,2021,3.7016666666666667
+"Flatbread and pita, 500 grams ",New Brunswick,2022,4.2299999999999995
+"Flatbread and pita, 500 grams ",New Brunswick,2023,4.9675
+"Flatbread and pita, 500 grams ",New Brunswick,2024,4.615
+"Flatbread and pita, 500 grams ",Newfoundland and Labrador,2017,4.151666666666666
+"Flatbread and pita, 500 grams ",Newfoundland and Labrador,2018,3.945
+"Flatbread and pita, 500 grams ",Newfoundland and Labrador,2019,3.703333333333333
+"Flatbread and pita, 500 grams ",Newfoundland and Labrador,2020,3.66
+"Flatbread and pita, 500 grams ",Newfoundland and Labrador,2021,3.7075
+"Flatbread and pita, 500 grams ",Newfoundland and Labrador,2022,4.284166666666667
+"Flatbread and pita, 500 grams ",Newfoundland and Labrador,2023,4.9624999999999995
+"Flatbread and pita, 500 grams ",Newfoundland and Labrador,2024,4.39375
+"Flatbread and pita, 500 grams ",Nova Scotia,2017,3.6525
+"Flatbread and pita, 500 grams ",Nova Scotia,2018,3.5558333333333336
+"Flatbread and pita, 500 grams ",Nova Scotia,2019,3.5658333333333334
+"Flatbread and pita, 500 grams ",Nova Scotia,2020,3.4774999999999996
+"Flatbread and pita, 500 grams ",Nova Scotia,2021,3.605
+"Flatbread and pita, 500 grams ",Nova Scotia,2022,4.08
+"Flatbread and pita, 500 grams ",Nova Scotia,2023,4.723333333333334
+"Flatbread and pita, 500 grams ",Nova Scotia,2024,4.36125
+"Flatbread and pita, 500 grams ",Ontario,2017,2.5733333333333333
+"Flatbread and pita, 500 grams ",Ontario,2018,2.549166666666667
+"Flatbread and pita, 500 grams ",Ontario,2019,2.629166666666667
+"Flatbread and pita, 500 grams ",Ontario,2020,2.685833333333333
+"Flatbread and pita, 500 grams ",Ontario,2021,2.811666666666667
+"Flatbread and pita, 500 grams ",Ontario,2022,3.279166666666667
+"Flatbread and pita, 500 grams ",Ontario,2023,3.8000000000000003
+"Flatbread and pita, 500 grams ",Ontario,2024,3.21375
+"Flatbread and pita, 500 grams ",Prince Edward Island,2017,3.6775
+"Flatbread and pita, 500 grams ",Prince Edward Island,2018,3.6075
+"Flatbread and pita, 500 grams ",Prince Edward Island,2019,3.545833333333333
+"Flatbread and pita, 500 grams ",Prince Edward Island,2020,3.4575
+"Flatbread and pita, 500 grams ",Prince Edward Island,2021,3.549166666666667
+"Flatbread and pita, 500 grams ",Prince Edward Island,2022,4.1075
+"Flatbread and pita, 500 grams ",Prince Edward Island,2023,4.798333333333333
+"Flatbread and pita, 500 grams ",Prince Edward Island,2024,4.52125
+"Flatbread and pita, 500 grams ",Quebec,2017,2.1641666666666666
+"Flatbread and pita, 500 grams ",Quebec,2018,2.28
+"Flatbread and pita, 500 grams ",Quebec,2019,2.475
+"Flatbread and pita, 500 grams ",Quebec,2020,2.625
+"Flatbread and pita, 500 grams ",Quebec,2021,2.6566666666666667
+"Flatbread and pita, 500 grams ",Quebec,2022,3.0066666666666664
+"Flatbread and pita, 500 grams ",Quebec,2023,3.909166666666667
+"Flatbread and pita, 500 grams ",Quebec,2024,3.995
+"Flatbread and pita, 500 grams ",Saskatchewan,2017,3.8041666666666667
+"Flatbread and pita, 500 grams ",Saskatchewan,2018,3.7475
+"Flatbread and pita, 500 grams ",Saskatchewan,2019,3.6958333333333333
+"Flatbread and pita, 500 grams ",Saskatchewan,2020,3.589166666666667
+"Flatbread and pita, 500 grams ",Saskatchewan,2021,2.9958333333333336
+"Flatbread and pita, 500 grams ",Saskatchewan,2022,3.3333333333333335
+"Flatbread and pita, 500 grams ",Saskatchewan,2023,4.170833333333333
+"Flatbread and pita, 500 grams ",Saskatchewan,2024,3.71625
+"White bread, 675 grams",Alberta,2017,2.954166666666667
+"White bread, 675 grams",Alberta,2018,2.8233333333333337
+"White bread, 675 grams",Alberta,2019,2.7841666666666662
+"White bread, 675 grams",Alberta,2020,2.895
+"White bread, 675 grams",Alberta,2021,2.9625
+"White bread, 675 grams",Alberta,2022,3.4683333333333333
+"White bread, 675 grams",Alberta,2023,3.635
+"White bread, 675 grams",Alberta,2024,3.41875
+"White bread, 675 grams",British Columbia,2017,3.001666666666667
+"White bread, 675 grams",British Columbia,2018,3.0041666666666664
+"White bread, 675 grams",British Columbia,2019,2.9891666666666663
+"White bread, 675 grams",British Columbia,2020,3.0224999999999995
+"White bread, 675 grams",British Columbia,2021,3.1575
+"White bread, 675 grams",British Columbia,2022,3.7383333333333333
+"White bread, 675 grams",British Columbia,2023,3.9308333333333336
+"White bread, 675 grams",British Columbia,2024,3.7975
+"White bread, 675 grams",Manitoba,2017,2.6491666666666664
+"White bread, 675 grams",Manitoba,2018,2.6133333333333333
+"White bread, 675 grams",Manitoba,2019,2.5416666666666665
+"White bread, 675 grams",Manitoba,2020,2.6541666666666663
+"White bread, 675 grams",Manitoba,2021,2.6816666666666666
+"White bread, 675 grams",Manitoba,2022,3.2716666666666665
+"White bread, 675 grams",Manitoba,2023,3.4741666666666666
+"White bread, 675 grams",Manitoba,2024,3.32
+"White bread, 675 grams",New Brunswick,2017,2.8699999999999997
+"White bread, 675 grams",New Brunswick,2018,2.815
+"White bread, 675 grams",New Brunswick,2019,2.9
+"White bread, 675 grams",New Brunswick,2020,3.0391666666666666
+"White bread, 675 grams",New Brunswick,2021,2.9575
+"White bread, 675 grams",New Brunswick,2022,3.5258333333333334
+"White bread, 675 grams",New Brunswick,2023,3.75
+"White bread, 675 grams",New Brunswick,2024,3.74875
+"White bread, 675 grams",Newfoundland and Labrador,2017,3.135
+"White bread, 675 grams",Newfoundland and Labrador,2018,2.9958333333333336
+"White bread, 675 grams",Newfoundland and Labrador,2019,3.205
+"White bread, 675 grams",Newfoundland and Labrador,2020,3.2741666666666664
+"White bread, 675 grams",Newfoundland and Labrador,2021,3.2391666666666663
+"White bread, 675 grams",Newfoundland and Labrador,2022,3.7216666666666662
+"White bread, 675 grams",Newfoundland and Labrador,2023,3.9625
+"White bread, 675 grams",Newfoundland and Labrador,2024,4.03625
+"White bread, 675 grams",Nova Scotia,2017,2.7741666666666664
+"White bread, 675 grams",Nova Scotia,2018,2.721666666666667
+"White bread, 675 grams",Nova Scotia,2019,2.8000000000000003
+"White bread, 675 grams",Nova Scotia,2020,2.955833333333333
+"White bread, 675 grams",Nova Scotia,2021,2.858333333333333
+"White bread, 675 grams",Nova Scotia,2022,3.426666666666667
+"White bread, 675 grams",Nova Scotia,2023,3.6891666666666665
+"White bread, 675 grams",Nova Scotia,2024,3.705
+"White bread, 675 grams",Ontario,2017,2.408333333333333
+"White bread, 675 grams",Ontario,2018,2.3991666666666664
+"White bread, 675 grams",Ontario,2019,2.433333333333333
+"White bread, 675 grams",Ontario,2020,2.5708333333333333
+"White bread, 675 grams",Ontario,2021,2.595
+"White bread, 675 grams",Ontario,2022,2.874166666666667
+"White bread, 675 grams",Ontario,2023,3.080833333333333
+"White bread, 675 grams",Ontario,2024,3.0149999999999997
+"White bread, 675 grams",Prince Edward Island,2017,2.8049999999999997
+"White bread, 675 grams",Prince Edward Island,2018,2.7291666666666665
+"White bread, 675 grams",Prince Edward Island,2019,2.8191666666666664
+"White bread, 675 grams",Prince Edward Island,2020,2.9116666666666666
+"White bread, 675 grams",Prince Edward Island,2021,2.85
+"White bread, 675 grams",Prince Edward Island,2022,3.341666666666667
+"White bread, 675 grams",Prince Edward Island,2023,3.6908333333333334
+"White bread, 675 grams",Prince Edward Island,2024,3.75
+"White bread, 675 grams",Quebec,2017,3.405
+"White bread, 675 grams",Quebec,2018,3.3516666666666666
+"White bread, 675 grams",Quebec,2019,3.4858333333333333
+"White bread, 675 grams",Quebec,2020,3.4075
+"White bread, 675 grams",Quebec,2021,3.4341666666666666
+"White bread, 675 grams",Quebec,2022,3.9575
+"White bread, 675 grams",Quebec,2023,4.218333333333334
+"White bread, 675 grams",Quebec,2024,3.7725
+"White bread, 675 grams",Saskatchewan,2017,2.856666666666667
+"White bread, 675 grams",Saskatchewan,2018,2.799166666666667
+"White bread, 675 grams",Saskatchewan,2019,2.714166666666667
+"White bread, 675 grams",Saskatchewan,2020,2.830833333333333
+"White bread, 675 grams",Saskatchewan,2021,2.8666666666666667
+"White bread, 675 grams",Saskatchewan,2022,3.391666666666667
+"White bread, 675 grams",Saskatchewan,2023,3.5991666666666666
+"White bread, 675 grams",Saskatchewan,2024,3.38625

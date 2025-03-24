@@ -1,0 +1,321 @@
+Products,province,year,avg_total_yearly
+"Brown rice, 900 grams ",Alberta,2017,4.400833333333334
+"Brown rice, 900 grams ",Alberta,2018,4.378333333333333
+"Brown rice, 900 grams ",Alberta,2019,4.320833333333334
+"Brown rice, 900 grams ",Alberta,2020,4.836666666666667
+"Brown rice, 900 grams ",Alberta,2021,5.096666666666667
+"Brown rice, 900 grams ",Alberta,2022,5.923333333333333
+"Brown rice, 900 grams ",Alberta,2023,6.0633333333333335
+"Brown rice, 900 grams ",Alberta,2024,6.0125
+"Brown rice, 900 grams ",British Columbia,2017,4.569166666666667
+"Brown rice, 900 grams ",British Columbia,2018,4.560833333333334
+"Brown rice, 900 grams ",British Columbia,2019,4.476666666666667
+"Brown rice, 900 grams ",British Columbia,2020,5.015
+"Brown rice, 900 grams ",British Columbia,2021,5.335
+"Brown rice, 900 grams ",British Columbia,2022,6.12
+"Brown rice, 900 grams ",British Columbia,2023,6.452500000000001
+"Brown rice, 900 grams ",British Columbia,2024,6.38125
+"Brown rice, 900 grams ",Manitoba,2017,4.220833333333333
+"Brown rice, 900 grams ",Manitoba,2018,4.173333333333333
+"Brown rice, 900 grams ",Manitoba,2019,4.09
+"Brown rice, 900 grams ",Manitoba,2020,4.569166666666667
+"Brown rice, 900 grams ",Manitoba,2021,4.79
+"Brown rice, 900 grams ",Manitoba,2022,5.558333333333334
+"Brown rice, 900 grams ",Manitoba,2023,5.715833333333333
+"Brown rice, 900 grams ",Manitoba,2024,5.755
+"Brown rice, 900 grams ",New Brunswick,2017,4.7700000000000005
+"Brown rice, 900 grams ",New Brunswick,2018,4.785
+"Brown rice, 900 grams ",New Brunswick,2019,4.810833333333334
+"Brown rice, 900 grams ",New Brunswick,2020,5.3475
+"Brown rice, 900 grams ",New Brunswick,2021,5.264166666666667
+"Brown rice, 900 grams ",New Brunswick,2022,5.581666666666667
+"Brown rice, 900 grams ",New Brunswick,2023,6.235833333333333
+"Brown rice, 900 grams ",New Brunswick,2024,6.09125
+"Brown rice, 900 grams ",Newfoundland and Labrador,2017,4.8525
+"Brown rice, 900 grams ",Newfoundland and Labrador,2018,4.845833333333333
+"Brown rice, 900 grams ",Newfoundland and Labrador,2019,4.839166666666666
+"Brown rice, 900 grams ",Newfoundland and Labrador,2020,5.4375
+"Brown rice, 900 grams ",Newfoundland and Labrador,2021,5.254166666666666
+"Brown rice, 900 grams ",Newfoundland and Labrador,2022,5.5575
+"Brown rice, 900 grams ",Newfoundland and Labrador,2023,5.797499999999999
+"Brown rice, 900 grams ",Newfoundland and Labrador,2024,5.86125
+"Brown rice, 900 grams ",Nova Scotia,2017,4.761666666666667
+"Brown rice, 900 grams ",Nova Scotia,2018,4.776666666666666
+"Brown rice, 900 grams ",Nova Scotia,2019,4.783333333333333
+"Brown rice, 900 grams ",Nova Scotia,2020,5.4025
+"Brown rice, 900 grams ",Nova Scotia,2021,5.280833333333333
+"Brown rice, 900 grams ",Nova Scotia,2022,5.610833333333333
+"Brown rice, 900 grams ",Nova Scotia,2023,6.2825
+"Brown rice, 900 grams ",Nova Scotia,2024,6.13125
+"Brown rice, 900 grams ",Ontario,2017,4.163333333333333
+"Brown rice, 900 grams ",Ontario,2018,4.1775
+"Brown rice, 900 grams ",Ontario,2019,4.199166666666667
+"Brown rice, 900 grams ",Ontario,2020,4.625
+"Brown rice, 900 grams ",Ontario,2021,4.829166666666667
+"Brown rice, 900 grams ",Ontario,2022,5.279166666666667
+"Brown rice, 900 grams ",Ontario,2023,5.838333333333334
+"Brown rice, 900 grams ",Ontario,2024,5.6
+"Brown rice, 900 grams ",Prince Edward Island,2017,4.801666666666667
+"Brown rice, 900 grams ",Prince Edward Island,2018,4.806666666666667
+"Brown rice, 900 grams ",Prince Edward Island,2019,4.825833333333334
+"Brown rice, 900 grams ",Prince Edward Island,2020,5.430833333333333
+"Brown rice, 900 grams ",Prince Edward Island,2021,5.376666666666666
+"Brown rice, 900 grams ",Prince Edward Island,2022,5.635000000000001
+"Brown rice, 900 grams ",Prince Edward Island,2023,6.1875
+"Brown rice, 900 grams ",Prince Edward Island,2024,6.10375
+"Brown rice, 900 grams ",Quebec,2017,4.246666666666667
+"Brown rice, 900 grams ",Quebec,2018,4.16
+"Brown rice, 900 grams ",Quebec,2019,4.265
+"Brown rice, 900 grams ",Quebec,2020,4.423333333333334
+"Brown rice, 900 grams ",Quebec,2021,4.610833333333333
+"Brown rice, 900 grams ",Quebec,2022,5.364999999999999
+"Brown rice, 900 grams ",Quebec,2023,5.642500000000001
+"Brown rice, 900 grams ",Quebec,2024,5.565
+"Brown rice, 900 grams ",Saskatchewan,2017,4.378333333333333
+"Brown rice, 900 grams ",Saskatchewan,2018,4.320833333333334
+"Brown rice, 900 grams ",Saskatchewan,2019,4.1975
+"Brown rice, 900 grams ",Saskatchewan,2020,4.68
+"Brown rice, 900 grams ",Saskatchewan,2021,4.760833333333333
+"Brown rice, 900 grams ",Saskatchewan,2022,5.720833333333332
+"Brown rice, 900 grams ",Saskatchewan,2023,5.8999999999999995
+"Brown rice, 900 grams ",Saskatchewan,2024,5.58375
+"Wheat flour, 2.5 kilograms",Alberta,2017,4.361666666666666
+"Wheat flour, 2.5 kilograms",Alberta,2018,4.569166666666667
+"Wheat flour, 2.5 kilograms",Alberta,2019,4.629166666666666
+"Wheat flour, 2.5 kilograms",Alberta,2020,4.831666666666666
+"Wheat flour, 2.5 kilograms",Alberta,2021,4.845
+"Wheat flour, 2.5 kilograms",Alberta,2022,5.4725
+"Wheat flour, 2.5 kilograms",Alberta,2023,5.8325
+"Wheat flour, 2.5 kilograms",Alberta,2024,5.2775
+"Wheat flour, 2.5 kilograms",British Columbia,2017,4.5008333333333335
+"Wheat flour, 2.5 kilograms",British Columbia,2018,4.671666666666667
+"Wheat flour, 2.5 kilograms",British Columbia,2019,4.6325
+"Wheat flour, 2.5 kilograms",British Columbia,2020,4.924166666666667
+"Wheat flour, 2.5 kilograms",British Columbia,2021,4.891666666666667
+"Wheat flour, 2.5 kilograms",British Columbia,2022,5.486666666666667
+"Wheat flour, 2.5 kilograms",British Columbia,2023,5.773333333333333
+"Wheat flour, 2.5 kilograms",British Columbia,2024,5.1875
+"Wheat flour, 2.5 kilograms",Manitoba,2017,4.1866666666666665
+"Wheat flour, 2.5 kilograms",Manitoba,2018,4.448333333333333
+"Wheat flour, 2.5 kilograms",Manitoba,2019,4.418333333333334
+"Wheat flour, 2.5 kilograms",Manitoba,2020,4.6625
+"Wheat flour, 2.5 kilograms",Manitoba,2021,4.653333333333333
+"Wheat flour, 2.5 kilograms",Manitoba,2022,5.203333333333333
+"Wheat flour, 2.5 kilograms",Manitoba,2023,5.435
+"Wheat flour, 2.5 kilograms",Manitoba,2024,4.921250000000001
+"Wheat flour, 2.5 kilograms",New Brunswick,2017,4.931666666666667
+"Wheat flour, 2.5 kilograms",New Brunswick,2018,4.945
+"Wheat flour, 2.5 kilograms",New Brunswick,2019,4.9075
+"Wheat flour, 2.5 kilograms",New Brunswick,2020,5.075
+"Wheat flour, 2.5 kilograms",New Brunswick,2021,4.9825
+"Wheat flour, 2.5 kilograms",New Brunswick,2022,5.689166666666666
+"Wheat flour, 2.5 kilograms",New Brunswick,2023,6.0075
+"Wheat flour, 2.5 kilograms",New Brunswick,2024,5.45
+"Wheat flour, 2.5 kilograms",Newfoundland and Labrador,2017,4.075833333333333
+"Wheat flour, 2.5 kilograms",Newfoundland and Labrador,2018,3.8925
+"Wheat flour, 2.5 kilograms",Newfoundland and Labrador,2019,3.9283333333333332
+"Wheat flour, 2.5 kilograms",Newfoundland and Labrador,2020,4.799166666666667
+"Wheat flour, 2.5 kilograms",Newfoundland and Labrador,2021,4.168333333333333
+"Wheat flour, 2.5 kilograms",Newfoundland and Labrador,2022,4.846666666666667
+"Wheat flour, 2.5 kilograms",Newfoundland and Labrador,2023,5.448333333333333
+"Wheat flour, 2.5 kilograms",Newfoundland and Labrador,2024,5.15
+"Wheat flour, 2.5 kilograms",Nova Scotia,2017,4.91
+"Wheat flour, 2.5 kilograms",Nova Scotia,2018,4.92
+"Wheat flour, 2.5 kilograms",Nova Scotia,2019,4.866666666666666
+"Wheat flour, 2.5 kilograms",Nova Scotia,2020,5.078333333333333
+"Wheat flour, 2.5 kilograms",Nova Scotia,2021,4.955
+"Wheat flour, 2.5 kilograms",Nova Scotia,2022,5.6241666666666665
+"Wheat flour, 2.5 kilograms",Nova Scotia,2023,5.965
+"Wheat flour, 2.5 kilograms",Nova Scotia,2024,5.54125
+"Wheat flour, 2.5 kilograms",Ontario,2017,4.675833333333333
+"Wheat flour, 2.5 kilograms",Ontario,2018,4.675833333333333
+"Wheat flour, 2.5 kilograms",Ontario,2019,4.6674999999999995
+"Wheat flour, 2.5 kilograms",Ontario,2020,4.8125
+"Wheat flour, 2.5 kilograms",Ontario,2021,4.765833333333333
+"Wheat flour, 2.5 kilograms",Ontario,2022,5.309166666666667
+"Wheat flour, 2.5 kilograms",Ontario,2023,5.665
+"Wheat flour, 2.5 kilograms",Ontario,2024,5.06125
+"Wheat flour, 2.5 kilograms",Prince Edward Island,2017,4.925833333333333
+"Wheat flour, 2.5 kilograms",Prince Edward Island,2018,4.881666666666667
+"Wheat flour, 2.5 kilograms",Prince Edward Island,2019,4.848333333333334
+"Wheat flour, 2.5 kilograms",Prince Edward Island,2020,5.086666666666667
+"Wheat flour, 2.5 kilograms",Prince Edward Island,2021,4.9991666666666665
+"Wheat flour, 2.5 kilograms",Prince Edward Island,2022,5.673333333333333
+"Wheat flour, 2.5 kilograms",Prince Edward Island,2023,5.9991666666666665
+"Wheat flour, 2.5 kilograms",Prince Edward Island,2024,5.3875
+"Wheat flour, 2.5 kilograms",Quebec,2017,4.545833333333333
+"Wheat flour, 2.5 kilograms",Quebec,2018,4.735
+"Wheat flour, 2.5 kilograms",Quebec,2019,4.674166666666667
+"Wheat flour, 2.5 kilograms",Quebec,2020,4.83
+"Wheat flour, 2.5 kilograms",Quebec,2021,4.758333333333334
+"Wheat flour, 2.5 kilograms",Quebec,2022,5.425
+"Wheat flour, 2.5 kilograms",Quebec,2023,5.515833333333333
+"Wheat flour, 2.5 kilograms",Quebec,2024,5.1425
+"Wheat flour, 2.5 kilograms",Saskatchewan,2017,4.236666666666667
+"Wheat flour, 2.5 kilograms",Saskatchewan,2018,4.383333333333334
+"Wheat flour, 2.5 kilograms",Saskatchewan,2019,4.4225
+"Wheat flour, 2.5 kilograms",Saskatchewan,2020,4.7091666666666665
+"Wheat flour, 2.5 kilograms",Saskatchewan,2021,4.655
+"Wheat flour, 2.5 kilograms",Saskatchewan,2022,5.22
+"Wheat flour, 2.5 kilograms",Saskatchewan,2023,5.478333333333333
+"Wheat flour, 2.5 kilograms",Saskatchewan,2024,4.81875
+"White rice, 2 kilograms",Alberta,2017,7.1241666666666665
+"White rice, 2 kilograms",Alberta,2018,7.3133333333333335
+"White rice, 2 kilograms",Alberta,2019,7.59
+"White rice, 2 kilograms",Alberta,2020,8.486666666666666
+"White rice, 2 kilograms",Alberta,2021,8.3025
+"White rice, 2 kilograms",Alberta,2022,8.926666666666668
+"White rice, 2 kilograms",Alberta,2023,9.620833333333334
+"White rice, 2 kilograms",Alberta,2024,8.5975
+"White rice, 2 kilograms",British Columbia,2017,7.048333333333333
+"White rice, 2 kilograms",British Columbia,2018,7.245833333333334
+"White rice, 2 kilograms",British Columbia,2019,7.5808333333333335
+"White rice, 2 kilograms",British Columbia,2020,8.349166666666667
+"White rice, 2 kilograms",British Columbia,2021,8.375833333333334
+"White rice, 2 kilograms",British Columbia,2022,9.004166666666666
+"White rice, 2 kilograms",British Columbia,2023,9.619166666666667
+"White rice, 2 kilograms",British Columbia,2024,8.7875
+"White rice, 2 kilograms",Manitoba,2017,6.491666666666667
+"White rice, 2 kilograms",Manitoba,2018,6.601666666666667
+"White rice, 2 kilograms",Manitoba,2019,6.892500000000001
+"White rice, 2 kilograms",Manitoba,2020,7.6066666666666665
+"White rice, 2 kilograms",Manitoba,2021,7.458333333333333
+"White rice, 2 kilograms",Manitoba,2022,8.105833333333333
+"White rice, 2 kilograms",Manitoba,2023,9.1575
+"White rice, 2 kilograms",Manitoba,2024,8.1975
+"White rice, 2 kilograms",New Brunswick,2017,8.974166666666667
+"White rice, 2 kilograms",New Brunswick,2018,9.116666666666667
+"White rice, 2 kilograms",New Brunswick,2019,9.224166666666667
+"White rice, 2 kilograms",New Brunswick,2020,9.936666666666666
+"White rice, 2 kilograms",New Brunswick,2021,9.969166666666666
+"White rice, 2 kilograms",New Brunswick,2022,11.0
+"White rice, 2 kilograms",New Brunswick,2023,11.222499999999998
+"White rice, 2 kilograms",New Brunswick,2024,9.44625
+"White rice, 2 kilograms",Newfoundland and Labrador,2017,9.316666666666666
+"White rice, 2 kilograms",Newfoundland and Labrador,2018,9.425833333333333
+"White rice, 2 kilograms",Newfoundland and Labrador,2019,9.429166666666665
+"White rice, 2 kilograms",Newfoundland and Labrador,2020,10.338333333333333
+"White rice, 2 kilograms",Newfoundland and Labrador,2021,10.2225
+"White rice, 2 kilograms",Newfoundland and Labrador,2022,11.073333333333332
+"White rice, 2 kilograms",Newfoundland and Labrador,2023,11.189166666666667
+"White rice, 2 kilograms",Newfoundland and Labrador,2024,9.72
+"White rice, 2 kilograms",Nova Scotia,2017,8.91
+"White rice, 2 kilograms",Nova Scotia,2018,9.045833333333333
+"White rice, 2 kilograms",Nova Scotia,2019,9.079166666666667
+"White rice, 2 kilograms",Nova Scotia,2020,9.9175
+"White rice, 2 kilograms",Nova Scotia,2021,9.940833333333334
+"White rice, 2 kilograms",Nova Scotia,2022,10.8925
+"White rice, 2 kilograms",Nova Scotia,2023,11.073333333333332
+"White rice, 2 kilograms",Nova Scotia,2024,9.76125
+"White rice, 2 kilograms",Ontario,2017,6.388333333333333
+"White rice, 2 kilograms",Ontario,2018,6.7075
+"White rice, 2 kilograms",Ontario,2019,6.950833333333333
+"White rice, 2 kilograms",Ontario,2020,7.7250000000000005
+"White rice, 2 kilograms",Ontario,2021,7.989999999999999
+"White rice, 2 kilograms",Ontario,2022,8.861666666666666
+"White rice, 2 kilograms",Ontario,2023,9.099166666666667
+"White rice, 2 kilograms",Ontario,2024,7.93125
+"White rice, 2 kilograms",Prince Edward Island,2017,8.716666666666667
+"White rice, 2 kilograms",Prince Edward Island,2018,8.8925
+"White rice, 2 kilograms",Prince Edward Island,2019,9.036666666666667
+"White rice, 2 kilograms",Prince Edward Island,2020,9.880833333333333
+"White rice, 2 kilograms",Prince Edward Island,2021,9.948333333333332
+"White rice, 2 kilograms",Prince Edward Island,2022,10.875833333333333
+"White rice, 2 kilograms",Prince Edward Island,2023,11.14
+"White rice, 2 kilograms",Prince Edward Island,2024,9.40875
+"White rice, 2 kilograms",Quebec,2017,7.715
+"White rice, 2 kilograms",Quebec,2018,7.84
+"White rice, 2 kilograms",Quebec,2019,7.97
+"White rice, 2 kilograms",Quebec,2020,8.5775
+"White rice, 2 kilograms",Quebec,2021,8.784166666666666
+"White rice, 2 kilograms",Quebec,2022,10.281666666666666
+"White rice, 2 kilograms",Quebec,2023,9.996666666666666
+"White rice, 2 kilograms",Quebec,2024,9.65375
+"White rice, 2 kilograms",Saskatchewan,2017,6.779166666666666
+"White rice, 2 kilograms",Saskatchewan,2018,6.901666666666666
+"White rice, 2 kilograms",Saskatchewan,2019,7.1725
+"White rice, 2 kilograms",Saskatchewan,2020,7.961666666666667
+"White rice, 2 kilograms",Saskatchewan,2021,7.738333333333333
+"White rice, 2 kilograms",Saskatchewan,2022,8.329166666666667
+"White rice, 2 kilograms",Saskatchewan,2023,9.246666666666668
+"White rice, 2 kilograms",Saskatchewan,2024,8.23125
+"White sugar, 2 kilograms",Alberta,2017,2.964166666666667
+"White sugar, 2 kilograms",Alberta,2018,2.935833333333333
+"White sugar, 2 kilograms",Alberta,2019,2.813333333333333
+"White sugar, 2 kilograms",Alberta,2020,2.768333333333333
+"White sugar, 2 kilograms",Alberta,2021,2.563333333333333
+"White sugar, 2 kilograms",Alberta,2022,2.830833333333333
+"White sugar, 2 kilograms",Alberta,2023,3.0641666666666665
+"White sugar, 2 kilograms",Alberta,2024,3.1
+"White sugar, 2 kilograms",British Columbia,2017,3.1024999999999996
+"White sugar, 2 kilograms",British Columbia,2018,3.026666666666667
+"White sugar, 2 kilograms",British Columbia,2019,2.919166666666667
+"White sugar, 2 kilograms",British Columbia,2020,2.8625000000000003
+"White sugar, 2 kilograms",British Columbia,2021,2.689166666666667
+"White sugar, 2 kilograms",British Columbia,2022,2.891666666666667
+"White sugar, 2 kilograms",British Columbia,2023,3.1291666666666664
+"White sugar, 2 kilograms",British Columbia,2024,3.0925000000000002
+"White sugar, 2 kilograms",Manitoba,2017,3.0
+"White sugar, 2 kilograms",Manitoba,2018,2.9175
+"White sugar, 2 kilograms",Manitoba,2019,2.7449999999999997
+"White sugar, 2 kilograms",Manitoba,2020,2.6975000000000002
+"White sugar, 2 kilograms",Manitoba,2021,2.485
+"White sugar, 2 kilograms",Manitoba,2022,2.7449999999999997
+"White sugar, 2 kilograms",Manitoba,2023,3.0075000000000003
+"White sugar, 2 kilograms",Manitoba,2024,3.08125
+"White sugar, 2 kilograms",New Brunswick,2017,2.3125
+"White sugar, 2 kilograms",New Brunswick,2018,2.231666666666667
+"White sugar, 2 kilograms",New Brunswick,2019,2.1283333333333334
+"White sugar, 2 kilograms",New Brunswick,2020,2.0366666666666666
+"White sugar, 2 kilograms",New Brunswick,2021,2.2616666666666667
+"White sugar, 2 kilograms",New Brunswick,2022,2.5524999999999998
+"White sugar, 2 kilograms",New Brunswick,2023,2.7908333333333335
+"White sugar, 2 kilograms",New Brunswick,2024,3.0325
+"White sugar, 2 kilograms",Newfoundland and Labrador,2017,2.2525
+"White sugar, 2 kilograms",Newfoundland and Labrador,2018,2.1658333333333335
+"White sugar, 2 kilograms",Newfoundland and Labrador,2019,2.018333333333333
+"White sugar, 2 kilograms",Newfoundland and Labrador,2020,1.9866666666666666
+"White sugar, 2 kilograms",Newfoundland and Labrador,2021,2.2016666666666667
+"White sugar, 2 kilograms",Newfoundland and Labrador,2022,2.5683333333333334
+"White sugar, 2 kilograms",Newfoundland and Labrador,2023,2.6366666666666667
+"White sugar, 2 kilograms",Newfoundland and Labrador,2024,2.965
+"White sugar, 2 kilograms",Nova Scotia,2017,2.3024999999999998
+"White sugar, 2 kilograms",Nova Scotia,2018,2.214166666666667
+"White sugar, 2 kilograms",Nova Scotia,2019,2.0766666666666667
+"White sugar, 2 kilograms",Nova Scotia,2020,2.0125
+"White sugar, 2 kilograms",Nova Scotia,2021,2.2066666666666666
+"White sugar, 2 kilograms",Nova Scotia,2022,2.5524999999999998
+"White sugar, 2 kilograms",Nova Scotia,2023,2.6891666666666665
+"White sugar, 2 kilograms",Nova Scotia,2024,3.02125
+"White sugar, 2 kilograms",Ontario,2017,1.9791666666666667
+"White sugar, 2 kilograms",Ontario,2018,1.9233333333333331
+"White sugar, 2 kilograms",Ontario,2019,1.905833333333333
+"White sugar, 2 kilograms",Ontario,2020,1.7858333333333334
+"White sugar, 2 kilograms",Ontario,2021,2.025
+"White sugar, 2 kilograms",Ontario,2022,2.5391666666666666
+"White sugar, 2 kilograms",Ontario,2023,2.7258333333333336
+"White sugar, 2 kilograms",Ontario,2024,2.9625
+"White sugar, 2 kilograms",Prince Edward Island,2017,2.2416666666666667
+"White sugar, 2 kilograms",Prince Edward Island,2018,2.1925000000000003
+"White sugar, 2 kilograms",Prince Edward Island,2019,2.0675
+"White sugar, 2 kilograms",Prince Edward Island,2020,1.9758333333333333
+"White sugar, 2 kilograms",Prince Edward Island,2021,2.1983333333333333
+"White sugar, 2 kilograms",Prince Edward Island,2022,2.5658333333333334
+"White sugar, 2 kilograms",Prince Edward Island,2023,2.7291666666666665
+"White sugar, 2 kilograms",Prince Edward Island,2024,3.055
+"White sugar, 2 kilograms",Quebec,2017,2.6666666666666665
+"White sugar, 2 kilograms",Quebec,2018,2.475
+"White sugar, 2 kilograms",Quebec,2019,2.4025
+"White sugar, 2 kilograms",Quebec,2020,2.2666666666666666
+"White sugar, 2 kilograms",Quebec,2021,2.441666666666667
+"White sugar, 2 kilograms",Quebec,2022,2.5166666666666666
+"White sugar, 2 kilograms",Quebec,2023,2.8991666666666664
+"White sugar, 2 kilograms",Quebec,2024,2.93
+"White sugar, 2 kilograms",Saskatchewan,2017,3.0700000000000003
+"White sugar, 2 kilograms",Saskatchewan,2018,2.94
+"White sugar, 2 kilograms",Saskatchewan,2019,2.7641666666666667
+"White sugar, 2 kilograms",Saskatchewan,2020,2.7375000000000003
+"White sugar, 2 kilograms",Saskatchewan,2021,2.591666666666667
+"White sugar, 2 kilograms",Saskatchewan,2022,2.8000000000000003
+"White sugar, 2 kilograms",Saskatchewan,2023,3.015833333333333
+"White sugar, 2 kilograms",Saskatchewan,2024,3.07625

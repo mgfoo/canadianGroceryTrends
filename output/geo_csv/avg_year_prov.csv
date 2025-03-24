@@ -1,0 +1,1281 @@
+year,province,avg_value,category
+2017,Alberta,14.895000000000001,baby
+2017,British Columbia,15.744583333333331,baby
+2017,Manitoba,13.879583333333333,baby
+2017,New Brunswick,12.585833333333332,baby
+2017,Newfoundland and Labrador,13.863333333333335,baby
+2017,Nova Scotia,12.98875,baby
+2017,Ontario,14.254583333333333,baby
+2017,Prince Edward Island,11.583749999999998,baby
+2017,Quebec,13.253333333333334,baby
+2017,Saskatchewan,13.389166666666666,baby
+2018,Alberta,15.251249999999999,baby
+2018,British Columbia,15.900833333333333,baby
+2018,Manitoba,13.684166666666666,baby
+2018,New Brunswick,13.060833333333333,baby
+2018,Newfoundland and Labrador,13.989583333333332,baby
+2018,Nova Scotia,13.379583333333334,baby
+2018,Ontario,14.722083333333332,baby
+2018,Prince Edward Island,12.134583333333333,baby
+2018,Quebec,13.69375,baby
+2018,Saskatchewan,13.962499999999999,baby
+2019,Alberta,15.563333333333333,baby
+2019,British Columbia,16.150416666666665,baby
+2019,Manitoba,14.34,baby
+2019,New Brunswick,14.017083333333334,baby
+2019,Newfoundland and Labrador,14.728333333333335,baby
+2019,Nova Scotia,14.595833333333335,baby
+2019,Ontario,15.568749999999998,baby
+2019,Prince Edward Island,13.45375,baby
+2019,Quebec,14.039166666666667,baby
+2019,Saskatchewan,14.397916666666665,baby
+2020,Alberta,15.715833333333334,baby
+2020,British Columbia,15.592916666666667,baby
+2020,Manitoba,14.664583333333331,baby
+2020,New Brunswick,14.987499999999999,baby
+2020,Newfoundland and Labrador,15.044166666666667,baby
+2020,Nova Scotia,15.265416666666667,baby
+2020,Ontario,15.98625,baby
+2020,Prince Edward Island,14.132083333333332,baby
+2020,Quebec,14.209583333333335,baby
+2020,Saskatchewan,14.629583333333333,baby
+2021,Alberta,16.276666666666664,baby
+2021,British Columbia,16.15208333333333,baby
+2021,Manitoba,15.27375,baby
+2021,New Brunswick,15.845,baby
+2021,Newfoundland and Labrador,16.082916666666666,baby
+2021,Nova Scotia,16.201666666666664,baby
+2021,Ontario,16.53875,baby
+2021,Prince Edward Island,15.218333333333332,baby
+2021,Quebec,14.072083333333333,baby
+2021,Saskatchewan,15.292083333333334,baby
+2022,Alberta,16.947499999999998,baby
+2022,British Columbia,16.55833333333333,baby
+2022,Manitoba,16.113333333333333,baby
+2022,New Brunswick,16.825416666666666,baby
+2022,Newfoundland and Labrador,17.732083333333335,baby
+2022,Nova Scotia,17.136666666666667,baby
+2022,Ontario,16.76291666666667,baby
+2022,Prince Edward Island,15.825,baby
+2022,Quebec,15.037916666666666,baby
+2022,Saskatchewan,16.000416666666666,baby
+2023,Alberta,19.946666666666665,baby
+2023,British Columbia,19.562083333333334,baby
+2023,Manitoba,19.445416666666667,baby
+2023,New Brunswick,20.653333333333332,baby
+2023,Newfoundland and Labrador,21.6525,baby
+2023,Nova Scotia,21.229583333333334,baby
+2023,Ontario,20.22875,baby
+2023,Prince Edward Island,20.470416666666665,baby
+2023,Quebec,18.36916666666667,baby
+2023,Saskatchewan,19.221666666666668,baby
+2024,Alberta,22.483125,baby
+2024,British Columbia,22.365000000000002,baby
+2024,Manitoba,22.154374999999998,baby
+2024,New Brunswick,22.231875,baby
+2024,Newfoundland and Labrador,23.129375,baby
+2024,Nova Scotia,22.753125,baby
+2024,Ontario,23.028125,baby
+2024,Prince Edward Island,22.454375,baby
+2024,Quebec,22.353125,baby
+2024,Saskatchewan,22.407500000000002,baby
+2017,Alberta,3.0704166666666666,beans
+2017,British Columbia,3.1404166666666664,beans
+2017,Manitoba,2.8975,beans
+2017,New Brunswick,3.5170833333333333,beans
+2017,Newfoundland and Labrador,3.392083333333333,beans
+2017,Nova Scotia,3.54375,beans
+2017,Ontario,2.809166666666666,beans
+2017,Prince Edward Island,3.4866666666666664,beans
+2017,Quebec,2.7995833333333335,beans
+2017,Saskatchewan,2.9816666666666665,beans
+2018,Alberta,3.05375,beans
+2018,British Columbia,3.230833333333333,beans
+2018,Manitoba,3.0254166666666666,beans
+2018,New Brunswick,3.51375,beans
+2018,Newfoundland and Labrador,3.2683333333333335,beans
+2018,Nova Scotia,3.472916666666667,beans
+2018,Ontario,2.8495833333333334,beans
+2018,Prince Edward Island,3.421666666666667,beans
+2018,Quebec,2.7379166666666666,beans
+2018,Saskatchewan,3.0858333333333334,beans
+2019,Alberta,3.069166666666667,beans
+2019,British Columbia,3.2191666666666663,beans
+2019,Manitoba,2.9875,beans
+2019,New Brunswick,3.38375,beans
+2019,Newfoundland and Labrador,3.15875,beans
+2019,Nova Scotia,3.3066666666666666,beans
+2019,Ontario,2.8866666666666667,beans
+2019,Prince Edward Island,3.33625,beans
+2019,Quebec,2.8120833333333333,beans
+2019,Saskatchewan,3.0670833333333336,beans
+2020,Alberta,3.0458333333333334,beans
+2020,British Columbia,3.1154166666666665,beans
+2020,Manitoba,2.9970833333333333,beans
+2020,New Brunswick,3.4375,beans
+2020,Newfoundland and Labrador,3.33125,beans
+2020,Nova Scotia,3.345416666666667,beans
+2020,Ontario,2.9675000000000002,beans
+2020,Prince Edward Island,3.3854166666666665,beans
+2020,Quebec,2.974166666666667,beans
+2020,Saskatchewan,3.021666666666667,beans
+2021,Alberta,2.9691666666666663,beans
+2021,British Columbia,3.05375,beans
+2021,Manitoba,2.862916666666667,beans
+2021,New Brunswick,3.4720833333333334,beans
+2021,Newfoundland and Labrador,3.3254166666666665,beans
+2021,Nova Scotia,3.3512500000000003,beans
+2021,Ontario,2.9725,beans
+2021,Prince Edward Island,3.3616666666666664,beans
+2021,Quebec,3.0883333333333334,beans
+2021,Saskatchewan,2.9279166666666665,beans
+2022,Alberta,3.522916666666667,beans
+2022,British Columbia,3.591666666666667,beans
+2022,Manitoba,3.4825,beans
+2022,New Brunswick,3.5912499999999996,beans
+2022,Newfoundland and Labrador,3.5229166666666663,beans
+2022,Nova Scotia,3.5579166666666664,beans
+2022,Ontario,3.430416666666667,beans
+2022,Prince Edward Island,3.5354166666666664,beans
+2022,Quebec,3.6887499999999998,beans
+2022,Saskatchewan,3.4854166666666666,beans
+2023,Alberta,3.723333333333333,beans
+2023,British Columbia,3.7712499999999993,beans
+2023,Manitoba,3.674583333333333,beans
+2023,New Brunswick,3.8541666666666665,beans
+2023,Newfoundland and Labrador,3.8062499999999995,beans
+2023,Nova Scotia,3.8254166666666665,beans
+2023,Ontario,3.6979166666666665,beans
+2023,Prince Edward Island,3.8158333333333334,beans
+2023,Quebec,3.8708333333333336,beans
+2023,Saskatchewan,3.69625,beans
+2024,Alberta,3.603125,beans
+2024,British Columbia,3.681875,beans
+2024,Manitoba,3.5700000000000003,beans
+2024,New Brunswick,3.975625,beans
+2024,Newfoundland and Labrador,3.96125,beans
+2024,Nova Scotia,3.93625,beans
+2024,Ontario,3.550625,beans
+2024,Prince Edward Island,3.921875,beans
+2024,Quebec,3.64375,beans
+2024,Saskatchewan,3.62,beans
+2017,Alberta,1.275,canned
+2017,British Columbia,1.2974999999999999,canned
+2017,Manitoba,1.2858333333333334,canned
+2017,New Brunswick,1.1295833333333332,canned
+2017,Newfoundland and Labrador,1.1345833333333335,canned
+2017,Nova Scotia,1.1333333333333333,canned
+2017,Ontario,1.02625,canned
+2017,Prince Edward Island,1.1458333333333333,canned
+2017,Quebec,1.0225,canned
+2017,Saskatchewan,1.3404166666666666,canned
+2018,Alberta,1.2887499999999998,canned
+2018,British Columbia,1.3195833333333336,canned
+2018,Manitoba,1.29625,canned
+2018,New Brunswick,1.1425,canned
+2018,Newfoundland and Labrador,1.132083333333333,canned
+2018,Nova Scotia,1.1341666666666668,canned
+2018,Ontario,1.0345833333333334,canned
+2018,Prince Edward Island,1.1595833333333334,canned
+2018,Quebec,1.02,canned
+2018,Saskatchewan,1.3283333333333336,canned
+2019,Alberta,1.3287499999999999,canned
+2019,British Columbia,1.3695833333333334,canned
+2019,Manitoba,1.2962500000000001,canned
+2019,New Brunswick,1.2504166666666667,canned
+2019,Newfoundland and Labrador,1.2508333333333332,canned
+2019,Nova Scotia,1.2520833333333334,canned
+2019,Ontario,1.0954166666666665,canned
+2019,Prince Edward Island,1.2666666666666666,canned
+2019,Quebec,1.04125,canned
+2019,Saskatchewan,1.3866666666666667,canned
+2020,Alberta,1.3754166666666667,canned
+2020,British Columbia,1.3479166666666669,canned
+2020,Manitoba,1.3095833333333333,canned
+2020,New Brunswick,1.3166666666666667,canned
+2020,Newfoundland and Labrador,1.30375,canned
+2020,Nova Scotia,1.3145833333333332,canned
+2020,Ontario,1.2141666666666668,canned
+2020,Prince Edward Island,1.3216666666666668,canned
+2020,Quebec,1.14875,canned
+2020,Saskatchewan,1.3987499999999997,canned
+2021,Alberta,1.385416666666667,canned
+2021,British Columbia,1.3687500000000001,canned
+2021,Manitoba,1.31125,canned
+2021,New Brunswick,1.2991666666666668,canned
+2021,Newfoundland and Labrador,1.28125,canned
+2021,Nova Scotia,1.3266666666666667,canned
+2021,Ontario,1.2116666666666664,canned
+2021,Prince Edward Island,1.3204166666666666,canned
+2021,Quebec,1.1,canned
+2021,Saskatchewan,1.3724999999999998,canned
+2022,Alberta,1.6258333333333332,canned
+2022,British Columbia,1.6429166666666668,canned
+2022,Manitoba,1.6316666666666668,canned
+2022,New Brunswick,1.5308333333333333,canned
+2022,Newfoundland and Labrador,1.5145833333333334,canned
+2022,Nova Scotia,1.5300000000000002,canned
+2022,Ontario,1.3583333333333334,canned
+2022,Prince Edward Island,1.5237500000000002,canned
+2022,Quebec,1.393333333333333,canned
+2022,Saskatchewan,1.63125,canned
+2023,Alberta,1.8162500000000001,canned
+2023,British Columbia,1.8087499999999999,canned
+2023,Manitoba,1.7720833333333332,canned
+2023,New Brunswick,1.7583333333333333,canned
+2023,Newfoundland and Labrador,1.7449999999999997,canned
+2023,Nova Scotia,1.7687499999999998,canned
+2023,Ontario,1.5783333333333331,canned
+2023,Prince Edward Island,1.7629166666666665,canned
+2023,Quebec,1.4541666666666666,canned
+2023,Saskatchewan,1.7695833333333333,canned
+2024,Alberta,1.6368749999999999,canned
+2024,British Columbia,1.6400000000000001,canned
+2024,Manitoba,1.589375,canned
+2024,New Brunswick,1.6175,canned
+2024,Newfoundland and Labrador,1.5993750000000002,canned
+2024,Nova Scotia,1.6687500000000002,canned
+2024,Ontario,1.5281250000000002,canned
+2024,Prince Edward Island,1.676875,canned
+2024,Quebec,1.40625,canned
+2024,Saskatchewan,1.556875,canned
+2017,Alberta,4.147083333333334,condiments
+2017,British Columbia,4.239861111111111,condiments
+2017,Manitoba,4.1275,condiments
+2017,New Brunswick,3.77,condiments
+2017,Newfoundland and Labrador,3.6351388888888887,condiments
+2017,Nova Scotia,3.6761111111111107,condiments
+2017,Ontario,3.3038888888888884,condiments
+2017,Prince Edward Island,3.736388888888889,condiments
+2017,Quebec,3.475972222222222,condiments
+2017,Saskatchewan,4.192083333333334,condiments
+2018,Alberta,4.096805555555555,condiments
+2018,British Columbia,4.151111111111111,condiments
+2018,Manitoba,4.044583333333333,condiments
+2018,New Brunswick,3.8331944444444446,condiments
+2018,Newfoundland and Labrador,3.6679166666666667,condiments
+2018,Nova Scotia,3.7319444444444443,condiments
+2018,Ontario,3.397777777777778,condiments
+2018,Prince Edward Island,3.78,condiments
+2018,Quebec,3.5890277777777775,condiments
+2018,Saskatchewan,4.055694444444444,condiments
+2019,Alberta,3.935,condiments
+2019,British Columbia,3.9175000000000004,condiments
+2019,Manitoba,3.764027777777778,condiments
+2019,New Brunswick,3.912638888888889,condiments
+2019,Newfoundland and Labrador,3.7280555555555552,condiments
+2019,Nova Scotia,3.8097222222222222,condiments
+2019,Ontario,3.4287499999999995,condiments
+2019,Prince Edward Island,3.862222222222222,condiments
+2019,Quebec,3.6034722222222224,condiments
+2019,Saskatchewan,3.9231944444444444,condiments
+2020,Alberta,3.9184722222222224,condiments
+2020,British Columbia,3.8734722222222224,condiments
+2020,Manitoba,3.792222222222222,condiments
+2020,New Brunswick,4.059027777777778,condiments
+2020,Newfoundland and Labrador,3.854722222222222,condiments
+2020,Nova Scotia,3.9294444444444445,condiments
+2020,Ontario,3.5601388888888885,condiments
+2020,Prince Edward Island,3.966111111111111,condiments
+2020,Quebec,3.7430555555555554,condiments
+2020,Saskatchewan,3.945138888888889,condiments
+2021,Alberta,4.408472222222223,condiments
+2021,British Columbia,4.3774999999999995,condiments
+2021,Manitoba,4.253194444444444,condiments
+2021,New Brunswick,4.4430555555555555,condiments
+2021,Newfoundland and Labrador,4.240555555555556,condiments
+2021,Nova Scotia,4.364305555555556,condiments
+2021,Ontario,4.014861111111111,condiments
+2021,Prince Edward Island,4.395694444444445,condiments
+2021,Quebec,4.145277777777777,condiments
+2021,Saskatchewan,4.340277777777778,condiments
+2022,Alberta,5.547083333333333,condiments
+2022,British Columbia,5.515,condiments
+2022,Manitoba,5.357777777777777,condiments
+2022,New Brunswick,5.689722222222223,condiments
+2022,Newfoundland and Labrador,5.364444444444445,condiments
+2022,Nova Scotia,5.563888888888889,condiments
+2022,Ontario,5.0754166666666665,condiments
+2022,Prince Edward Island,5.659305555555555,condiments
+2022,Quebec,5.18875,condiments
+2022,Saskatchewan,5.517500000000001,condiments
+2023,Alberta,6.043472222222223,condiments
+2023,British Columbia,6.00375,condiments
+2023,Manitoba,5.866805555555556,condiments
+2023,New Brunswick,6.252361111111111,condiments
+2023,Newfoundland and Labrador,5.788611111111112,condiments
+2023,Nova Scotia,6.04763888888889,condiments
+2023,Ontario,5.481111111111112,condiments
+2023,Prince Edward Island,6.0995833333333325,condiments
+2023,Quebec,5.570277777777778,condiments
+2023,Saskatchewan,5.958888888888889,condiments
+2024,Alberta,5.862291666666667,condiments
+2024,British Columbia,5.863958333333334,condiments
+2024,Manitoba,5.732708333333334,condiments
+2024,New Brunswick,5.897916666666667,condiments
+2024,Newfoundland and Labrador,5.632916666666667,condiments
+2024,Nova Scotia,5.753958333333333,condiments
+2024,Ontario,5.257083333333333,condiments
+2024,Prince Edward Island,5.87625,condiments
+2024,Quebec,5.425,condiments
+2024,Saskatchewan,5.762291666666667,condiments
+2017,Alberta,4.283888888888889,dairy
+2017,British Columbia,4.226805555555556,dairy
+2017,Manitoba,4.185277777777777,dairy
+2017,New Brunswick,4.679444444444445,dairy
+2017,Newfoundland and Labrador,4.586166666666666,dairy
+2017,Nova Scotia,4.5263888888888895,dairy
+2017,Ontario,4.046666666666666,dairy
+2017,Prince Edward Island,4.754444444444444,dairy
+2017,Quebec,4.447222222222222,dairy
+2017,Saskatchewan,4.236666666666667,dairy
+2018,Alberta,4.316944444444444,dairy
+2018,British Columbia,4.250555555555556,dairy
+2018,Manitoba,4.208472222222222,dairy
+2018,New Brunswick,4.695555555555555,dairy
+2018,Newfoundland and Labrador,4.532666666666667,dairy
+2018,Nova Scotia,4.484444444444445,dairy
+2018,Ontario,4.095555555555555,dairy
+2018,Prince Edward Island,4.764722222222222,dairy
+2018,Quebec,4.436388888888889,dairy
+2018,Saskatchewan,4.251527777777778,dairy
+2019,Alberta,4.352916666666666,dairy
+2019,British Columbia,4.262638888888889,dairy
+2019,Manitoba,4.199305555555555,dairy
+2019,New Brunswick,4.783055555555555,dairy
+2019,Newfoundland and Labrador,4.549166666666666,dairy
+2019,Nova Scotia,4.522361111111111,dairy
+2019,Ontario,4.1725,dairy
+2019,Prince Edward Island,4.81125,dairy
+2019,Quebec,4.561527777777777,dairy
+2019,Saskatchewan,4.265,dairy
+2020,Alberta,4.483611111111111,dairy
+2020,British Columbia,4.403194444444444,dairy
+2020,Manitoba,4.327916666666667,dairy
+2020,New Brunswick,4.889861111111111,dairy
+2020,Newfoundland and Labrador,4.697666666666667,dairy
+2020,Nova Scotia,4.640555555555555,dairy
+2020,Ontario,4.318888888888889,dairy
+2020,Prince Edward Island,4.919305555555556,dairy
+2020,Quebec,4.698333333333333,dairy
+2020,Saskatchewan,4.366805555555556,dairy
+2021,Alberta,4.681805555555555,dairy
+2021,British Columbia,4.603611111111111,dairy
+2021,Manitoba,4.514583333333333,dairy
+2021,New Brunswick,5.147083333333334,dairy
+2021,Newfoundland and Labrador,4.9431666666666665,dairy
+2021,Nova Scotia,4.9475,dairy
+2021,Ontario,4.569166666666667,dairy
+2021,Prince Edward Island,5.240833333333334,dairy
+2021,Quebec,4.897916666666666,dairy
+2021,Saskatchewan,4.57875,dairy
+2022,Alberta,5.323194444444445,dairy
+2022,British Columbia,5.296666666666667,dairy
+2022,Manitoba,5.139583333333333,dairy
+2022,New Brunswick,5.81,dairy
+2022,Newfoundland and Labrador,5.6215,dairy
+2022,Nova Scotia,5.5925,dairy
+2022,Ontario,5.221388888888889,dairy
+2022,Prince Edward Island,5.932083333333334,dairy
+2022,Quebec,5.473611111111111,dairy
+2022,Saskatchewan,5.171666666666667,dairy
+2023,Alberta,5.745694444444445,dairy
+2023,British Columbia,5.736527777777778,dairy
+2023,Manitoba,5.601944444444445,dairy
+2023,New Brunswick,6.170138888888889,dairy
+2023,Newfoundland and Labrador,6.003833333333334,dairy
+2023,Nova Scotia,5.9695833333333335,dairy
+2023,Ontario,5.680138888888888,dairy
+2023,Prince Edward Island,6.312916666666666,dairy
+2023,Quebec,5.851944444444444,dairy
+2023,Saskatchewan,5.583888888888889,dairy
+2024,Alberta,5.79375,dairy
+2024,British Columbia,5.747708333333333,dairy
+2024,Manitoba,5.668541666666667,dairy
+2024,New Brunswick,6.219791666666667,dairy
+2024,Newfoundland and Labrador,6.123,dairy
+2024,Nova Scotia,6.027916666666667,dairy
+2024,Ontario,5.6933333333333325,dairy
+2024,Prince Edward Island,6.3758333333333335,dairy
+2024,Quebec,5.902708333333333,dairy
+2024,Saskatchewan,5.643541666666667,dairy
+2017,Alberta,3.8766666666666665,drinks
+2017,British Columbia,3.9091666666666667,drinks
+2017,Manitoba,3.6914583333333333,drinks
+2017,New Brunswick,4.001875,drinks
+2017,Newfoundland and Labrador,4.073541666666666,drinks
+2017,Nova Scotia,4.138541666666667,drinks
+2017,Ontario,3.4610416666666666,drinks
+2017,Prince Edward Island,3.930833333333333,drinks
+2017,Quebec,3.763958333333333,drinks
+2017,Saskatchewan,3.6904166666666667,drinks
+2018,Alberta,3.8804166666666666,drinks
+2018,British Columbia,3.928125,drinks
+2018,Manitoba,3.675625,drinks
+2018,New Brunswick,4.107708333333333,drinks
+2018,Newfoundland and Labrador,4.1554166666666665,drinks
+2018,Nova Scotia,4.230833333333333,drinks
+2018,Ontario,3.5314583333333336,drinks
+2018,Prince Edward Island,4.015833333333333,drinks
+2018,Quebec,3.839583333333333,drinks
+2018,Saskatchewan,3.6181250000000005,drinks
+2019,Alberta,3.906875,drinks
+2019,British Columbia,3.9206250000000002,drinks
+2019,Manitoba,3.664375,drinks
+2019,New Brunswick,4.085833333333333,drinks
+2019,Newfoundland and Labrador,4.120416666666667,drinks
+2019,Nova Scotia,4.1925,drinks
+2019,Ontario,3.6033333333333335,drinks
+2019,Prince Edward Island,4.015416666666667,drinks
+2019,Quebec,3.9099999999999997,drinks
+2019,Saskatchewan,3.652083333333333,drinks
+2020,Alberta,3.9941666666666666,drinks
+2020,British Columbia,4.0304166666666665,drinks
+2020,Manitoba,3.77,drinks
+2020,New Brunswick,4.213125,drinks
+2020,Newfoundland and Labrador,4.3549999999999995,drinks
+2020,Nova Scotia,4.336041666666667,drinks
+2020,Ontario,3.772708333333333,drinks
+2020,Prince Edward Island,4.147916666666667,drinks
+2020,Quebec,4.058333333333334,drinks
+2020,Saskatchewan,3.7268749999999997,drinks
+2021,Alberta,4.055625,drinks
+2021,British Columbia,4.142083333333333,drinks
+2021,Manitoba,3.8612499999999996,drinks
+2021,New Brunswick,4.314375,drinks
+2021,Newfoundland and Labrador,4.4158333333333335,drinks
+2021,Nova Scotia,4.445833333333334,drinks
+2021,Ontario,3.87125,drinks
+2021,Prince Edward Island,4.278333333333332,drinks
+2021,Quebec,4.178333333333334,drinks
+2021,Saskatchewan,3.7956250000000002,drinks
+2022,Alberta,4.406666666666666,drinks
+2022,British Columbia,4.507499999999999,drinks
+2022,Manitoba,4.227291666666667,drinks
+2022,New Brunswick,4.696041666666666,drinks
+2022,Newfoundland and Labrador,4.751875,drinks
+2022,Nova Scotia,4.821458333333333,drinks
+2022,Ontario,4.181666666666667,drinks
+2022,Prince Edward Island,4.6727083333333335,drinks
+2022,Quebec,4.565416666666667,drinks
+2022,Saskatchewan,4.156875,drinks
+2023,Alberta,4.8602083333333335,drinks
+2023,British Columbia,4.991041666666667,drinks
+2023,Manitoba,4.650625,drinks
+2023,New Brunswick,5.154583333333333,drinks
+2023,Newfoundland and Labrador,5.204791666666667,drinks
+2023,Nova Scotia,5.266041666666666,drinks
+2023,Ontario,4.628541666666667,drinks
+2023,Prince Edward Island,5.124583333333334,drinks
+2023,Quebec,4.9852083333333335,drinks
+2023,Saskatchewan,4.61625,drinks
+2024,Alberta,5.0875,drinks
+2024,British Columbia,5.2325,drinks
+2024,Manitoba,4.8853124999999995,drinks
+2024,New Brunswick,5.3425,drinks
+2024,Newfoundland and Labrador,5.286250000000001,drinks
+2024,Nova Scotia,5.4553125,drinks
+2024,Ontario,4.935,drinks
+2024,Prince Edward Island,5.3734375,drinks
+2024,Quebec,5.2165625,drinks
+2024,Saskatchewan,4.8584375,drinks
+2017,Alberta,3.585555555555556,frozen
+2017,British Columbia,3.6455555555555557,frozen
+2017,Manitoba,3.508333333333333,frozen
+2017,New Brunswick,3.5336111111111115,frozen
+2017,Newfoundland and Labrador,3.4586111111111113,frozen
+2017,Nova Scotia,3.4824999999999995,frozen
+2017,Ontario,3.5244444444444443,frozen
+2017,Prince Edward Island,3.459722222222222,frozen
+2017,Quebec,3.468888888888889,frozen
+2017,Saskatchewan,3.494444444444445,frozen
+2018,Alberta,3.4811111111111113,frozen
+2018,British Columbia,3.513611111111112,frozen
+2018,Manitoba,3.4005555555555556,frozen
+2018,New Brunswick,3.4825,frozen
+2018,Newfoundland and Labrador,3.4258333333333333,frozen
+2018,Nova Scotia,3.439722222222222,frozen
+2018,Ontario,3.4047222222222224,frozen
+2018,Prince Edward Island,3.4372222222222226,frozen
+2018,Quebec,3.431944444444445,frozen
+2018,Saskatchewan,3.353333333333333,frozen
+2019,Alberta,3.6225,frozen
+2019,British Columbia,3.6125000000000003,frozen
+2019,Manitoba,3.4930555555555554,frozen
+2019,New Brunswick,3.5877777777777773,frozen
+2019,Newfoundland and Labrador,3.536388888888889,frozen
+2019,Nova Scotia,3.5541666666666667,frozen
+2019,Ontario,3.487222222222222,frozen
+2019,Prince Edward Island,3.577222222222222,frozen
+2019,Quebec,3.5652777777777778,frozen
+2019,Saskatchewan,3.4858333333333333,frozen
+2020,Alberta,3.6750000000000003,frozen
+2020,British Columbia,3.680277777777777,frozen
+2020,Manitoba,3.4741666666666666,frozen
+2020,New Brunswick,3.7236111111111114,frozen
+2020,Newfoundland and Labrador,3.7194444444444446,frozen
+2020,Nova Scotia,3.703888888888889,frozen
+2020,Ontario,3.595555555555555,frozen
+2020,Prince Edward Island,3.705833333333333,frozen
+2020,Quebec,3.638333333333333,frozen
+2020,Saskatchewan,3.5116666666666667,frozen
+2021,Alberta,3.6424999999999996,frozen
+2021,British Columbia,3.668888888888889,frozen
+2021,Manitoba,3.451388888888888,frozen
+2021,New Brunswick,3.811944444444445,frozen
+2021,Newfoundland and Labrador,3.7477777777777774,frozen
+2021,Nova Scotia,3.8030555555555554,frozen
+2021,Ontario,3.6594444444444445,frozen
+2021,Prince Edward Island,3.8216666666666668,frozen
+2021,Quebec,3.8125,frozen
+2021,Saskatchewan,3.4938888888888893,frozen
+2022,Alberta,3.8969444444444448,frozen
+2022,British Columbia,4.0008333333333335,frozen
+2022,Manitoba,3.7144444444444447,frozen
+2022,New Brunswick,4.042222222222223,frozen
+2022,Newfoundland and Labrador,3.97,frozen
+2022,Nova Scotia,4.029166666666667,frozen
+2022,Ontario,3.850277777777778,frozen
+2022,Prince Edward Island,4.064444444444444,frozen
+2022,Quebec,4.098611111111111,frozen
+2022,Saskatchewan,3.7527777777777778,frozen
+2023,Alberta,4.373611111111111,frozen
+2023,British Columbia,4.452500000000001,frozen
+2023,Manitoba,4.185277777777778,frozen
+2023,New Brunswick,4.420833333333333,frozen
+2023,Newfoundland and Labrador,4.335,frozen
+2023,Nova Scotia,4.396666666666667,frozen
+2023,Ontario,4.271944444444444,frozen
+2023,Prince Edward Island,4.442222222222223,frozen
+2023,Quebec,4.504166666666666,frozen
+2023,Saskatchewan,4.211666666666667,frozen
+2024,Alberta,4.396666666666667,frozen
+2024,British Columbia,4.473333333333334,frozen
+2024,Manitoba,4.240833333333334,frozen
+2024,New Brunswick,4.4525,frozen
+2024,Newfoundland and Labrador,4.357083333333333,frozen
+2024,Nova Scotia,4.449166666666667,frozen
+2024,Ontario,4.265833333333333,frozen
+2024,Prince Edward Island,4.478333333333333,frozen
+2024,Quebec,4.482916666666667,frozen
+2024,Saskatchewan,4.242916666666667,frozen
+2017,Alberta,2.885462962962963,fruits
+2017,British Columbia,2.928148148148148,fruits
+2017,Manitoba,2.8991666666666664,fruits
+2017,New Brunswick,3.013425925925926,fruits
+2017,Newfoundland and Labrador,3.4229629629629628,fruits
+2017,Nova Scotia,3.0063888888888886,fruits
+2017,Ontario,2.519814814814815,fruits
+2017,Prince Edward Island,3.02212962962963,fruits
+2017,Quebec,2.6497222222222216,fruits
+2017,Saskatchewan,2.9512962962962965,fruits
+2018,Alberta,2.8667592592592595,fruits
+2018,British Columbia,2.9387962962962964,fruits
+2018,Manitoba,2.864537037037037,fruits
+2018,New Brunswick,3.0417592592592593,fruits
+2018,Newfoundland and Labrador,3.3910185185185187,fruits
+2018,Nova Scotia,3.0615740740740742,fruits
+2018,Ontario,2.5714814814814813,fruits
+2018,Prince Edward Island,3.0562037037037038,fruits
+2018,Quebec,2.674351851851852,fruits
+2018,Saskatchewan,2.894814814814815,fruits
+2019,Alberta,3.059722222222222,fruits
+2019,British Columbia,3.0707407407407405,fruits
+2019,Manitoba,2.9275925925925925,fruits
+2019,New Brunswick,3.223888888888889,fruits
+2019,Newfoundland and Labrador,3.498518518518518,fruits
+2019,Nova Scotia,3.2384259259259256,fruits
+2019,Ontario,2.7076851851851855,fruits
+2019,Prince Edward Island,3.248425925925926,fruits
+2019,Quebec,2.846111111111111,fruits
+2019,Saskatchewan,3.069351851851852,fruits
+2020,Alberta,3.1682407407407407,fruits
+2020,British Columbia,3.1012962962962964,fruits
+2020,Manitoba,3.0210185185185185,fruits
+2020,New Brunswick,3.4561111111111114,fruits
+2020,Newfoundland and Labrador,3.718333333333333,fruits
+2020,Nova Scotia,3.450740740740741,fruits
+2020,Ontario,2.7424074074074074,fruits
+2020,Prince Edward Island,3.4770370370370376,fruits
+2020,Quebec,3.015,fruits
+2020,Saskatchewan,3.113425925925926,fruits
+2021,Alberta,3.297037037037037,fruits
+2021,British Columbia,3.299074074074074,fruits
+2021,Manitoba,3.196203703703704,fruits
+2021,New Brunswick,3.55712962962963,fruits
+2021,Newfoundland and Labrador,3.8700925925925924,fruits
+2021,Nova Scotia,3.5543518518518518,fruits
+2021,Ontario,2.83,fruits
+2021,Prince Edward Island,3.5923148148148147,fruits
+2021,Quebec,3.122962962962963,fruits
+2021,Saskatchewan,3.2632407407407404,fruits
+2022,Alberta,3.726944444444445,fruits
+2022,British Columbia,3.7618518518518522,fruits
+2022,Manitoba,3.62037037037037,fruits
+2022,New Brunswick,3.8769444444444443,fruits
+2022,Newfoundland and Labrador,4.24037037037037,fruits
+2022,Nova Scotia,3.8453703703703703,fruits
+2022,Ontario,3.2376851851851853,fruits
+2022,Prince Edward Island,3.8979629629629624,fruits
+2022,Quebec,3.526944444444444,fruits
+2022,Saskatchewan,3.6996296296296296,fruits
+2023,Alberta,3.896111111111111,fruits
+2023,British Columbia,3.9485185185185188,fruits
+2023,Manitoba,3.7892592592592598,fruits
+2023,New Brunswick,4.131388888888889,fruits
+2023,Newfoundland and Labrador,4.447222222222222,fruits
+2023,Nova Scotia,4.102685185185185,fruits
+2023,Ontario,3.3491666666666666,fruits
+2023,Prince Edward Island,4.130925925925926,fruits
+2023,Quebec,3.7012037037037038,fruits
+2023,Saskatchewan,3.8897222222222223,fruits
+2024,Alberta,3.8526388888888885,fruits
+2024,British Columbia,3.8537500000000002,fruits
+2024,Manitoba,3.745277777777778,fruits
+2024,New Brunswick,4.101805555555555,fruits
+2024,Newfoundland and Labrador,4.473611111111111,fruits
+2024,Nova Scotia,4.027222222222222,fruits
+2024,Ontario,3.2051388888888885,fruits
+2024,Prince Edward Island,4.056666666666667,fruits
+2024,Quebec,3.3408333333333333,fruits
+2024,Saskatchewan,3.8372222222222225,fruits
+2017,Alberta,3.138541666666667,grains
+2017,British Columbia,3.0952083333333333,grains
+2017,Manitoba,3.020208333333333,grains
+2017,New Brunswick,3.035833333333333,grains
+2017,Newfoundland and Labrador,3.2270833333333333,grains
+2017,Nova Scotia,2.973125,grains
+2017,Ontario,2.5954166666666665,grains
+2017,Prince Edward Island,2.9864583333333337,grains
+2017,Quebec,2.765416666666667,grains
+2017,Saskatchewan,3.0997916666666665,grains
+2018,Alberta,3.05625,grains
+2018,British Columbia,3.0962499999999995,grains
+2018,Manitoba,2.9831250000000002,grains
+2018,New Brunswick,2.9741666666666666,grains
+2018,Newfoundland and Labrador,3.128541666666667,grains
+2018,Nova Scotia,2.9289583333333336,grains
+2018,Ontario,2.5774999999999997,grains
+2018,Prince Edward Island,2.95375,grains
+2018,Quebec,2.799375,grains
+2018,Saskatchewan,3.0210416666666666,grains
+2019,Alberta,3.03875,grains
+2019,British Columbia,3.1022916666666664,grains
+2019,Manitoba,2.85625,grains
+2019,New Brunswick,3.0327083333333333,grains
+2019,Newfoundland and Labrador,3.143125,grains
+2019,Nova Scotia,2.99875,grains
+2019,Ontario,2.6218749999999997,grains
+2019,Prince Edward Island,2.9947916666666665,grains
+2019,Quebec,2.90625,grains
+2019,Saskatchewan,2.9820833333333336,grains
+2020,Alberta,3.12625,grains
+2020,British Columbia,3.116458333333333,grains
+2020,Manitoba,2.9072916666666666,grains
+2020,New Brunswick,3.075,grains
+2020,Newfoundland and Labrador,3.211875,grains
+2020,Nova Scotia,3.0697916666666667,grains
+2020,Ontario,2.7264583333333334,grains
+2020,Prince Edward Island,3.060416666666667,grains
+2020,Quebec,2.9683333333333333,grains
+2020,Saskatchewan,3.0352083333333333,grains
+2021,Alberta,3.0308333333333333,grains
+2021,British Columbia,3.1029166666666663,grains
+2021,Manitoba,2.8029166666666665,grains
+2021,New Brunswick,3.1566666666666667,grains
+2021,Newfoundland and Labrador,3.2697916666666664,grains
+2021,Nova Scotia,3.149583333333333,grains
+2021,Ontario,2.8364583333333333,grains
+2021,Prince Edward Island,3.1489583333333333,grains
+2021,Quebec,3.034375,grains
+2021,Saskatchewan,2.9127083333333332,grains
+2022,Alberta,3.4764583333333334,grains
+2022,British Columbia,3.563333333333333,grains
+2022,Manitoba,3.2977083333333335,grains
+2022,New Brunswick,3.7706250000000003,grains
+2022,Newfoundland and Labrador,3.8704166666666664,grains
+2022,Nova Scotia,3.7431250000000005,grains
+2022,Ontario,3.292708333333333,grains
+2022,Prince Edward Island,3.745,grains
+2022,Quebec,3.5368749999999998,grains
+2022,Saskatchewan,3.399583333333333,grains
+2023,Alberta,3.911875,grains
+2023,British Columbia,3.987291666666667,grains
+2023,Manitoba,3.739583333333333,grains
+2023,New Brunswick,4.151875,grains
+2023,Newfoundland and Labrador,4.27875,grains
+2023,Nova Scotia,4.140208333333334,grains
+2023,Ontario,3.6314583333333332,grains
+2023,Prince Edward Island,4.169583333333333,grains
+2023,Quebec,3.9020833333333336,grains
+2023,Saskatchewan,3.825,grains
+2024,Alberta,3.700625,grains
+2024,British Columbia,3.7821875,grains
+2024,Manitoba,3.5753125,grains
+2024,New Brunswick,3.9528125,grains
+2024,Newfoundland and Labrador,4.0112499999999995,grains
+2024,Nova Scotia,3.918125,grains
+2024,Ontario,3.383125,grains
+2024,Prince Edward Island,3.9815625,grains
+2024,Quebec,3.77875,grains
+2024,Saskatchewan,3.5765625,grains
+2017,Alberta,3.2424999999999997,meat_alts
+2017,British Columbia,3.3991666666666664,meat_alts
+2017,Manitoba,3.092222222222222,meat_alts
+2017,New Brunswick,3.081666666666667,meat_alts
+2017,Newfoundland and Labrador,3.1325,meat_alts
+2017,Nova Scotia,3.049722222222222,meat_alts
+2017,Ontario,2.994722222222222,meat_alts
+2017,Prince Edward Island,3.0555555555555554,meat_alts
+2017,Quebec,3.0713888888888885,meat_alts
+2017,Saskatchewan,3.1680555555555556,meat_alts
+2018,Alberta,3.3000000000000003,meat_alts
+2018,British Columbia,3.4780555555555552,meat_alts
+2018,Manitoba,3.17,meat_alts
+2018,New Brunswick,3.253888888888889,meat_alts
+2018,Newfoundland and Labrador,3.2119444444444447,meat_alts
+2018,Nova Scotia,3.1863888888888887,meat_alts
+2018,Ontario,3.2075,meat_alts
+2018,Prince Edward Island,3.244444444444444,meat_alts
+2018,Quebec,3.295277777777778,meat_alts
+2018,Saskatchewan,3.2169444444444437,meat_alts
+2019,Alberta,3.750555555555555,meat_alts
+2019,British Columbia,3.9058333333333333,meat_alts
+2019,Manitoba,3.613888888888889,meat_alts
+2019,New Brunswick,3.6727777777777777,meat_alts
+2019,Newfoundland and Labrador,3.6280555555555556,meat_alts
+2019,Nova Scotia,3.598333333333333,meat_alts
+2019,Ontario,3.589166666666667,meat_alts
+2019,Prince Edward Island,3.6969444444444446,meat_alts
+2019,Quebec,3.6625,meat_alts
+2019,Saskatchewan,3.6752777777777776,meat_alts
+2020,Alberta,3.8241666666666667,meat_alts
+2020,British Columbia,4.052499999999999,meat_alts
+2020,Manitoba,3.751111111111111,meat_alts
+2020,New Brunswick,3.826111111111111,meat_alts
+2020,Newfoundland and Labrador,3.855277777777778,meat_alts
+2020,Nova Scotia,3.810555555555556,meat_alts
+2020,Ontario,3.815555555555555,meat_alts
+2020,Prince Edward Island,3.9005555555555556,meat_alts
+2020,Quebec,3.7936111111111113,meat_alts
+2020,Saskatchewan,3.7644444444444445,meat_alts
+2021,Alberta,3.999166666666666,meat_alts
+2021,British Columbia,4.291111111111111,meat_alts
+2021,Manitoba,3.9125,meat_alts
+2021,New Brunswick,4.061388888888889,meat_alts
+2021,Newfoundland and Labrador,4.040555555555556,meat_alts
+2021,Nova Scotia,4.050277777777778,meat_alts
+2021,Ontario,4.073055555555555,meat_alts
+2021,Prince Edward Island,4.108888888888889,meat_alts
+2021,Quebec,3.9891666666666663,meat_alts
+2021,Saskatchewan,3.888888888888889,meat_alts
+2022,Alberta,4.2572222222222225,meat_alts
+2022,British Columbia,4.5225,meat_alts
+2022,Manitoba,4.1002777777777775,meat_alts
+2022,New Brunswick,4.356388888888889,meat_alts
+2022,Newfoundland and Labrador,4.447222222222222,meat_alts
+2022,Nova Scotia,4.403611111111111,meat_alts
+2022,Ontario,4.318611111111111,meat_alts
+2022,Prince Edward Island,4.427222222222222,meat_alts
+2022,Quebec,4.084722222222222,meat_alts
+2022,Saskatchewan,4.095,meat_alts
+2023,Alberta,4.463055555555556,meat_alts
+2023,British Columbia,4.705555555555556,meat_alts
+2023,Manitoba,4.247222222222223,meat_alts
+2023,New Brunswick,4.4575,meat_alts
+2023,Newfoundland and Labrador,4.610555555555556,meat_alts
+2023,Nova Scotia,4.514444444444444,meat_alts
+2023,Ontario,4.427499999999999,meat_alts
+2023,Prince Edward Island,4.566111111111112,meat_alts
+2023,Quebec,4.213611111111111,meat_alts
+2023,Saskatchewan,4.242500000000001,meat_alts
+2024,Alberta,4.546666666666667,meat_alts
+2024,British Columbia,4.751666666666666,meat_alts
+2024,Manitoba,4.39875,meat_alts
+2024,New Brunswick,4.574166666666667,meat_alts
+2024,Newfoundland and Labrador,4.760833333333333,meat_alts
+2024,Nova Scotia,4.711666666666667,meat_alts
+2024,Ontario,4.422083333333334,meat_alts
+2024,Prince Edward Island,4.691666666666666,meat_alts
+2024,Quebec,4.14875,meat_alts
+2024,Saskatchewan,4.389166666666667,meat_alts
+2017,Alberta,8.4355,meats
+2017,British Columbia,8.243166666666667,meats
+2017,Manitoba,8.083333333333334,meats
+2017,New Brunswick,6.715333333333334,meats
+2017,Newfoundland and Labrador,6.946,meats
+2017,Nova Scotia,6.622666666666667,meats
+2017,Ontario,7.349166666666666,meats
+2017,Prince Edward Island,6.606999999999999,meats
+2017,Quebec,7.817166666666667,meats
+2017,Saskatchewan,7.8549999999999995,meats
+2018,Alberta,8.302166666666666,meats
+2018,British Columbia,8.156333333333333,meats
+2018,Manitoba,8.0145,meats
+2018,New Brunswick,6.805666666666667,meats
+2018,Newfoundland and Labrador,7.002833333333333,meats
+2018,Nova Scotia,6.747833333333334,meats
+2018,Ontario,7.388833333333333,meats
+2018,Prince Edward Island,6.716833333333334,meats
+2018,Quebec,7.620333333333332,meats
+2018,Saskatchewan,7.637833333333333,meats
+2019,Alberta,8.372666666666666,meats
+2019,British Columbia,8.215833333333332,meats
+2019,Manitoba,7.7909999999999995,meats
+2019,New Brunswick,7.177499999999999,meats
+2019,Newfoundland and Labrador,7.327833333333333,meats
+2019,Nova Scotia,7.1185,meats
+2019,Ontario,7.528833333333333,meats
+2019,Prince Edward Island,7.143666666666666,meats
+2019,Quebec,7.768499999999999,meats
+2019,Saskatchewan,7.635333333333333,meats
+2020,Alberta,8.792666666666667,meats
+2020,British Columbia,8.692833333333333,meats
+2020,Manitoba,8.399666666666665,meats
+2020,New Brunswick,7.450333333333333,meats
+2020,Newfoundland and Labrador,7.797999999999999,meats
+2020,Nova Scotia,7.425,meats
+2020,Ontario,7.949166666666666,meats
+2020,Prince Edward Island,7.442333333333333,meats
+2020,Quebec,8.082333333333334,meats
+2020,Saskatchewan,7.9556666666666676,meats
+2021,Alberta,8.9585,meats
+2021,British Columbia,8.970166666666668,meats
+2021,Manitoba,8.551666666666666,meats
+2021,New Brunswick,7.8145,meats
+2021,Newfoundland and Labrador,7.8745,meats
+2021,Nova Scotia,7.853,meats
+2021,Ontario,8.270666666666667,meats
+2021,Prince Edward Island,7.880666666666667,meats
+2021,Quebec,8.330666666666668,meats
+2021,Saskatchewan,8.220333333333333,meats
+2022,Alberta,9.350166666666667,meats
+2022,British Columbia,9.6405,meats
+2022,Manitoba,9.010000000000002,meats
+2022,New Brunswick,8.601333333333333,meats
+2022,Newfoundland and Labrador,8.450333333333333,meats
+2022,Nova Scotia,8.664833333333334,meats
+2022,Ontario,9.001833333333334,meats
+2022,Prince Edward Island,8.745833333333334,meats
+2022,Quebec,9.063666666666666,meats
+2022,Saskatchewan,8.820166666666665,meats
+2023,Alberta,9.621500000000001,meats
+2023,British Columbia,9.8395,meats
+2023,Manitoba,9.2005,meats
+2023,New Brunswick,8.869166666666667,meats
+2023,Newfoundland and Labrador,8.842666666666666,meats
+2023,Nova Scotia,8.9045,meats
+2023,Ontario,8.863333333333333,meats
+2023,Prince Edward Island,8.934999999999999,meats
+2023,Quebec,9.006166666666667,meats
+2023,Saskatchewan,8.928166666666666,meats
+2024,Alberta,10.0505,meats
+2024,British Columbia,10.1935,meats
+2024,Manitoba,9.577,meats
+2024,New Brunswick,9.031,meats
+2024,Newfoundland and Labrador,9.06625,meats
+2024,Nova Scotia,9.023,meats
+2024,Ontario,8.8465,meats
+2024,Prince Edward Island,9.13275,meats
+2024,Quebec,8.63225,meats
+2024,Saskatchewan,9.49825,meats
+2017,Alberta,3.837083333333333,nuts
+2017,British Columbia,3.784583333333334,nuts
+2017,Manitoba,3.8008333333333333,nuts
+2017,New Brunswick,4.3925,nuts
+2017,Newfoundland and Labrador,4.488333333333333,nuts
+2017,Nova Scotia,4.339166666666666,nuts
+2017,Ontario,3.855833333333333,nuts
+2017,Prince Edward Island,4.412916666666667,nuts
+2017,Quebec,4.042916666666667,nuts
+2017,Saskatchewan,3.870833333333333,nuts
+2018,Alberta,4.035833333333333,nuts
+2018,British Columbia,4.0129166666666665,nuts
+2018,Manitoba,4.029166666666667,nuts
+2018,New Brunswick,4.340833333333333,nuts
+2018,Newfoundland and Labrador,4.382916666666667,nuts
+2018,Nova Scotia,4.345,nuts
+2018,Ontario,4.027916666666666,nuts
+2018,Prince Edward Island,4.349166666666666,nuts
+2018,Quebec,4.403333333333332,nuts
+2018,Saskatchewan,3.9995833333333333,nuts
+2019,Alberta,4.10625,nuts
+2019,British Columbia,4.035833333333334,nuts
+2019,Manitoba,4.104583333333333,nuts
+2019,New Brunswick,4.24,nuts
+2019,Newfoundland and Labrador,4.32625,nuts
+2019,Nova Scotia,4.2404166666666665,nuts
+2019,Ontario,4.067083333333334,nuts
+2019,Prince Edward Island,4.2091666666666665,nuts
+2019,Quebec,4.410833333333334,nuts
+2019,Saskatchewan,4.0495833333333335,nuts
+2020,Alberta,4.325,nuts
+2020,British Columbia,4.224583333333333,nuts
+2020,Manitoba,4.268333333333333,nuts
+2020,New Brunswick,4.332916666666668,nuts
+2020,Newfoundland and Labrador,4.385833333333333,nuts
+2020,Nova Scotia,4.312916666666667,nuts
+2020,Ontario,4.085833333333333,nuts
+2020,Prince Edward Island,4.249583333333333,nuts
+2020,Quebec,4.55125,nuts
+2020,Saskatchewan,4.140833333333333,nuts
+2021,Alberta,4.385,nuts
+2021,British Columbia,4.223333333333334,nuts
+2021,Manitoba,4.250416666666666,nuts
+2021,New Brunswick,4.3875,nuts
+2021,Newfoundland and Labrador,4.286666666666667,nuts
+2021,Nova Scotia,4.383749999999999,nuts
+2021,Ontario,3.9870833333333335,nuts
+2021,Prince Edward Island,4.429583333333333,nuts
+2021,Quebec,4.437083333333334,nuts
+2021,Saskatchewan,4.1225000000000005,nuts
+2022,Alberta,4.33375,nuts
+2022,British Columbia,4.26375,nuts
+2022,Manitoba,4.183333333333334,nuts
+2022,New Brunswick,4.53375,nuts
+2022,Newfoundland and Labrador,4.447916666666667,nuts
+2022,Nova Scotia,4.522916666666667,nuts
+2022,Ontario,4.189166666666667,nuts
+2022,Prince Edward Island,4.562916666666666,nuts
+2022,Quebec,4.466666666666667,nuts
+2022,Saskatchewan,4.10125,nuts
+2023,Alberta,4.3845833333333335,nuts
+2023,British Columbia,4.327083333333333,nuts
+2023,Manitoba,4.225833333333333,nuts
+2023,New Brunswick,4.525,nuts
+2023,Newfoundland and Labrador,4.464583333333334,nuts
+2023,Nova Scotia,4.52125,nuts
+2023,Ontario,4.105416666666667,nuts
+2023,Prince Edward Island,4.5675,nuts
+2023,Quebec,4.5616666666666665,nuts
+2023,Saskatchewan,4.210416666666667,nuts
+2024,Alberta,4.285,nuts
+2024,British Columbia,4.16,nuts
+2024,Manitoba,4.199375,nuts
+2024,New Brunswick,4.30875,nuts
+2024,Newfoundland and Labrador,4.259375,nuts
+2024,Nova Scotia,4.37875,nuts
+2024,Ontario,4.045625,nuts
+2024,Prince Edward Island,4.46875,nuts
+2024,Quebec,4.6674999999999995,nuts
+2024,Saskatchewan,4.130000000000001,nuts
+2017,Alberta,4.7127083333333335,pantry
+2017,British Columbia,4.805208333333333,pantry
+2017,Manitoba,4.4747916666666665,pantry
+2017,New Brunswick,5.247083333333333,pantry
+2017,Newfoundland and Labrador,5.124375,pantry
+2017,Nova Scotia,5.221041666666666,pantry
+2017,Ontario,4.301666666666667,pantry
+2017,Prince Edward Island,5.171458333333334,pantry
+2017,Quebec,4.793541666666667,pantry
+2017,Saskatchewan,4.616041666666667,pantry
+2018,Alberta,4.799166666666666,pantry
+2018,British Columbia,4.876250000000001,pantry
+2018,Manitoba,4.535208333333333,pantry
+2018,New Brunswick,5.269583333333333,pantry
+2018,Newfoundland and Labrador,5.0825,pantry
+2018,Nova Scotia,5.239166666666667,pantry
+2018,Ontario,4.371041666666667,pantry
+2018,Prince Edward Island,5.193333333333333,pantry
+2018,Quebec,4.8025,pantry
+2018,Saskatchewan,4.636458333333334,pantry
+2019,Alberta,4.838333333333333,pantry
+2019,British Columbia,4.902291666666667,pantry
+2019,Manitoba,4.536458333333334,pantry
+2019,New Brunswick,5.267708333333334,pantry
+2019,Newfoundland and Labrador,5.053749999999999,pantry
+2019,Nova Scotia,5.201458333333334,pantry
+2019,Ontario,4.430833333333333,pantry
+2019,Prince Edward Island,5.194583333333334,pantry
+2019,Quebec,4.827916666666667,pantry
+2019,Saskatchewan,4.639166666666667,pantry
+2020,Alberta,5.230833333333333,pantry
+2020,British Columbia,5.287708333333334,pantry
+2020,Manitoba,4.883958333333333,pantry
+2020,New Brunswick,5.598958333333333,pantry
+2020,Newfoundland and Labrador,5.640416666666667,pantry
+2020,Nova Scotia,5.602708333333333,pantry
+2020,Ontario,4.7370833333333335,pantry
+2020,Prince Edward Island,5.593541666666666,pantry
+2020,Quebec,5.024375,pantry
+2020,Saskatchewan,5.022083333333334,pantry
+2021,Alberta,5.201875,pantry
+2021,British Columbia,5.322916666666667,pantry
+2021,Manitoba,4.846666666666667,pantry
+2021,New Brunswick,5.619375,pantry
+2021,Newfoundland and Labrador,5.461666666666667,pantry
+2021,Nova Scotia,5.595833333333333,pantry
+2021,Ontario,4.9025,pantry
+2021,Prince Edward Island,5.630624999999999,pantry
+2021,Quebec,5.14875,pantry
+2021,Saskatchewan,4.936458333333333,pantry
+2022,Alberta,5.788333333333334,pantry
+2022,British Columbia,5.875625,pantry
+2022,Manitoba,5.403125,pantry
+2022,New Brunswick,6.205833333333333,pantry
+2022,Newfoundland and Labrador,6.011458333333334,pantry
+2022,Nova Scotia,6.17,pantry
+2022,Ontario,5.4972916666666665,pantry
+2022,Prince Edward Island,6.1875,pantry
+2022,Quebec,5.897083333333333,pantry
+2022,Saskatchewan,5.5175,pantry
+2023,Alberta,6.145208333333333,pantry
+2023,British Columbia,6.243541666666667,pantry
+2023,Manitoba,5.8289583333333335,pantry
+2023,New Brunswick,6.564166666666666,pantry
+2023,Newfoundland and Labrador,6.267916666666667,pantry
+2023,Nova Scotia,6.5024999999999995,pantry
+2023,Ontario,5.832083333333334,pantry
+2023,Prince Edward Island,6.513958333333334,pantry
+2023,Quebec,6.013541666666667,pantry
+2023,Saskatchewan,5.910208333333333,pantry
+2024,Alberta,5.746875,pantry
+2024,British Columbia,5.8621875,pantry
+2024,Manitoba,5.4887500000000005,pantry
+2024,New Brunswick,6.005,pantry
+2024,Newfoundland and Labrador,5.9240625,pantry
+2024,Nova Scotia,6.11375,pantry
+2024,Ontario,5.38875,pantry
+2024,Prince Edward Island,5.98875,pantry
+2024,Quebec,5.8228125,pantry
+2024,Saskatchewan,5.4275,pantry
+2017,Alberta,14.934583333333334,seafood
+2017,British Columbia,15.454999999999998,seafood
+2017,Manitoba,14.212916666666667,seafood
+2017,New Brunswick,13.469999999999999,seafood
+2017,Newfoundland and Labrador,13.702916666666667,seafood
+2017,Nova Scotia,13.205416666666665,seafood
+2017,Ontario,15.502083333333333,seafood
+2017,Prince Edward Island,13.29125,seafood
+2017,Quebec,14.761249999999999,seafood
+2017,Saskatchewan,13.80125,seafood
+2018,Alberta,15.603333333333333,seafood
+2018,British Columbia,16.348333333333333,seafood
+2018,Manitoba,14.797083333333333,seafood
+2018,New Brunswick,13.6975,seafood
+2018,Newfoundland and Labrador,13.736666666666665,seafood
+2018,Nova Scotia,13.51875,seafood
+2018,Ontario,15.784166666666668,seafood
+2018,Prince Edward Island,13.61625,seafood
+2018,Quebec,14.7575,seafood
+2018,Saskatchewan,14.493333333333334,seafood
+2019,Alberta,16.00166666666667,seafood
+2019,British Columbia,17.168333333333333,seafood
+2019,Manitoba,15.18625,seafood
+2019,New Brunswick,13.854999999999999,seafood
+2019,Newfoundland and Labrador,13.67125,seafood
+2019,Nova Scotia,13.627499999999998,seafood
+2019,Ontario,15.845416666666667,seafood
+2019,Prince Edward Island,13.617916666666666,seafood
+2019,Quebec,15.398333333333335,seafood
+2019,Saskatchewan,15.129166666666666,seafood
+2020,Alberta,15.009166666666664,seafood
+2020,British Columbia,15.96125,seafood
+2020,Manitoba,14.446666666666667,seafood
+2020,New Brunswick,13.696666666666665,seafood
+2020,Newfoundland and Labrador,14.1,seafood
+2020,Nova Scotia,13.596666666666668,seafood
+2020,Ontario,15.295,seafood
+2020,Prince Edward Island,13.493333333333332,seafood
+2020,Quebec,14.525833333333335,seafood
+2020,Saskatchewan,14.2175,seafood
+2021,Alberta,15.221249999999998,seafood
+2021,British Columbia,16.27875,seafood
+2021,Manitoba,14.772499999999999,seafood
+2021,New Brunswick,14.497499999999999,seafood
+2021,Newfoundland and Labrador,14.37125,seafood
+2021,Nova Scotia,14.542916666666665,seafood
+2021,Ontario,15.955833333333333,seafood
+2021,Prince Edward Island,14.200833333333334,seafood
+2021,Quebec,15.17,seafood
+2021,Saskatchewan,14.439166666666667,seafood
+2022,Alberta,16.55125,seafood
+2022,British Columbia,17.57833333333333,seafood
+2022,Manitoba,15.51375,seafood
+2022,New Brunswick,16.148333333333333,seafood
+2022,Newfoundland and Labrador,16.125416666666666,seafood
+2022,Nova Scotia,16.258333333333333,seafood
+2022,Ontario,17.93208333333333,seafood
+2022,Prince Edward Island,16.44125,seafood
+2022,Quebec,16.889583333333334,seafood
+2022,Saskatchewan,14.825416666666666,seafood
+2023,Alberta,16.6925,seafood
+2023,British Columbia,17.460833333333333,seafood
+2023,Manitoba,15.224583333333333,seafood
+2023,New Brunswick,16.690416666666668,seafood
+2023,Newfoundland and Labrador,16.891666666666666,seafood
+2023,Nova Scotia,17.017083333333336,seafood
+2023,Ontario,17.799166666666668,seafood
+2023,Prince Edward Island,16.910416666666666,seafood
+2023,Quebec,17.665416666666665,seafood
+2023,Saskatchewan,14.645416666666668,seafood
+2024,Alberta,17.080000000000002,seafood
+2024,British Columbia,17.60125,seafood
+2024,Manitoba,15.705625,seafood
+2024,New Brunswick,16.671875,seafood
+2024,Newfoundland and Labrador,16.845625,seafood
+2024,Nova Scotia,16.919375,seafood
+2024,Ontario,17.24,seafood
+2024,Prince Edward Island,17.02,seafood
+2024,Quebec,16.99875,seafood
+2024,Saskatchewan,15.119375,seafood
+2017,Alberta,3.573611111111111,snacks
+2017,British Columbia,3.565,snacks
+2017,Manitoba,3.449444444444444,snacks
+2017,New Brunswick,3.375,snacks
+2017,Newfoundland and Labrador,3.4186111111111113,snacks
+2017,Nova Scotia,3.3777777777777778,snacks
+2017,Ontario,3.134444444444444,snacks
+2017,Prince Edward Island,3.371666666666666,snacks
+2017,Quebec,3.2925,snacks
+2017,Saskatchewan,3.480833333333333,snacks
+2018,Alberta,3.6569444444444446,snacks
+2018,British Columbia,3.665277777777778,snacks
+2018,Manitoba,3.533055555555556,snacks
+2018,New Brunswick,3.542222222222222,snacks
+2018,Newfoundland and Labrador,3.548888888888889,snacks
+2018,Nova Scotia,3.5152777777777775,snacks
+2018,Ontario,3.2624999999999997,snacks
+2018,Prince Edward Island,3.5275,snacks
+2018,Quebec,3.5077777777777777,snacks
+2018,Saskatchewan,3.5155555555555558,snacks
+2019,Alberta,3.675277777777778,snacks
+2019,British Columbia,3.704722222222222,snacks
+2019,Manitoba,3.5044444444444447,snacks
+2019,New Brunswick,3.699444444444444,snacks
+2019,Newfoundland and Labrador,3.7091666666666665,snacks
+2019,Nova Scotia,3.666388888888889,snacks
+2019,Ontario,3.4583333333333335,snacks
+2019,Prince Edward Island,3.6647222222222218,snacks
+2019,Quebec,3.5666666666666664,snacks
+2019,Saskatchewan,3.5627777777777783,snacks
+2020,Alberta,3.6783333333333332,snacks
+2020,British Columbia,3.6983333333333337,snacks
+2020,Manitoba,3.5327777777777776,snacks
+2020,New Brunswick,3.709722222222222,snacks
+2020,Newfoundland and Labrador,3.7130555555555556,snacks
+2020,Nova Scotia,3.6649999999999996,snacks
+2020,Ontario,3.4986111111111113,snacks
+2020,Prince Edward Island,3.6558333333333337,snacks
+2020,Quebec,3.6197222222222223,snacks
+2020,Saskatchewan,3.5636111111111113,snacks
+2021,Alberta,3.702777777777778,snacks
+2021,British Columbia,3.763611111111111,snacks
+2021,Manitoba,3.539444444444444,snacks
+2021,New Brunswick,3.7744444444444447,snacks
+2021,Newfoundland and Labrador,3.765833333333333,snacks
+2021,Nova Scotia,3.739722222222222,snacks
+2021,Ontario,3.586111111111111,snacks
+2021,Prince Edward Island,3.735,snacks
+2021,Quebec,3.67,snacks
+2021,Saskatchewan,3.586388888888889,snacks
+2022,Alberta,3.9233333333333333,snacks
+2022,British Columbia,3.9883333333333333,snacks
+2022,Manitoba,3.7852777777777775,snacks
+2022,New Brunswick,4.085555555555556,snacks
+2022,Newfoundland and Labrador,4.070833333333334,snacks
+2022,Nova Scotia,4.066388888888889,snacks
+2022,Ontario,3.9258333333333333,snacks
+2022,Prince Edward Island,4.067222222222222,snacks
+2022,Quebec,3.958888888888889,snacks
+2022,Saskatchewan,3.829166666666666,snacks
+2023,Alberta,4.408055555555555,snacks
+2023,British Columbia,4.507222222222222,snacks
+2023,Manitoba,4.252777777777777,snacks
+2023,New Brunswick,4.601388888888889,snacks
+2023,Newfoundland and Labrador,4.56361111111111,snacks
+2023,Nova Scotia,4.551111111111111,snacks
+2023,Ontario,4.3566666666666665,snacks
+2023,Prince Edward Island,4.596111111111111,snacks
+2023,Quebec,4.389444444444444,snacks
+2023,Saskatchewan,4.311388888888889,snacks
+2024,Alberta,4.379166666666666,snacks
+2024,British Columbia,4.434166666666667,snacks
+2024,Manitoba,4.2820833333333335,snacks
+2024,New Brunswick,4.531666666666667,snacks
+2024,Newfoundland and Labrador,4.494166666666667,snacks
+2024,Nova Scotia,4.480416666666667,snacks
+2024,Ontario,4.295416666666667,snacks
+2024,Prince Edward Island,4.56,snacks
+2024,Quebec,4.371666666666667,snacks
+2024,Saskatchewan,4.31375,snacks
+2017,Alberta,2.97075,veggies
+2017,British Columbia,2.99925,veggies
+2017,Manitoba,2.9305833333333333,veggies
+2017,New Brunswick,3.3995833333333336,veggies
+2017,Newfoundland and Labrador,3.8899999999999997,veggies
+2017,Nova Scotia,3.371666666666667,veggies
+2017,Ontario,2.85375,veggies
+2017,Prince Edward Island,3.4210833333333333,veggies
+2017,Quebec,2.978833333333333,veggies
+2017,Saskatchewan,3.003416666666667,veggies
+2018,Alberta,3.1243333333333334,veggies
+2018,British Columbia,3.2085833333333333,veggies
+2018,Manitoba,3.0588333333333333,veggies
+2018,New Brunswick,3.738916666666667,veggies
+2018,Newfoundland and Labrador,4.004416666666667,veggies
+2018,Nova Scotia,3.71175,veggies
+2018,Ontario,3.166,veggies
+2018,Prince Edward Island,3.8048333333333333,veggies
+2018,Quebec,3.2305,veggies
+2018,Saskatchewan,3.1403333333333334,veggies
+2019,Alberta,3.6925,veggies
+2019,British Columbia,3.6931666666666665,veggies
+2019,Manitoba,3.5719166666666666,veggies
+2019,New Brunswick,4.041916666666667,veggies
+2019,Newfoundland and Labrador,4.223166666666667,veggies
+2019,Nova Scotia,3.987916666666666,veggies
+2019,Ontario,3.530083333333333,veggies
+2019,Prince Edward Island,4.0635,veggies
+2019,Quebec,3.72825,veggies
+2019,Saskatchewan,3.733083333333333,veggies
+2020,Alberta,3.775,veggies
+2020,British Columbia,3.757833333333333,veggies
+2020,Manitoba,3.6001666666666665,veggies
+2020,New Brunswick,4.199916666666667,veggies
+2020,Newfoundland and Labrador,4.477916666666667,veggies
+2020,Nova Scotia,4.156083333333333,veggies
+2020,Ontario,3.5477499999999997,veggies
+2020,Prince Edward Island,4.183083333333333,veggies
+2020,Quebec,3.8575833333333334,veggies
+2020,Saskatchewan,3.7689166666666667,veggies
+2021,Alberta,3.6390833333333332,veggies
+2021,British Columbia,3.6704166666666667,veggies
+2021,Manitoba,3.51325,veggies
+2021,New Brunswick,4.015,veggies
+2021,Newfoundland and Labrador,4.327833333333333,veggies
+2021,Nova Scotia,3.991916666666667,veggies
+2021,Ontario,3.40525,veggies
+2021,Prince Edward Island,4.061083333333333,veggies
+2021,Quebec,3.576166666666667,veggies
+2021,Saskatchewan,3.6219166666666665,veggies
+2022,Alberta,4.062166666666667,veggies
+2022,British Columbia,4.132916666666667,veggies
+2022,Manitoba,3.9754166666666664,veggies
+2022,New Brunswick,4.338749999999999,veggies
+2022,Newfoundland and Labrador,4.655583333333333,veggies
+2022,Nova Scotia,4.341083333333334,veggies
+2022,Ontario,3.803,veggies
+2022,Prince Edward Island,4.44425,veggies
+2022,Quebec,3.8023333333333333,veggies
+2022,Saskatchewan,4.119166666666667,veggies
+2023,Alberta,4.45875,veggies
+2023,British Columbia,4.52625,veggies
+2023,Manitoba,4.332166666666667,veggies
+2023,New Brunswick,4.652749999999999,veggies
+2023,Newfoundland and Labrador,5.080416666666666,veggies
+2023,Nova Scotia,4.594166666666667,veggies
+2023,Ontario,3.9938333333333333,veggies
+2023,Prince Edward Island,4.729583333333333,veggies
+2023,Quebec,4.06725,veggies
+2023,Saskatchewan,4.473916666666667,veggies
+2024,Alberta,4.36325,veggies
+2024,British Columbia,4.44475,veggies
+2024,Manitoba,4.27725,veggies
+2024,New Brunswick,4.653375,veggies
+2024,Newfoundland and Labrador,5.069625,veggies
+2024,Nova Scotia,4.6015,veggies
+2024,Ontario,3.9996250000000004,veggies
+2024,Prince Edward Island,4.618,veggies
+2024,Quebec,4.131875,veggies
+2024,Saskatchewan,4.33975,veggies

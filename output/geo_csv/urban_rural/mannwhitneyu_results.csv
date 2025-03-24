@@ -1,0 +1,111 @@
+Product,U-Statistic,P-Value
+"Almonds, 200 grams",1.0,1.0
+"Apple juice, 2 litres",1.0,1.0
+"Apples, per kilogram",0.0,1.0
+"Avocado, unit",1.0,1.0
+"Baby food, 128 millilitres",1.0,1.0
+"Bacon, 500 grams",1.0,1.0
+"Bananas, per kilogram",0.0,1.0
+"Beef rib cuts, per kilogram",1.0,1.0
+"Beef stewing cuts, per kilogram",1.0,1.0
+"Beef striploin cuts, per kilogram",1.0,1.0
+"Beef top sirloin cuts, per kilogram",1.0,1.0
+"Block cheese, 500 grams",1.0,1.0
+"Broccoli, unit",0.0,1.0
+"Brown rice, 900 grams ",1.0,1.0
+"Butter, 454 grams",0.0,1.0
+"Cabbage, per kilogram",0.0,1.0
+"Canned baked beans, 398 millilitres",0.0,1.0
+"Canned beans and lentils, 540 millilitres",0.0,1.0
+"Canned corn, 341 millilitres",0.0,1.0
+"Canned peach, 398 millilitres",0.0,1.0
+"Canned pear, 398 millilitres",1.0,1.0
+"Canned salmon, 213 grams",1.0,1.0
+"Canned soup, 284 millilitres",0.0,1.0
+"Canned tomatoes, 796 millilitres",1.0,1.0
+"Canned tuna, 170 grams",1.0,1.0
+"Canola oil, 3 litres",0.0,1.0
+"Cantaloupe, unit",0.0,1.0
+"Carrots, 1.36 kilograms",0.0,1.0
+"Celery, unit",0.0,1.0
+"Cereal, 400 grams",0.0,1.0
+"Chicken breasts, per kilogram",0.0,1.0
+"Chicken drumsticks, per kilogram",0.0,1.0
+"Chicken thigh, per kilogram",1.0,1.0
+"Cookies and sweet biscuits, 300 grams ",0.0,1.0
+"Crackers and crisp breads, 200 grams ",1.0,1.0
+"Cream, 1 litre",0.0,1.0
+"Cucumber, unit",0.0,1.0
+"Deodorant, 85 grams",1.0,1.0
+"Dried lentils, 900 grams",1.0,1.0
+"Dry beans and legumes, 900 grams ",0.0,1.0
+"Dry or fresh pasta, 500 grams",1.0,1.0
+"Eggs, 1 dozen",1.0,1.0
+"Flatbread and pita, 500 grams ",0.0,1.0
+"Frozen broccoli, 500 grams",1.0,1.0
+"Frozen corn, 750 grams ",1.0,1.0
+"Frozen french fried potatoes, 750 grams",1.0,1.0
+"Frozen green beans, 750 grams",0.0,1.0
+"Frozen mixed vegetables, 750 grams ",1.0,1.0
+"Frozen peas, 750 grams",1.0,1.0
+"Frozen pizza, 390 grams",1.0,1.0
+"Frozen spinach, 300 grams",0.0,1.0
+"Frozen strawberries, 600 grams",1.0,1.0
+"Grapes, per kilogram",0.0,1.0
+"Ground beef, per kilogram",1.0,1.0
+"Hummus, 227 grams",1.0,1.0
+"Iceberg lettuce, unit",0.0,1.0
+"Infant formula, 900 grams ",1.0,1.0
+"Ketchup, 1 litre",1.0,1.0
+"Laundry detergent, 4.43 litres",1.0,1.0
+"Lemons, unit",0.0,1.0
+"Limes, unit",0.0,1.0
+"Margarine, 907 grams",1.0,1.0
+"Mayonnaise, 890 millilitres ",1.0,1.0
+"Meatless burgers, 226 grams",1.0,1.0
+"Milk, 1 litre",1.0,1.0
+"Milk, 2 litres",1.0,1.0
+"Milk, 4 litres",1.0,1.0
+"Mushrooms, 227 grams",0.0,1.0
+"Nut milk, 1.89 litres",1.0,1.0
+"Olive oil, 1 litre",0.0,1.0
+"Onions, 1.36 kilograms",0.0,1.0
+"Onions, per kilogram",0.0,1.0
+"Orange juice, 2 litres",0.0,1.0
+"Oranges, 1.36 kilograms",0.0,1.0
+"Oranges, per kilogram",0.0,1.0
+"Pasta sauce, 650 millilitres",1.0,1.0
+"Peanut butter, 1 kilogram",1.0,1.0
+"Peanuts, 450 grams",0.0,1.0
+"Pears, per kilogram",0.0,1.0
+"Peppers, per kilogram",0.0,1.0
+"Pork loin cuts, per kilogram",1.0,1.0
+"Pork rib cuts, per kilogram",1.0,1.0
+"Pork shoulder cuts, per kilogram",0.0,1.0
+"Potatoes, 4.54 kilograms",0.0,1.0
+"Potatoes, per kilogram",0.0,1.0
+"Roasted or ground coffee, 340 grams",1.0,1.0
+"Romaine lettuce, unit",0.0,1.0
+"Salad dressing, 475 millilitres",0.0,1.0
+"Salad greens, 142 grams",0.0,1.0
+"Salmon, per kilogram",1.0,1.0
+"Salsa, 418 millilitres",0.0,1.0
+"Shampoo, 400 millilitres",1.0,1.0
+"Shrimp, 300 grams",1.0,1.0
+"Soy milk, 1.89 litres",1.0,1.0
+"Squash, per kilogram",0.0,1.0
+"Strawberries, 454 grams",0.0,1.0
+"Sunflower seeds, 400 grams ",0.0,1.0
+"Sweet potatoes, per kilogram",0.0,1.0
+Tea (20 bags),0.0,1.0
+"Tofu, 350 grams ",1.0,1.0
+"Tomatoes, per kilogram",0.0,1.0
+"Toothpaste, 100 millilitres",0.0,1.0
+"Vegetable oil, 3 litres",0.0,1.0
+"Wheat flour, 2.5 kilograms",1.0,1.0
+"White bread, 675 grams",1.0,1.0
+"White rice, 2 kilograms",0.0,1.0
+"White sugar, 2 kilograms",0.0,1.0
+"Whole chicken, per kilogram",0.0,1.0
+"Wieners, 400 grams",1.0,1.0
+"Yogurt, 500 grams",0.0,1.0
