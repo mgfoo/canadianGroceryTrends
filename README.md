@@ -1,7 +1,7 @@
 # Food Prices in Canada: A Temporal and Geographic Examination
 
 ### CMPT353 Final Project By Daksh Patel and Michaela Foo
-
+## To read our final analysis and report, please download: Analyzing_Food_Prices_in_Canada__Trends__Regional_Disparities__and_Key_Insights.pdf
 ---
 ## Overview
 
